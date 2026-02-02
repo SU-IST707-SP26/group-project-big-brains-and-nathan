@@ -10,6 +10,16 @@ We will utilize data from the [collegefootballdata.com](https://collegefootballd
 ### Methods
 Our aim is to build a regression machine learning model that predicts a player’s Weighted Approximate Value based on college stats, predicted points added, usage rate, position, conference, & other basic statistics. Conference & position variables will require us to transform them into dummy variables so that the data can be transformed into a matrix format. Similarly, we will add a dummy variable for power 4 conferences, as these conferences are considered to be the very best in all of college football and as a result, have the best players in college football. This will allow the model to favor these players in their predictions as the lower values within these conferences could be due to going up against better competition rather than being worse to someone from a weaker conference. Another thing that we’ll need to do is scale the continuous features in our model. Our features are going to be on different scales, especially if we mix rate stats with season stats, so it’s important that we scale them so the model doesn’t favor one over the other when the model is being built out. Another avenue we want to explore is creating player similarity scores for players in the upcoming draft through a clustering process. This would help evaluators get a better idea of each player’s archetype and how that archetype may or may not fit their offensive system. We will use root mean squared error to evaluate our model’s accuracy, ensuring that our model provides us with accurate estimates that we can rely on in the future. 
 
+### Project Plan
+| Period | Activity | Milestone |
+|---|---|---|
+| 2/2–2/16 | Collect college football data from collegefootballdata.com <br/> Collect NFL data from profootballreference <br/> Collect combine data (?) <br/> Collect Draft data (?) | Get all data collection done. |
+| 2/16–3/2 | Preprocessing. Merging and cleaning data. | Have final dataset done by end of period, and start building out models. |
+| 3/2–3/16 | Start building out both XGBoost model for player score and clustering model for player comparisons. | Have the basic framework for models done and put ourselves into position to be able to start testing models next period. |
+| 3/16–3/30 | Test and improve on models. | Finalize the algorithm and all the parameters for the models. |
+| 3/30–4/13 | Finalize models and predictions, and begin data analysis. | Finish running models, get final predictions, analyze data. |
+| 4/13–4/27 | Write final report and create presentation. | Finish the project report, present our findings. |
+
 
 Risks: 
 
