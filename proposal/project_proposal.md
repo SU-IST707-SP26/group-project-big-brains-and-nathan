@@ -46,8 +46,6 @@ Our aim is to build a regression machine learning model that predicts a player�
 ### Risks
 A first possible risk or difficulty could be missing identifiers or name inconsistencies across datasets, reducing the amount of data. To fight this problem, we'll use multiply join keys as to mitigate the possibility of this running rampant. Longer careers could have an innate bias as they'll have more data, so including position and draft position will account for the natural inequities across these positions. Overfitting could be a problem, but through techniques like cross validation or regularization, we're hoping this will also be limited. The historical relationships from previous draft classes could not apply to current draft classes, schemes, or positional value as the league changes regularly, so our outputs will be framed as probablities of success or value instead of absolute values. Lastly, something like weighted approximate value could be an oversimplification of a player's success or value, so its impact will be tested and evaluated in combination with many other predictors to add nuance and clarity. 
 
-Hunter's notes- Team needs (not all need skill players), shockers (reaching for players, players falling down draft boards, trades), evaluating different archetypes of players (receiving back - CMC vs. workhorse back - Derrick Henry, blocking tight end vs. receiving tight end, yards after catch receiver vs. other)
-
 ##### Footnotes
 
 [^1]: Kitman Labs. “Predicting NFL Draft Success Using Machine Learning.” 2025.
