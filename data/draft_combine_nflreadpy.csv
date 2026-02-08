@@ -1,0 +1,955 @@
+,pfr_player_id,cfb_player_id,season,round,pick,team,pfr_player_name,position,category,college,w_av,car_av,dr_av,ht,wt,forty,bench,vertical,broad_jump,cone,shuttle,pfr_id,birth_date,height,weight,rookie_season,last_season,birth_year,age
+0,BortBl00,blake-bortles-1,2014,1,3,JAX,Blake Bortles,QB,QB,Central Florida,44.0,,44.0,6-5,232.0,4.93,,32.5,115.0,7.08,4.21,BortBl00,1992-04-28,77.0,236.0,2014.0,2021.0,1992.0,22.0
+1,WatkSa00,sammy-watkins-1,2014,1,4,BUF,Sammy Watkins,WR,WR,Clemson,43.0,,20.0,6-1,211.0,4.43,16.0,34.0,126.0,6.95,4.34,WatkSa00,1993-06-14,73.0,211.0,2014.0,2022.0,1993.0,21.0
+2,EvanMi00,mike-evans-4,2014,1,7,TAM,Mike Evans,WR,WR,Texas A&M,80.0,,80.0,6-5,231.0,4.53,12.0,37.0,,7.08,4.26,EvanMi00,1993-08-21,77.0,231.0,2014.0,2025.0,1993.0,21.0
+3,EbroEr00,eric-ebron-1,2014,1,10,DET,Eric Ebron,TE,TE,North Carolina,29.0,,15.0,6-4,250.0,4.6,24.0,32.0,120.0,,,EbroEr00,1993-04-10,76.0,253.0,2014.0,2021.0,1993.0,21.0
+4,BeckOd00,odell-beckham-jr-1,2014,1,12,NYG,Odell Beckham Jr.,WR,WR,LSU,59.0,,41.0,,,,,,,,,BeckOd00,1992-11-05,71.0,200.0,2014.0,2024.0,1992.0,22.0
+5,CookBr00,brandin-cooks-1,2014,1,20,NOR,Brandin Cooks,WR,WR,Oregon St.,73.0,,21.0,5-10,189.0,4.33,16.0,36.0,120.0,6.76,3.81,CookBr00,1993-09-25,70.0,190.0,2014.0,2025.0,1993.0,21.0
+6,ManzJo00,johnny-manziel-1,2014,1,22,CLE,Johnny Manziel,QB,QB,Texas A&M,4.0,,4.0,6-0,207.0,4.68,,31.5,113.0,6.75,4.03,ManzJo00,1992-12-06,72.0,210.0,2014.0,2015.0,1992.0,22.0
+7,BenjKe00,kelvin-benjamin-1,2014,1,28,CAR,Kelvin Benjamin,WR,WR,Florida St.,22.0,,18.0,6-5,240.0,4.61,13.0,32.5,119.0,7.33,4.39,BenjKe00,1991-02-05,77.0,245.0,2014.0,2018.0,1991.0,23.0
+8,BridTe00,teddy-bridgewater-1,2014,1,32,MIN,Teddy Bridgewater,QB,QB,Louisville,49.0,,22.0,6-2,214.0,,,30.0,113.0,7.17,4.2,BridTe00,1992-11-10,74.0,210.0,2014.0,2025.0,1992.0,22.0
+9,CarrDe02,derek-carr-1,2014,2,36,OAK,Derek Carr,QB,QB,Fresno St.,93.0,,80.0,6-2,214.0,4.69,,34.5,110.0,,4.2,CarrDe02,1991-03-28,75.0,215.0,2014.0,2024.0,1991.0,23.0
+10,SefeAu00,austin-seferian-jenkins-1,2014,2,38,TAM,Austin Seferian-Jenkins,TE,TE,Washington,9.0,,5.0,6-5,262.0,4.75,20.0,,,,,SefeAu00,1992-09-29,77.0,262.0,2014.0,2018.0,1992.0,22.0
+11,LeexMa00,marqise-lee-1,2014,2,39,JAX,Marqise Lee,WR,WR,USC,17.0,,17.0,6-0,192.0,4.52,,38.0,127.0,,4.01,LeexMa00,1991-11-25,72.0,196.0,2014.0,2020.0,1991.0,23.0
+12,MattJo00,jordan-matthews-1,2014,2,42,PHI,Jordan Matthews,WR,WR,Vanderbilt,23.0,,21.0,6-3,212.0,4.46,21.0,35.5,120.0,6.95,4.18,MattJo00,1992-07-16,75.0,212.0,2014.0,2024.0,1992.0,22.0
+13,RichPa01,paul-richardson-1,2014,2,45,SEA,Paul Richardson,WR,WR,Colorado,14.0,,11.0,6-0,175.0,4.4,,38.0,124.0,7.09,,RichPa01,1992-04-13,72.0,180.0,2014.0,2019.0,1992.0,22.0
+14,AmarJa00,jace-amaro-1,2014,2,49,NYJ,Jace Amaro,TE,TE,Texas Tech,4.0,,3.0,6-5,265.0,4.74,28.0,33.0,118.0,7.42,4.3,AmarJa00,1992-06-26,77.0,265.0,2014.0,2016.0,1992.0,22.0
+15,NiklTr00,troy-niklas-1,2014,2,52,ARI,Troy Niklas,TE,TE,Notre Dame,1.0,,1.0,6-6,270.0,4.84,27.0,32.0,114.0,7.57,4.55,NiklTr00,1992-09-18,78.0,270.0,2014.0,2017.0,1992.0,22.0
+16,AdamDa01,davante-adams-1,2014,2,53,GNB,Davante Adams,WR,WR,Fresno St.,92.0,,59.0,6-1,212.0,4.56,14.0,39.5,123.0,6.82,4.3,AdamDa01,1992-12-24,73.0,215.0,2014.0,2025.0,1992.0,22.0
+17,SankBi00,bishop-sankey-1,2014,2,54,TEN,Bishop Sankey,RB,RB,Washington,6.0,,6.0,5-9,209.0,4.49,26.0,35.5,126.0,6.75,4.0,SankBi00,1992-09-15,70.0,213.0,2014.0,2017.0,1992.0,22.0
+18,HillJe01,jeremy-hill-2,2014,2,55,CIN,Jeremy Hill,RB,RB,LSU,21.0,,21.0,6-1,233.0,4.56,20.0,29.0,113.0,,,HillJe01,1992-10-20,73.0,230.0,2014.0,2018.0,1992.0,22.0
+19,LatiCo00,cody-latimer-1,2014,2,56,DEN,Cody Latimer,WR,WR,Indiana,6.0,,3.0,6-2,215.0,4.52,23.0,,,,,LatiCo00,1992-10-10,75.0,222.0,2014.0,2019.0,1992.0,22.0
+20,HydeCa00,carlos-hyde-1,2014,2,57,SFO,Carlos Hyde,RB,RB,Ohio St.,32.0,,18.0,6-0,230.0,4.62,19.0,34.5,114.0,,,HydeCa00,1990-09-20,72.0,230.0,2014.0,2021.0,1990.0,24.0
+21,RobiAl02,allen-robinson-1,2014,2,61,JAX,Allen Robinson,WR,WR,Penn St.,48.0,,18.0,6-3,220.0,4.6,,39.0,127.0,7.0,4.0,RobiAl02,1993-08-24,74.0,220.0,2014.0,2024.0,1993.0,21.0
+22,GaroJi00,,2014,2,62,NWE,Jimmy Garoppolo,QB,QB,Eastern Illinois,47.0,,2.0,6-2,226.0,4.97,,30.5,110.0,7.04,4.26,GaroJi00,1991-11-02,74.0,225.0,2014.0,2025.0,1991.0,23.0
+23,LandJa00,jarvis-landry-1,2014,2,63,MIA,Jarvis Landry,WR,WR,LSU,56.0,,28.0,5-11,205.0,4.65,12.0,28.5,110.0,,,LandJa00,1992-11-28,71.0,202.0,2014.0,2022.0,1992.0,22.0
+24,FiedC.00,cj-fiedorowicz-1,2014,3,65,HOU,C.J. Fiedorowicz,TE,TE,Iowa,6.0,,6.0,6-5,265.0,4.76,25.0,31.5,116.0,7.1,4.26,FiedC.00,1991-10-22,77.0,265.0,2014.0,2017.0,1991.0,23.0
+25,SimsCh00,charles-sims-1,2014,3,69,TAM,Charles Sims,RB,RB,West Virginia,13.0,,13.0,,,,,,,,,SimsCh00,1990-09-19,72.0,211.0,2014.0,2017.0,1990.0,24.0
+26,MasoTr00,tre-mason-1,2014,3,75,STL,Tre Mason,RB,RB,Auburn,8.0,,8.0,5-8,207.0,4.5,,38.5,126.0,,4.15,MasoTr00,1993-08-06,68.0,207.0,2014.0,2016.0,1993.0,21.0
+27,HuffJo00,josh-huff-1,2014,3,86,PHI,Josh Huff,WR,WR,Oregon,6.0,,6.0,5-11,206.0,4.51,14.0,35.5,116.0,,,HuffJo00,1991-10-14,71.0,206.0,2014.0,2016.0,1991.0,23.0
+28,MoncDo00,donte-moncrief-1,2014,3,90,IND,Donte Moncrief,WR,WR,Mississippi,18.0,,15.0,6-2,221.0,4.4,13.0,39.5,132.0,7.02,4.3,MoncDo00,1993-08-06,74.0,215.0,2014.0,2020.0,1993.0,21.0
+29,BrowJo02,,2014,3,91,ARI,John Brown,WR,WR,Pittsburg St.,36.0,,19.0,5-10,179.0,4.34,,36.5,119.0,6.91,4.12,BrowJo02,1990-04-03,70.0,178.0,2014.0,2022.0,1990.0,24.0
+30,WestTe00,,2014,3,94,CLE,Terrance West,RB,RB,Towson,11.0,,3.0,5-9,225.0,4.56,16.0,33.5,120.0,,,WestTe00,1991-01-28,70.0,225.0,2014.0,2017.0,1991.0,23.0
+31,McKiJe00,,2014,3,96,MIN,Jerick McKinnon,RB,RB,Georgia Southern,32.0,,20.0,5-9,209.0,4.41,32.0,40.5,132.0,6.83,4.12,McKiJe00,1992-05-03,69.0,209.0,2014.0,2023.0,1992.0,22.0
+32,ArchDr00,dri-archer-1,2014,3,97,PIT,Dri Archer,WR,WR,Kent St.,0.0,,0.0,5-8,173.0,4.26,20.0,38.0,122.0,6.86,4.06,ArchDr00,1991-08-09,68.0,173.0,2014.0,2016.0,1991.0,23.0
+33,RodgRi00,richard-rodgers-1,2014,3,98,GNB,Richard Rodgers,TE,TE,California,14.0,,11.0,6-4,257.0,4.87,16.0,31.5,116.0,7.23,4.47,RodgRi00,1992-01-22,76.0,257.0,2014.0,2022.0,1992.0,22.0
+34,GillCr00,crockett-gillmore-1,2014,3,99,BAL,Crockett Gillmore,TE,TE,Colorado St.,4.0,,4.0,6-6,260.0,4.89,,33.5,120.0,7.42,4.44,GillCr00,1991-11-16,78.0,266.0,2014.0,2017.0,1991.0,23.0
+35,FreeDe00,devonta-freeman-1,2014,4,103,ATL,Devonta Freeman,RB,RB,Florida St.,49.0,,45.0,5-8,206.0,4.58,,31.5,118.0,7.11,4.26,FreeDe00,1992-03-15,68.0,206.0,2014.0,2021.0,1992.0,22.0
+36,SaunJa00,jalen-saunders-1,2014,4,104,NYJ,Jalen Saunders,WR,WR,Oklahoma,0.0,,0.0,5-9,165.0,4.44,,34.0,122.0,,,SaunJa00,1992-09-30,69.0,165.0,2014.0,2015.0,1992.0,22.0
+37,ElliBr00,bruce-ellington-1,2014,4,106,SFO,Bruce Ellington,WR,WR,South Carolina,7.0,,2.0,5-9,197.0,4.45,15.0,39.5,120.0,6.69,3.95,ElliBr00,1991-08-22,69.0,200.0,2014.0,2018.0,1991.0,23.0
+38,WillAn00,andre-williams-2,2014,4,113,NYG,Andre Williams,RB,RB,Boston Col.,7.0,,6.0,5-11,230.0,4.56,,38.0,129.0,7.27,4.06,WillAn00,1992-08-28,72.0,220.0,2014.0,2017.0,1992.0,22.0
+39,EvanSh00,shaquelle-evans-1,2014,4,115,NYJ,Shaquelle Evans,WR,WR,UCLA,,,,6-1,213.0,4.51,13.0,34.5,122.0,7.07,4.21,EvanSh00,1991-03-07,73.0,210.0,2014.0,2016.0,1991.0,23.0
+40,CareKa00,kadeem-carey-1,2014,4,117,CHI,Ka'Deem Carey,RB,RB,Arizona,3.0,,3.0,5-9,207.0,4.69,19.0,32.5,115.0,7.08,4.38,CareKa00,1992-10-30,70.0,215.0,2014.0,2016.0,1992.0,22.0
+41,BryaMa00,martavis-bryant-1,2014,4,118,PIT,Martavis Bryant,WR,WR,Clemson,19.0,,17.0,6-4,211.0,4.42,16.0,39.0,124.0,7.18,4.15,BryaMa00,1991-12-20,76.0,210.0,2014.0,2023.0,1991.0,23.0
+42,ThomLo00,logan-thomas-1,2014,4,120,ARI,Logan Thomas,QB,QB,Virginia Tech,15.0,,0.0,6-6,248.0,4.61,,35.5,118.0,7.05,4.18,ThomLo00,1991-07-01,78.0,250.0,2014.0,2023.0,1991.0,23.0
+43,NorwKe00,kevin-norwood-1,2014,4,123,SEA,Kevin Norwood,WR,WR,Alabama,1.0,,1.0,6-2,198.0,4.48,8.0,33.0,121.0,6.68,4.32,NorwKe00,1989-09-23,74.0,212.0,2014.0,2017.0,1989.0,25.0
+44,ThomDe05,deanthony-thomas-1,2014,4,124,KAN,De'Anthony Thomas,RB,RB,Oregon,7.0,,7.0,5-9,174.0,4.39,8.0,32.0,124.0,,,ThomDe05,1993-01-05,68.0,176.0,2014.0,2020.0,1993.0,21.0
+45,WhitJa02,james-white-2,2014,4,130,NWE,James White,RB,RB,Wisconsin,37.0,,37.0,5-9,204.0,4.57,23.0,32.0,114.0,7.05,4.2,WhitJa02,1992-02-03,70.0,205.0,2014.0,2021.0,1992.0,22.0
+46,SavaTo00,tom-savage-1,2014,4,135,HOU,Tom Savage,QB,QB,Pittsburgh,3.0,,3.0,6-4,228.0,4.97,,27.0,105.0,7.33,4.36,SavaTo00,1990-04-26,76.0,230.0,2014.0,2018.0,1990.0,24.0
+47,TaliLo00,,2014,4,138,BAL,Lorenzo Taliaferro,RB,RB,Coastal Carolina,3.0,,3.0,6-0,229.0,4.58,18.0,33.0,118.0,6.88,4.22,TaliLo00,1991-12-23,72.0,225.0,2014.0,2016.0,1991.0,23.0
+48,GranRy01,ryan-grant-2,2014,5,142,WAS,Ryan Grant,WR,WR,Tulane,10.0,,7.0,6-0,199.0,4.64,8.0,35.5,119.0,6.68,4.11,GranRy01,1990-12-19,72.0,194.0,2014.0,2019.0,1990.0,24.0
+49,StreDe00,devin-street-1,2014,5,146,DAL,Devin Street,WR,WR,Pittsburgh,1.0,,1.0,6-3,198.0,4.55,,37.0,124.0,6.89,4.01,StreDe00,1991-03-30,75.0,200.0,2014.0,2016.0,1991.0,23.0
+50,LyncAr00,arthur-lynch-1,2014,5,155,MIA,Arthur Lynch,TE,TE,Georgia,,,,6-5,258.0,4.82,28.0,29.5,116.0,7.38,4.35,LyncAr00,1990-06-17,77.0,252.0,2014.0,2015.0,1990.0,24.0
+51,MurrAa00,aaron-murray-1,2014,5,163,KAN,Aaron Murray,QB,QB,Georgia,,,,6-0,207.0,4.84,,,,,,MurrAa00,1990-11-10,73.0,207.0,2014.0,2016.0,1990.0,24.0
+52,McCaA.00,aj-mccarron-1,2014,5,164,CIN,A.J. McCarron,QB,QB,Alabama,4.0,,3.0,6-3,220.0,4.94,,28.0,99.0,7.18,4.34,McCaA.00,1990-09-13,75.0,220.0,2014.0,2023.0,1990.0,24.0
+53,AbbrJa00,jared-abbrederis-1,2014,5,176,GNB,Jared Abbrederis,WR,WR,Wisconsin,1.0,,1.0,6-1,195.0,4.5,4.0,30.5,117.0,6.8,4.08,AbbrJa00,1990-12-17,73.0,195.0,2014.0,2017.0,1990.0,24.0
+54,MettZa00,zach-mettenberger-1,2014,6,178,TEN,Zach Mettenberger,QB,QB,LSU,1.0,,1.0,6-5,224.0,,,,,,,MettZa00,1991-07-16,77.0,224.0,2014.0,2016.0,1991.0,23.0
+55,BlueAl00,alfred-blue-1,2014,6,181,HOU,Alfred Blue,RB,RB,LSU,18.0,,18.0,6-2,223.0,4.63,13.0,32.0,121.0,7.15,4.5,BlueAl00,1991-04-27,74.0,225.0,2014.0,2019.0,1991.0,23.0
+56,FaleDa00,david-fales-1,2014,6,183,CHI,David Fales,QB,QB,San Jose St.,1.0,,0.0,6-2,212.0,4.99,,28.0,103.0,7.55,4.5,FaleDa00,1990-10-04,74.0,213.0,2014.0,2020.0,1990.0,24.0
+57,HerrRo00,robert-herron-1,2014,6,185,TAM,Robert Herron,WR,WR,Wyoming,0.0,,0.0,5-9,193.0,4.48,18.0,35.5,125.0,6.84,4.27,HerrRo00,1992-06-02,69.0,193.0,2014.0,2015.0,1992.0,22.0
+58,SeasLa00,lache-seastrunk-1,2014,6,186,WAS,Lache Seastrunk,RB,RB,Baylor,,,,5-9,201.0,4.51,15.0,41.5,134.0,,,SeasLa00,1991-07-29,69.0,200.0,2014.0,2014.0,1991.0,23.0
+59,JoneT.00,tj-jones-2,2014,6,189,DET,T.J. Jones,WR,WR,Notre Dame,7.0,,7.0,6-0,188.0,4.46,,33.0,119.0,6.82,4.27,JoneT.00,1992-07-19,72.0,190.0,2014.0,2019.0,1992.0,22.0
+60,HazeMa01,,2014,6,190,MIA,Matt Hazel,WR,WR,Coastal Carolina,0.0,,0.0,6-1,198.0,4.5,15.0,36.5,118.0,7.08,4.2,HazeMa01,1992-01-23,73.0,195.0,2014.0,2018.0,1992.0,22.0
+61,WennKe00,keith-wenning-1,2014,6,194,BAL,Keith Wenning,QB,QB,Ball St.,,,,6-3,218.0,5.0,,28.0,100.0,7.07,4.25,WennKe00,1991-02-14,75.0,225.0,2014.0,2016.0,1991.0,23.0
+62,PoweWa00,,2014,6,196,ARI,Walt Powell,WR,WR,Murray St.,1.0,,,,,,,,,,,PoweWa00,1991-11-23,72.0,189.0,2014.0,2017.0,1991.0,23.0
+63,GricMa00,marion-grice-1,2014,6,201,SDG,Marion Grice,RB,RB,Arizona St.,0.0,,,6-0,208.0,4.67,,,,,,GricMa00,1991-04-10,72.0,208.0,2014.0,2015.0,1991.0,23.0
+64,GaffTy00,tyler-gaffney-1,2014,6,204,CAR,Tyler Gaffney,RB,RB,Stanford,,,,5-11,220.0,4.49,,36.5,116.0,6.78,4.18,GaffTy00,1991-04-20,72.0,220.0,2014.0,2020.0,1991.0,23.0
+65,EnunQu00,quincy-enunwa-1,2014,6,209,NYJ,Quincy Enunwa,WR,WR,Nebraska,13.0,,13.0,6-2,225.0,4.41,19.0,,,,,EnunQu00,1992-05-31,74.0,225.0,2014.0,2019.0,1992.0,22.0
+66,BoydTa00,tajh-boyd-1,2014,6,213,NYJ,Tajh Boyd,QB,QB,Clemson,,,,6-1,222.0,4.84,,30.5,106.0,7.33,4.23,,,,,,,,
+67,GilbGa01,garrett-gilbert-1,2014,6,214,STL,Garrett Gilbert,QB,QB,SMU,2.0,,,,,,,,,,,GilbGa01,1991-07-01,76.0,221.0,2014.0,2022.0,1991.0,23.0
+68,BolsTe00,ted-bolser-1,2014,7,217,WAS,Ted Bolser,TE,TE,Indiana,,,,,,,,,,,,BolsTe00,1990-10-22,77.0,249.0,2014.0,2014.0,1990.0,24.0
+69,CampMi02,michael-campanaro-1,2014,7,218,BAL,Michael Campanaro,WR,WR,Wake Forest,4.0,,4.0,5-9,192.0,4.46,20.0,39.0,122.0,6.77,4.01,CampMi02,1991-01-25,69.0,191.0,2014.0,2018.0,1991.0,23.0
+70,JohnSt03,storm-johnson-1,2014,7,222,JAX,Storm Johnson,RB,RB,Central Florida,0.0,,0.0,6-0,209.0,4.6,16.0,35.5,118.0,,,JohnSt03,1992-07-10,72.0,216.0,2014.0,2016.0,1992.0,22.0
+71,SmalKi00,kiero-small-1,2014,7,227,SEA,Kiero Small,RB,RB,Arkansas,0.0,,,,,,,,,,,SmalKi00,1989-05-01,68.0,244.0,2014.0,2014.0,1989.0,25.0
+72,BlanRo01,rob-blanchflower-1,2014,7,230,PIT,Rob Blanchflower,TE,TE,Massachusetts,,,,6-4,256.0,4.82,,,,,,BlanRo01,1990-06-08,76.0,256.0,2014.0,2015.0,1990.0,24.0
+73,JaniJe00,,2014,7,236,GNB,Jeff Janis,WR,WR,Saginaw Valley St.,2.0,,2.0,6-3,219.0,4.42,20.0,37.5,123.0,6.64,3.98,JaniJe00,1991-06-24,75.0,219.0,2014.0,2017.0,1991.0,23.0
+74,WrigJa03,james-wright-4,2014,7,239,CIN,James Wright,WR,WR,LSU,2.0,,2.0,,,,,,,,,WrigJa03,1991-12-31,73.0,203.0,2014.0,2018.0,1991.0,23.0
+75,ReesTe00,tevin-reese-1,2014,7,240,SDG,Tevin Reese,WR,WR,Baylor,,,,5-10,163.0,4.46,,41.0,132.0,6.63,4.18,ReesTe00,1991-01-02,71.0,163.0,2014.0,2014.0,1991.0,23.0
+76,GallJe00,jeremy-gallon-1,2014,7,244,NWE,Jeremy Gallon,WR,WR,Michigan,,,,5-7,185.0,4.49,15.0,,,,,,,,,,,,
+77,WinsJa00,jameis-winston-1,2015,1,1,TAM,Jameis Winston,QB,QB,Florida St.,63.0,,54.0,6-4,231.0,4.97,,28.5,103.0,7.16,4.36,WinsJa00,1994-01-06,76.0,231.0,2015.0,2025.0,1994.0,21.0
+78,MariMa01,marcus-mariota-1,2015,1,2,TEN,Marcus Mariota,QB,QB,Oregon,60.0,,43.0,6-4,222.0,4.52,,36.0,121.0,6.87,4.11,MariMa01,1993-10-30,76.0,222.0,2015.0,2025.0,1993.0,22.0
+79,CoopAm00,amari-cooper-1,2015,1,4,OAK,Amari Cooper,WR,WR,Alabama,66.0,,22.0,6-1,211.0,4.42,,33.0,120.0,6.71,3.98,CoopAm00,1994-06-17,73.0,210.0,2015.0,2024.0,1994.0,21.0
+80,WhitKe00,kevin-white-6,2015,1,7,CHI,Kevin White,WR,WR,West Virginia,3.0,,2.0,6-3,215.0,4.35,23.0,36.5,123.0,6.92,4.14,WhitKe00,1992-06-25,75.0,216.0,2015.0,2022.0,1992.0,23.0
+81,GurlTo01,todd-gurley-1,2015,1,10,STL,Todd Gurley,RB,RB,Georgia,54.0,,50.0,6-1,222.0,4.52,17.0,,,,,GurlTo01,1994-08-03,73.0,224.0,2015.0,2020.0,1994.0,21.0
+82,ParkDe01,devante-parker-1,2015,1,14,MIA,DeVante Parker,WR,WR,Louisville,36.0,,32.0,6-3,209.0,4.45,17.0,36.5,125.0,,,ParkDe01,1993-01-20,75.0,215.0,2015.0,2023.0,1993.0,22.0
+83,GordMe00,melvin-gordon-1,2015,1,15,SDG,Melvin Gordon,RB,RB,Wisconsin,51.0,,38.0,6-1,215.0,4.52,19.0,35.0,126.0,7.04,4.07,GordMe00,1993-04-13,73.0,215.0,2015.0,2023.0,1993.0,22.0
+84,AghoNe00,nelson-agholor-1,2015,1,20,PHI,Nelson Agholor,WR,WR,USC,36.0,,18.0,6-0,198.0,4.42,12.0,,,,,AghoNe00,1993-05-24,72.0,200.0,2015.0,2024.0,1993.0,22.0
+85,PerrBr02,breshad-perriman-1,2015,1,26,BAL,Breshad Perriman,WR,WR,Central Florida,15.0,,4.0,6-2,212.0,,,,,,,PerrBr02,1993-09-10,74.0,215.0,2015.0,2022.0,1993.0,22.0
+86,DorsPh00,phillip-dorsett-1,2015,1,29,IND,Phillip Dorsett,WR,WR,Miami (FL),16.0,,7.0,5-10,185.0,4.33,13.0,37.0,122.0,6.7,4.11,DorsPh00,1993-01-05,70.0,192.0,2015.0,2025.0,1993.0,22.0
+87,YeldT.00,tj-yeldon-1,2015,2,36,JAX,T.J. Yeldon,RB,RB,Alabama,20.0,,19.0,6-1,226.0,4.61,22.0,36.0,117.0,7.19,4.22,YeldT.00,1993-10-02,73.0,223.0,2015.0,2020.0,1993.0,22.0
+88,SmitDe04,devin-smith-2,2015,2,37,NYJ,Devin Smith,WR,WR,Ohio St.,2.0,,1.0,6-0,196.0,4.42,10.0,39.0,122.0,,4.15,SmitDe04,1992-03-03,73.0,199.0,2015.0,2021.0,1992.0,23.0
+89,GreeDo00,dorial-green-beckham-1,2015,2,40,TEN,Dorial Green-Beckham,WR,WR,Oklahoma,7.0,,4.0,6-5,237.0,4.49,13.0,33.5,119.0,6.89,4.45,GreeDo00,1993-04-12,77.0,237.0,2015.0,2016.0,1993.0,22.0
+90,FuncDe00,devin-funchess-1,2015,2,41,CAR,Devin Funchess,WR,WR,Michigan,20.0,,20.0,6-4,232.0,4.7,17.0,38.5,122.0,,,FuncDe00,1994-05-21,76.0,225.0,2015.0,2021.0,1994.0,21.0
+91,AbduAm00,ameer-abdullah-1,2015,2,54,DET,Ameer Abdullah,RB,RB,Nebraska,22.0,,10.0,5-9,205.0,4.6,24.0,42.5,130.0,6.79,3.95,AbduAm00,1993-06-13,69.0,203.0,2015.0,2025.0,1993.0,22.0
+92,WillMa04,maxx-williams-1,2015,2,55,BAL,Maxx Williams,TE,TE,Minnesota,8.0,,4.0,6-4,249.0,4.78,17.0,34.5,117.0,7.3,4.37,WillMa04,1994-04-12,76.0,252.0,2015.0,2022.0,1994.0,21.0
+93,WalfCl00,clive-walford-1,2015,3,68,OAK,Clive Walford,TE,TE,Miami (FL),7.0,,7.0,6-4,251.0,4.79,20.0,35.0,120.0,7.32,4.57,WalfCl00,1991-10-01,76.0,252.0,2015.0,2019.0,1991.0,24.0
+94,LockTy00,tyler-lockett-1,2015,3,69,SEA,Tyler Lockett,WR,WR,Kansas St.,68.0,,67.0,5-10,182.0,4.4,,35.5,121.0,6.89,4.07,LockTy00,1992-09-28,70.0,182.0,2015.0,2025.0,1992.0,23.0
+95,StroJa01,jaelen-strong-1,2015,3,70,HOU,Jaelen Strong,WR,WR,Arizona St.,2.0,,2.0,6-2,217.0,4.44,,42.0,123.0,,,StroJa01,1994-01-25,74.0,220.0,2015.0,2017.0,1994.0,21.0
+96,ColeTe01,tevin-coleman-1,2015,3,73,ATL,Tevin Coleman,RB,RB,Indiana,33.0,,25.0,5-11,206.0,4.4,22.0,,,,,ColeTe01,1993-04-16,73.0,210.0,2015.0,2022.0,1993.0,22.0
+97,GrayGa00,garrett-grayson-1,2015,3,75,NOR,Garrett Grayson,QB,QB,Colorado St.,,,,6-2,213.0,4.75,,,,,,GrayGa00,1991-05-29,74.0,220.0,2015.0,2018.0,1991.0,24.0
+98,ConlCh00,chris-conley-1,2015,3,76,KAN,Chris Conley,WR,WR,Georgia,23.0,,11.0,6-2,213.0,4.35,18.0,45.0,139.0,7.06,4.3,ConlCh00,1992-10-25,75.0,205.0,2015.0,2024.0,1992.0,23.0
+99,JohnDu00,duke-johnson-1,2015,3,77,CLE,Duke Johnson,RB,RB,Miami (FL),28.0,,18.0,5-9,207.0,4.54,,33.5,121.0,,,JohnDu00,1993-09-23,69.0,210.0,2015.0,2022.0,1993.0,22.0
+100,KrofTy00,tyler-kroft-1,2015,3,85,CIN,Tyler Kroft,TE,TE,Rutgers,9.0,,6.0,6-5,246.0,4.75,17.0,,,,,KrofTy00,1992-10-15,78.0,252.0,2015.0,2023.0,1992.0,23.0
+101,JohnDa08,,2015,3,86,ARI,David Johnson,RB,RB,Northern Iowa,42.0,,33.0,6-1,224.0,4.5,25.0,41.5,127.0,6.82,4.27,JohnDa08,1991-12-16,73.0,224.0,2015.0,2022.0,1991.0,24.0
+102,CoatSa00,sammie-coates-1,2015,3,87,PIT,Sammie Coates,WR,WR,Auburn,4.0,,4.0,6-1,212.0,4.43,23.0,41.0,131.0,6.98,4.06,CoatSa00,1993-03-31,73.0,210.0,2015.0,2018.0,1993.0,22.0
+103,MannSe00,sean-mannion-1,2015,3,89,STL,Sean Mannion,QB,QB,Oregon St.,2.0,,1.0,6-6,229.0,5.14,,31.0,105.0,7.29,4.39,MannSe00,1992-04-25,78.0,230.0,2015.0,2023.0,1992.0,23.0
+104,HeueJe00,jeff-heuerman-1,2015,3,92,DEN,Jeff Heuerman,TE,TE,Ohio St.,5.0,,5.0,6-5,254.0,4.81,26.0,,,,,HeueJe00,1992-11-24,77.0,255.0,2015.0,2019.0,1992.0,23.0
+105,MontTy01,ty-montgomery-1,2015,3,94,GNB,Ty Montgomery,WR,WR,Stanford,17.0,,13.0,6-0,221.0,4.55,,40.5,121.0,6.97,4.21,MontTy01,1993-01-22,72.0,220.0,2015.0,2023.0,1993.0,22.0
+106,JoneMa04,matt-jones-3,2015,3,95,WAS,Matt Jones,RB,RB,Florida,9.0,,9.0,6-2,231.0,4.61,20.0,31.5,112.0,,4.2,JoneMa04,1993-03-07,74.0,239.0,2015.0,2017.0,1993.0,22.0
+107,PettBr01,bryce-petty-1,2015,4,103,NYJ,Bryce Petty,QB,QB,Baylor,4.0,,4.0,6-3,230.0,4.87,,34.0,121.0,6.91,4.13,PettBr01,1991-05-31,75.0,226.0,2015.0,2018.0,1991.0,24.0
+108,CrowJa00,jamison-crowder-1,2015,4,105,WAS,Jamison Crowder,WR,WR,Duke,33.0,,22.0,5-8,185.0,4.56,10.0,37.0,115.0,7.17,4.32,CrowJa00,1993-06-17,69.0,177.0,2015.0,2024.0,1993.0,22.0
+109,LangJe00,jeremy-langford-1,2015,4,106,CHI,Jeremy Langford,RB,RB,Michigan St.,7.0,,7.0,6-0,208.0,4.42,,34.5,118.0,7.22,4.32,LangJe00,1991-12-06,72.0,211.0,2015.0,2018.0,1991.0,24.0
+110,HardJu00,justin-hardy-1,2015,4,107,ATL,Justin Hardy,WR,WR,East Carolina,8.0,,8.0,5-10,192.0,4.56,11.0,36.5,114.0,6.63,4.21,HardJu00,1991-12-18,70.0,192.0,2015.0,2019.0,1991.0,24.0
+111,BellBl00,blake-bell-1,2015,4,117,SFO,Blake Bell,TE,TE,Oklahoma,5.0,,2.0,6-6,252.0,4.8,14.0,33.0,116.0,6.85,4.32,BellBl00,1991-08-07,78.0,252.0,2015.0,2023.0,1991.0,24.0
+112,MaylVi00,vince-mayle-1,2015,4,123,CLE,Vince Mayle,WR,WR,Washington St.,0.0,,,6-2,224.0,4.67,,35.5,117.0,6.93,4.13,MaylVi00,1991-06-12,74.0,247.0,2015.0,2019.0,1991.0,24.0
+113,AlleJa01,javorius-allen-1,2015,4,125,BAL,Javorius Allen,RB,RB,USC,14.0,,14.0,6-0,221.0,4.53,11.0,35.5,121.0,6.96,4.28,AlleJa01,1991-08-27,72.0,218.0,2015.0,2019.0,1991.0,24.0
+114,DaviMi01,mike-davis-9,2015,4,126,SFO,Mike Davis,RB,RB,South Carolina,20.0,,1.0,5-9,217.0,4.61,17.0,34.0,116.0,7.0,4.18,DaviMi01,1993-02-19,69.0,223.0,2015.0,2022.0,1993.0,22.0
+115,SmelDe00,deandre-smelter-1,2015,4,132,SFO,DeAndre Smelter,WR,WR,Georgia Tech,0.0,,0.0,6-2,226.0,4.52,,,,,,SmelDe00,1991-12-03,74.0,227.0,2015.0,2017.0,1991.0,24.0
+116,CobbDa00,david-cobb-1,2015,5,138,TEN,David Cobb,RB,RB,Minnesota,1.0,,1.0,5-11,229.0,4.81,17.0,38.5,121.0,,,CobbDa00,1993-06-03,71.0,229.0,2015.0,2016.0,1993.0,22.0
+117,GreeRa00,rashad-greene-1,2015,5,139,JAX,Rashad Greene,WR,WR,Florida St.,2.0,,2.0,5-11,182.0,4.53,,36.5,122.0,6.88,4.12,GreeRa00,1992-09-23,71.0,186.0,2015.0,2018.0,1992.0,23.0
+118,PruiMy00,,2015,5,143,MIN,MyCole Pruitt,TE,TE,Southern Illinois,7.0,,1.0,6-2,251.0,4.58,17.0,38.0,118.0,7.25,4.37,PruiMy00,1992-03-24,74.0,258.0,2015.0,2024.0,1992.0,23.0
+119,DiggSt00,stefon-diggs-1,2015,5,146,MIN,Stefon Diggs,WR,WR,Maryland,90.0,,32.0,6-0,195.0,4.46,,35.0,115.0,7.03,4.32,DiggSt00,1993-11-29,72.0,191.0,2015.0,2025.0,1993.0,22.0
+120,HundBr00,brett-hundley-1,2015,5,147,GNB,Brett Hundley,QB,QB,UCLA,5.0,,5.0,6-3,226.0,4.63,,36.0,120.0,6.93,3.98,HundBr00,1993-06-15,75.0,226.0,2015.0,2022.0,1993.0,22.0
+121,AjayJa00,jay-ajayi-1,2015,5,149,MIA,Jay Ajayi,RB,RB,Boise St.,19.0,,14.0,6-0,221.0,4.57,19.0,39.0,121.0,7.1,4.1,AjayJa00,1993-06-15,72.0,223.0,2015.0,2019.0,1993.0,22.0
+122,WillKa01,karlos-williams-1,2015,5,155,BUF,Karlos Williams,RB,RB,Florida St.,4.0,,4.0,6-1,230.0,4.48,16.0,33.5,117.0,7.16,4.46,WillKa01,1993-05-04,73.0,230.0,2015.0,2016.0,1993.0,22.0
+123,LippTo00,tony-lippett-1,2015,5,156,MIA,Tony Lippett,WR,WR,Michigan St.,6.0,,6.0,6-2,192.0,4.61,10.0,36.0,114.0,6.92,4.13,LippTo00,1992-07-02,75.0,192.0,2015.0,2018.0,1992.0,23.0
+124,UzomC.00,cj-uzomah-1,2015,5,157,CIN,C.J. Uzomah,TE,TE,Auburn,14.0,,13.0,,,,,,,,,UzomC.00,1993-01-14,78.0,271.0,2015.0,2024.0,1993.0,22.0
+125,NelsJJ00,,2015,5,159,ARI,JJ Nelson,WR,WR,Ala-Birmingham,12.0,,12.0,,,,,,,,,NelsJJ00,1992-04-24,70.0,160.0,2015.0,2021.0,1992.0,23.0
+126,JameJe00,jesse-james-1,2015,5,160,PIT,Jesse James,TE,TE,Penn St.,12.0,,10.0,6-7,261.0,4.83,26.0,37.5,121.0,7.53,4.5,JameJe00,1994-06-04,79.0,261.0,2015.0,2023.0,1994.0,21.0
+127,BellKe02,kenny-bell-2,2015,5,162,TAM,Kenny Bell,WR,WR,Nebraska,,,,6-1,197.0,4.42,7.0,41.5,129.0,6.66,4.15,BellKe02,1992-02-25,73.0,188.0,2015.0,2017.0,1992.0,23.0
+128,BoylNi00,,2015,5,171,BAL,Nick Boyle,TE,TE,Delaware,9.0,,9.0,6-4,268.0,5.04,20.0,30.5,112.0,7.13,4.23,BoylNi00,1993-02-17,76.0,261.0,2015.0,2022.0,1993.0,22.0
+129,O'ShJa00,,2015,5,173,KAN,James O'Shaughnessy,TE,TE,Illinois St.,7.0,,1.0,,,,,,,,,O'ShJa00,1992-01-14,76.0,245.0,2015.0,2022.0,1992.0,23.0
+130,ArtiCa00,cameron-artis-payne-1,2015,5,174,CAR,Cameron Artis-Payne,RB,RB,Auburn,5.0,,5.0,5-10,212.0,4.53,,36.5,118.0,7.13,,ArtiCa00,1990-06-23,70.0,215.0,2015.0,2018.0,1990.0,25.0
+131,MumpKe00,keith-mumphery-1,2015,5,175,HOU,Keith Mumphery,WR,WR,Michigan St.,2.0,,2.0,6-0,215.0,4.54,,32.5,121.0,7.07,4.25,MumpKe00,1992-06-05,72.0,210.0,2015.0,2016.0,1992.0,23.0
+132,ClayKa00,kaelin-clay-1,2015,6,184,TAM,Kaelin Clay,WR,WR,Utah,3.0,,,5-10,195.0,4.51,10.0,33.0,113.0,6.97,4.26,ClayKa00,1992-01-02,70.0,195.0,2015.0,2018.0,1992.0,23.0
+133,DaviGe00,geremy-davis-1,2015,6,186,NYG,Geremy Davis,WR,WR,Connecticut,0.0,,0.0,6-2,216.0,4.49,23.0,36.5,124.0,6.86,4.18,DaviGe00,1992-01-10,75.0,211.0,2015.0,2019.0,1992.0,23.0
+134,SpenEv00,evan-spencer-1,2015,6,187,WAS,Evan Spencer,WR,WR,Ohio St.,0.0,,,,,,,,,,,SpenEv00,1993-05-26,74.0,208.0,2015.0,2015.0,1993.0,22.0
+135,OLeaNi00,nick-oleary-1,2015,6,194,BUF,Nick O'Leary,TE,TE,Florida St.,6.0,,4.0,6-3,252.0,4.93,21.0,30.5,110.0,7.4,4.5,OLeaNi00,1992-08-31,75.0,252.0,2015.0,2020.0,1992.0,23.0
+136,JohnMa06,malcolm-johnson-2,2015,6,195,CLE,Malcolm Johnson,TE,TE,Mississippi St.,0.0,,0.0,,,,,,,,,JohnMa06,1992-08-11,73.0,231.0,2015.0,2019.0,1992.0,23.0
+137,TelfRa00,randall-telfer-1,2015,6,198,CLE,Randall Telfer,TE,TE,USC,0.0,,0.0,6-4,250.0,4.83,20.0,,,,,TelfRa00,1992-05-16,76.0,250.0,2015.0,2017.0,1992.0,23.0
+138,SassBu00,bud-sasser-1,2015,6,201,STL,Bud Sasser,WR,WR,Missouri,,,,,,,,,,,,,,,,,,,
+139,DerbA.00,aj-derby-1,2015,6,202,NWE,A.J. Derby,TE,TE,Arkansas,3.0,,0.0,,,,,,,,,DerbA.00,1991-09-20,77.0,240.0,2015.0,2018.0,1991.0,24.0
+140,WallDa01,darren-waller-1,2015,6,204,BAL,Darren Waller,WR,WR,Georgia Tech,33.0,,1.0,6-6,238.0,4.46,12.0,37.0,125.0,7.07,4.25,WallDa01,1992-09-13,78.0,238.0,2015.0,2025.0,1992.0,23.0
+141,RobiJo02,josh-robinson-2,2015,6,205,IND,Josh Robinson,RB,RB,Mississippi St.,0.0,,0.0,5-8,217.0,4.7,21.0,32.0,113.0,,,RobiJo02,1992-08-24,68.0,221.0,2015.0,2015.0,1992.0,23.0
+142,BackKe00,kennard-backman-1,2015,6,213,GNB,Kennard Backman,TE,TE,Ala-Birmingham,0.0,,0.0,,,,,,,,,BackKe00,1993-02-26,75.0,245.0,2015.0,2016.0,1993.0,22.0
+143,SterNe00,,2015,7,220,JAX,Neal Sterling,WR,WR,Monmouth,2.0,,1.0,,,,,,,,,SterNe00,1992-01-14,76.0,257.0,2015.0,2018.0,1992.0,23.0
+144,DeboAn00,andre-debose-1,2015,7,221,OAK,Andre Debose,WR,WR,Florida,,,,,,,,,,,,DeboAn00,1990-09-12,72.0,190.0,2015.0,2015.0,1990.0,25.0
+145,KoyaBe00,ben-koyack-1,2015,7,229,JAX,Ben Koyack,TE,TE,Notre Dame,1.0,,1.0,6-5,255.0,4.79,,,,,,KoyaBe00,1993-04-09,77.0,258.0,2015.0,2019.0,1993.0,22.0
+146,MurpMa03,marcus-murphy-1,2015,7,230,NOR,Marcus Murphy,RB,RB,Missouri,2.0,,1.0,5-9,198.0,4.61,11.0,29.0,109.0,,4.4,MurpMa03,1991-10-03,69.0,195.0,2015.0,2018.0,1991.0,24.0
+147,BrowDa03,daron-brown-1,2015,7,233,KAN,Da'Ron Brown,WR,WR,Northern Illinois,,,,6-0,205.0,4.54,17.0,37.0,120.0,7.04,4.11,BrowDa03,1991-09-21,72.0,199.0,2015.0,2016.0,1991.0,24.0
+148,LewiDe02,,2015,7,234,BUF,Dezmin Lewis,WR,WR,Central Arkansas,0.0,,0.0,,,,,,,,,LewiDe02,1992-12-05,76.0,214.0,2015.0,2016.0,1992.0,23.0
+149,HillKe01,kenny-hilliard-1,2015,7,235,HOU,Kenny Hilliard,RB,RB,LSU,,,,6-0,226.0,4.83,,27.0,111.0,7.17,4.4,HillKe01,1991-10-03,71.0,226.0,2015.0,2017.0,1991.0,24.0
+150,AlfoMa00,mario-alford-1,2015,7,238,CIN,Mario Alford,WR,WR,West Virginia,0.0,,0.0,5-8,180.0,4.43,13.0,34.0,121.0,6.64,4.07,AlfoMa00,1992-02-25,68.0,177.0,2015.0,2017.0,1992.0,23.0
+151,McBrTr00,,2015,7,245,TEN,Tre McBride,WR,WR,William & Mary,1.0,,0.0,6-0,210.0,4.41,16.0,38.0,122.0,6.96,4.08,McBrTr00,1992-12-01,72.0,210.0,2015.0,2017.0,1992.0,23.0
+152,SwaiGe00,geoff-swaim-1,2015,7,246,DAL,Geoff Swaim,TE,TE,Texas,6.0,,3.0,,,,,,,,,SwaiGe00,1993-09-16,76.0,260.0,2015.0,2024.0,1993.0,22.0
+153,SiemTr00,trevor-siemian-1,2015,7,250,DEN,Trevor Siemian,QB,QB,Northwestern,16.0,,13.0,,,,,,,,,SiemTr00,1991-12-26,75.0,220.0,2015.0,2025.0,1991.0,24.0
+154,AndeRo01,rory-anderson-1,2015,7,254,SFO,Rory Anderson,TE,TE,South Carolina,,,,6-5,244.0,4.73,,,,,,AndeRo01,1992-10-02,76.0,246.0,2015.0,2016.0,1992.0,23.0
+155,ChriGe00,gerald-christian-1,2015,7,256,ARI,Gerald Christian,TE,TE,Louisville,0.0,,,6-3,244.0,4.87,28.0,,,7.62,4.7,ChriGe00,1991-08-26,75.0,250.0,2015.0,2016.0,1991.0,24.0
+156,GoffJa00,jared-goff-1,2016,1,1,LAR,Jared Goff,QB,QB,California,106.0,,44.0,6-4,215.0,4.82,,27.0,110.0,7.17,4.47,GoffJa00,1994-10-14,76.0,217.0,2016.0,2025.0,1994.0,22.0
+157,WentCa00,carson-wentz-1,2016,1,2,PHI,Carson Wentz,QB,QB,North Dakota St.,63.0,,43.0,,,,,,,,,WentCa00,1992-12-30,77.0,237.0,2016.0,2025.0,1992.0,24.0
+158,ElliEz00,ezekiel-elliott-1,2016,1,4,DAL,Ezekiel Elliott,RB,RB,Ohio St.,68.0,,65.0,6-0,225.0,4.47,,32.5,118.0,,,ElliEz00,1995-07-22,72.0,226.0,2016.0,2024.0,1995.0,21.0
+159,ColeCo00,corey-coleman-1,2016,1,15,CLE,Corey Coleman,WR,WR,Baylor,6.0,,5.0,5-11,194.0,4.42,17.0,40.5,129.0,,,ColeCo00,1994-07-06,71.0,185.0,2016.0,2022.0,1994.0,22.0
+160,FullWi01,william-fuller-2,2016,1,21,HOU,Will Fuller,WR,WR,Notre Dame,24.0,,24.0,6-0,186.0,4.32,10.0,33.5,126.0,6.93,4.27,FullWi01,1994-04-16,73.0,184.0,2016.0,2021.0,1994.0,22.0
+161,DoctJo00,josh-doctson-1,2016,1,22,WAS,Josh Doctson,WR,WR,TCU,9.0,,9.0,6-2,202.0,4.5,14.0,41.0,131.0,6.84,4.08,DoctJo00,1992-12-03,74.0,205.0,2016.0,2021.0,1992.0,24.0
+162,TreaLa00,laquon-treadwell-1,2016,1,23,MIN,Laquon Treadwell,WR,WR,Mississippi,8.0,,5.0,6-2,221.0,4.52,12.0,33.0,117.0,,,TreaLa00,1995-06-14,74.0,215.0,2016.0,2025.0,1995.0,21.0
+163,LyncPa00,paxton-lynch-1,2016,1,26,DEN,Paxton Lynch,QB,QB,Memphis,2.0,,2.0,6-7,244.0,4.86,,36.0,118.0,7.14,4.26,LyncPa00,1994-02-12,79.0,244.0,2016.0,2019.0,1994.0,22.0
+164,HenrHu00,hunter-henry-1,2016,2,35,SDG,Hunter Henry,TE,TE,Arkansas,37.0,,15.0,6-5,250.0,4.79,13.0,,,,,HenrHu00,1994-12-07,77.0,249.0,2016.0,2025.0,1994.0,22.0
+165,ShepSt00,sterling-shepard-1,2016,2,40,NYG,Sterling Shepard,WR,WR,Oklahoma,32.0,,26.0,5-10,194.0,4.48,20.0,41.0,123.0,7.0,4.35,ShepSt00,1993-02-10,70.0,194.0,2016.0,2025.0,1993.0,23.0
+166,HenrDe00,derrick-henry-2,2016,2,45,TEN,Derrick Henry,RB,RB,Alabama,85.0,,59.0,6-3,247.0,4.54,22.0,37.0,130.0,7.2,4.38,HenrDe00,1994-01-04,75.0,252.0,2016.0,2025.0,1994.0,22.0
+167,ThomMi05,michael-thomas-3,2016,2,47,NOR,Michael Thomas,WR,WR,Ohio St.,60.0,,60.0,6-3,212.0,4.57,18.0,35.0,126.0,6.8,4.13,ThomMi05,1993-03-03,75.0,212.0,2016.0,2023.0,1993.0,23.0
+168,HackCh01,christian-hackenberg-1,2016,2,51,NYJ,Christian Hackenberg,QB,QB,Penn St.,,,,6-4,223.0,4.78,,31.0,114.0,7.04,4.33,HackCh01,1995-02-14,76.0,228.0,2016.0,2018.0,1995.0,21.0
+169,BoydTy00,tyler-boyd-1,2016,2,55,CIN,Tyler Boyd,WR,WR,Pittsburgh,48.0,,46.0,6-1,197.0,4.58,11.0,34.0,119.0,6.9,4.35,BoydTy00,1994-11-15,74.0,203.0,2016.0,2024.0,1994.0,22.0
+170,DrakKe00,kenyan-drake-1,2016,3,73,MIA,Kenyan Drake,RB,RB,Alabama,33.0,,15.0,6-1,210.0,4.45,10.0,34.5,123.0,7.04,4.21,DrakKe00,1994-01-26,73.0,216.0,2016.0,2023.0,1994.0,22.0
+171,HoopAu00,austin-hooper-1,2016,3,81,ATL,Austin Hooper,TE,TE,Stanford,33.0,,18.0,6-4,254.0,4.72,19.0,33.0,117.0,7.0,4.32,HoopAu00,1994-10-29,76.0,254.0,2016.0,2025.0,1994.0,22.0
+172,MillBr03,braxton-miller-1,2016,3,85,HOU,Braxton Miller,WR,WR,Ohio St.,2.0,,2.0,6-1,201.0,4.5,17.0,35.0,123.0,6.65,4.07,MillBr03,1992-11-30,74.0,215.0,2016.0,2019.0,1992.0,24.0
+173,CarrLe00,leonte-carroo-1,2016,3,86,MIA,Leonte Carroo,WR,WR,Rutgers,2.0,,2.0,6-0,211.0,4.5,14.0,35.5,120.0,,,CarrLe00,1994-01-24,73.0,215.0,2016.0,2018.0,1994.0,22.0
+174,ProsC.00,cj-prosise-1,2016,3,90,SEA,C.J. Prosise,RB,RB,Notre Dame,5.0,,5.0,6-0,220.0,4.48,,35.5,121.0,,,ProsC.00,1994-05-20,73.0,225.0,2016.0,2020.0,1994.0,22.0
+175,BrisJa00,jacoby-brissett-2,2016,3,91,NWE,Jacoby Brissett,QB,QB,North Carolina St.,42.0,,2.0,6-4,231.0,4.94,,31.0,113.0,7.17,4.53,BrisJa00,1992-12-11,76.0,235.0,2016.0,2025.0,1992.0,24.0
+176,KessCo00,cody-kessler-1,2016,3,93,CLE,Cody Kessler,QB,QB,USC,5.0,,3.0,6-1,220.0,4.89,,29.5,104.0,7.32,4.0,KessCo00,1993-05-11,73.0,215.0,2016.0,2019.0,1993.0,23.0
+177,VannNi00,nick-vannett-1,2016,3,94,SEA,Nick Vannett,TE,TE,Ohio St.,7.0,,4.0,6-6,257.0,4.76,17.0,30.5,111.0,7.05,4.2,VannNi00,1993-03-06,78.0,257.0,2016.0,2025.0,1993.0,23.0
+178,CookCo00,connor-cook-1,2016,4,100,OAK,Connor Cook,QB,QB,Michigan St.,0.0,,0.0,6-4,217.0,4.79,,33.0,113.0,7.21,4.28,CookCo00,1993-01-29,76.0,215.0,2016.0,2018.0,1993.0,23.0
+179,MoorCh00,chris-moore-4,2016,4,107,BAL,Chris Moore,WR,WR,Cincinnati,14.0,,4.0,6-1,206.0,4.53,10.0,37.0,130.0,6.76,4.2,MoorCh00,1993-06-16,73.0,200.0,2016.0,2025.0,1993.0,23.0
+180,HigbTy00,tyler-higbee-1,2016,4,110,LAR,Tyler Higbee,TE,TE,Western Kentucky,31.0,,31.0,6-6,249.0,4.77,,,,,,HigbTy00,1993-01-01,78.0,255.0,2016.0,2025.0,1993.0,23.0
+181,MitcMa01,malcolm-mitchell-2,2016,4,112,NWE,Malcolm Mitchell,WR,WR,Georgia,4.0,,4.0,6-0,198.0,4.45,15.0,36.0,129.0,6.94,4.34,MitcMa01,1992-07-20,73.0,200.0,2016.0,2017.0,1992.0,24.0
+182,LouiRi00,ricardo-louis-1,2016,4,114,CLE,Ricardo Louis,WR,WR,Auburn,3.0,,3.0,6-2,215.0,4.43,18.0,38.0,132.0,,,LouiRi00,1994-03-23,74.0,215.0,2016.0,2019.0,1994.0,22.0
+183,CoopPh00,pharoh-cooper-1,2016,4,117,LAR,Pharoh Cooper,WR,WR,South Carolina,6.0,,3.0,5-11,203.0,4.52,15.0,31.0,115.0,,,CoopPh00,1995-03-07,71.0,210.0,2016.0,2022.0,1995.0,21.0
+184,ErviTy00,tyler-ervin-1,2016,4,119,HOU,Tyler Ervin,RB,RB,San Jose St.,2.0,,0.0,5-10,192.0,4.41,17.0,39.0,130.0,,,ErviTy00,1993-10-07,70.0,192.0,2016.0,2020.0,1993.0,23.0
+185,RobiDe01,demarcus-robinson-3,2016,4,126,KAN,Demarcus Robinson,WR,WR,Florida,27.0,,13.0,6-1,203.0,4.59,,34.5,123.0,6.77,4.19,RobiDe01,1994-09-21,73.0,203.0,2016.0,2025.0,1994.0,22.0
+186,DixoKe00,kenneth-dixon-1,2016,4,134,BAL,Kenneth Dixon,RB,RB,Louisiana Tech,5.0,,5.0,5-10,215.0,4.56,18.0,37.5,121.0,6.97,4.28,DixoKe00,1994-01-21,70.0,228.0,2016.0,2019.0,1994.0,22.0
+187,PresDa01,dak-prescott-1,2016,4,135,DAL,Dak Prescott,QB,QB,Mississippi St.,104.0,,104.0,6-2,226.0,4.79,,32.5,116.0,7.11,4.32,PresDa01,1993-07-29,74.0,238.0,2016.0,2025.0,1993.0,23.0
+188,BookDe00,devontae-booker-1,2016,4,136,DEN,Devontae Booker,RB,RB,Utah,19.0,,11.0,5-11,219.0,4.56,22.0,,,,,BookDe00,1992-05-27,71.0,219.0,2016.0,2021.0,1992.0,24.0
+189,DevaSe00,,2016,4,138,CLE,Seth Devalve,TE,TE,Princeton,6.0,,5.0,,,,,,,,,DevaSe00,1993-01-29,75.0,245.0,2016.0,2020.0,1993.0,23.0
+190,JoneCa01,cardale-jones-1,2016,4,139,BUF,Cardale Jones,QB,QB,Ohio St.,0.0,,0.0,6-5,253.0,4.81,,36.0,,,,JoneCa01,1992-09-29,77.0,250.0,2016.0,2019.0,1992.0,24.0
+191,SharTa00,tajae-sharpe-1,2016,5,140,TEN,Tajae Sharpe,WR,WR,Massachusetts,12.0,,11.0,6-2,194.0,4.55,11.0,33.5,114.0,,,SharTa00,1994-12-23,76.0,194.0,2016.0,2022.0,1994.0,22.0
+192,WashDe00,deandre-washington-1,2016,5,143,OAK,DeAndre Washington,RB,RB,Texas Tech,12.0,,11.0,,,,,,,,,WashDe00,1993-02-22,68.0,210.0,2016.0,2020.0,1993.0,23.0
+193,PerkPa00,paul-perkins-1,2016,5,149,NYG,Paul Perkins,RB,RB,UCLA,5.0,,5.0,5-10,208.0,4.54,19.0,32.0,124.0,,,PerkPa00,1994-11-16,71.0,208.0,2016.0,2020.0,1994.0,22.0
+194,HowaJo00,jordan-howard-1,2016,5,150,CHI,Jordan Howard,RB,RB,Indiana,27.0,,22.0,6-0,230.0,4.57,16.0,34.0,122.0,,,HowaJo00,1994-11-02,72.0,222.0,2016.0,2022.0,1994.0,22.0
+195,SmalWe00,wendell-smallwood-1,2016,5,153,PHI,Wendell Smallwood,RB,RB,West Virginia,10.0,,9.0,5-10,208.0,4.47,14.0,33.5,120.0,6.83,4.28,SmalWe00,1994-01-20,70.0,208.0,2016.0,2021.0,1994.0,22.0
+196,PaytJo00,jordan-payton-1,2016,5,154,CLE,Jordan Payton,WR,WR,UCLA,0.0,,0.0,6-1,207.0,4.47,,34.5,121.0,7.08,4.33,PaytJo00,1993-09-01,73.0,209.0,2016.0,2016.0,1993.0,23.0
+197,WillJo07,jonathan-williams-2,2016,5,156,BUF,Jonathan Williams,RB,RB,Arkansas,5.0,,1.0,5-11,220.0,4.56,16.0,,,,,WillJo07,1994-02-02,72.0,217.0,2016.0,2023.0,1994.0,22.0
+198,HogaKe00,kevin-hogan-2,2016,5,162,KAN,Kevin Hogan,QB,QB,Stanford,2.0,,,6-3,218.0,4.78,,32.5,113.0,6.9,4.31,HogaKe00,1992-10-20,75.0,218.0,2016.0,2022.0,1992.0,24.0
+199,DaviTr03,trevor-davis-1,2016,5,163,GNB,Trevor Davis,WR,WR,California,2.0,,1.0,6-1,188.0,4.42,11.0,38.5,124.0,6.6,4.22,DaviTr03,1993-07-04,73.0,188.0,2016.0,2020.0,1993.0,23.0
+200,HillTy00,,2016,5,165,KAN,Tyreek Hill,WR,WR,West Alabama,98.0,,61.0,,,,,,,,,HillTy00,1994-03-01,70.0,191.0,2016.0,2025.0,1994.0,22.0
+201,CollAl00,alex-collins-1,2016,5,171,SEA,Alex Collins,RB,RB,Arkansas,17.0,,5.0,5-10,217.0,4.59,18.0,28.5,113.0,,,CollAl00,1994-08-26,70.0,210.0,2016.0,2021.0,1994.0,22.0
+202,HiggRa00,rashard-higgins-1,2016,5,172,CLE,Rashard Higgins,WR,WR,Colorado St.,13.0,,13.0,6-1,196.0,4.64,13.0,32.0,116.0,,,HiggRa00,1994-10-07,73.0,198.0,2016.0,2022.0,1994.0,22.0
+203,HemiTe00,,2016,6,177,LAR,Temarrick Hemingway,TE,TE,South Carolina St.,0.0,,0.0,6-5,244.0,4.71,18.0,30.5,115.0,6.88,4.31,HemiTe00,1993-07-30,77.0,245.0,2016.0,2021.0,1993.0,23.0
+204,BoehMo00,,2016,6,180,MIN,Moritz Boehringer,WR,WR,,,,,,,,,,,,,BoehMo00,1993-10-16,77.0,250.0,2016.0,2019.0,1993.0,23.0
+205,ReynKe00,keenan-reynolds-1,2016,6,182,BAL,Keenan Reynolds,RB,RB,Navy,0.0,,,,,,,,,,,ReynKe00,1993-12-13,70.0,191.0,2016.0,2018.0,1993.0,23.0
+206,AdamJe01,jerell-adams-1,2016,6,184,NYG,Jerell Adams,TE,TE,South Carolina,2.0,,2.0,6-5,247.0,4.64,,32.5,117.0,7.05,4.31,AdamJe01,1992-12-31,77.0,254.0,2016.0,2020.0,1992.0,24.0
+207,GranJa00,jakeem-grant-1,2016,6,186,MIA,Jakeem Grant,WR,WR,Texas Tech,14.0,,12.0,,,,,,,,,GranJa00,1992-10-30,66.0,170.0,2016.0,2023.0,1992.0,24.0
+208,SudfNa00,nate-sudfeld-1,2016,6,187,WAS,Nate Sudfeld,QB,QB,Indiana,1.0,,,6-6,234.0,5.02,,29.0,105.0,,,SudfNa00,1993-10-07,78.0,230.0,2016.0,2023.0,1993.0,23.0
+209,MorgDa01,david-morgan-1,2016,6,188,MIN,David Morgan,TE,TE,Texas-San Antonio,1.0,,1.0,6-4,262.0,,,,,,,MorgDa01,1993-05-19,76.0,265.0,2016.0,2019.0,1993.0,23.0
+210,RudoJa00,jake-rudock-1,2016,6,191,DET,Jake Rudock,QB,QB,Michigan,0.0,,0.0,,,,,,,,,RudoJa00,1993-01-21,75.0,212.0,2016.0,2020.0,1993.0,23.0
+211,ListKo00,kolby-listenbee-1,2016,6,192,BUF,Kolby Listenbee,WR,WR,TCU,,,,6-0,197.0,4.39,15.0,35.5,129.0,,,ListKo00,1994-01-25,73.0,183.0,2016.0,2017.0,1994.0,22.0
+212,CoreCo00,cody-core-1,2016,6,199,CIN,Cody Core,WR,WR,Mississippi,3.0,,3.0,6-3,205.0,4.47,14.0,31.5,119.0,,,CoreCo00,1994-04-17,75.0,205.0,2016.0,2021.0,1994.0,22.0
+213,AlleBr00,brandon-allen-2,2016,6,201,JAX,Brandon Allen,QB,QB,Arkansas,5.0,,,6-1,217.0,4.84,,28.0,110.0,7.06,4.33,AlleBr00,1992-09-05,74.0,209.0,2016.0,2025.0,1992.0,24.0
+214,ThomMi04,michael-thomas-6,2016,6,206,LAR,Mike Thomas,WR,WR,Southern Miss,2.0,,1.0,,,,,,,,,ThomMi04,1994-08-16,73.0,197.0,2016.0,2022.0,1994.0,22.0
+215,DrisJe00,jeff-driskel-1,2016,6,207,SFO,Jeff Driskel,QB,QB,Louisiana Tech,7.0,,,6-4,234.0,4.56,,32.0,122.0,7.19,4.25,DrisJe00,1993-04-23,76.0,231.0,2016.0,2025.0,1993.0,23.0
+216,TaylKe01,kelvin-taylor-1,2016,6,211,SFO,Kelvin Taylor,RB,RB,Florida,,,,5-10,207.0,4.6,15.0,32.0,113.0,,,TaylKe01,1993-09-28,70.0,205.0,2016.0,2016.0,1993.0,23.0
+217,BurbAa00,aaron-burbridge-1,2016,6,213,SFO,Aaron Burbridge,WR,WR,Michigan St.,1.0,,1.0,6-0,206.0,4.56,20.0,30.5,115.0,7.22,4.31,BurbAa00,1993-12-23,73.0,208.0,2016.0,2018.0,1993.0,23.0
+218,JackDa01,darius-jackson-1,2016,6,216,DAL,Darius Jackson,RB,RB,Eastern Michigan,0.0,,0.0,,,,,,,,,JackDa01,1993-12-01,72.0,230.0,2016.0,2021.0,1993.0,23.0
+219,GathRi00,,2016,6,217,DAL,Rico Gathers,TE,TE,Baylor,0.0,,0.0,,,,,,,,,GathRi00,1994-01-07,78.0,280.0,2016.0,2019.0,1994.0,22.0
+220,DougBr00,brandon-doughty-1,2016,7,223,MIA,Brandon Doughty,QB,QB,Western Kentucky,,,,6-3,213.0,5.22,,27.0,103.0,7.49,4.52,DougBr00,1991-10-06,75.0,212.0,2016.0,2017.0,1991.0,25.0
+221,LuciDe00,devin-lucien-1,2016,7,225,NWE,Devin Lucien,WR,WR,Arizona St.,,,,,,,,,,,,LuciDe00,1993-06-26,74.0,200.0,2016.0,2017.0,1993.0,23.0
+222,AyerDe00,demarcus-ayers-1,2016,7,229,PIT,Demarcus Ayers,WR,WR,Houston,0.0,,0.0,5-9,182.0,4.72,,33.0,123.0,,,AyerDe00,1994-07-07,71.0,190.0,2016.0,2017.0,1994.0,22.0
+223,BravDa00,daniel-braverman-1,2016,7,230,CHI,Daniel Braverman,WR,WR,Western Michigan,0.0,,0.0,,,,,,,,,BravDa00,1993-09-28,70.0,185.0,2016.0,2018.0,1993.0,23.0
+224,DuarTh00,thomas-duarte-1,2016,7,231,MIA,Thomas Duarte,TE,TE,UCLA,0.0,,0.0,6-2,231.0,4.72,12.0,33.5,118.0,6.97,4.24,DuarTh00,1995-03-30,74.0,241.0,2016.0,2018.0,1995.0,21.0
+225,WashDw00,dwayne-washington-1,2016,7,236,DET,Dwayne Washington,RB,RB,Washington,4.0,,2.0,,,,,,,,,WashDw00,1994-04-24,73.0,223.0,2016.0,2023.0,1994.0,22.0
+226,LascDa00,daniel-lasco-1,2016,7,237,NOR,Daniel Lasco,RB,RB,California,0.0,,0.0,6-0,209.0,4.46,23.0,41.5,135.0,7.22,4.26,LascDa00,1992-10-09,73.0,205.0,2016.0,2018.0,1992.0,24.0
+227,FullDe00,devin-fuller-1,2016,7,238,ATL,Devin Fuller,WR,WR,UCLA,,,,,,,,,,,,FullDe00,1994-01-29,72.0,194.0,2016.0,2017.0,1994.0,22.0
+228,PeakCh00,charone-peake-1,2016,7,241,NYJ,Charone Peake,WR,WR,Clemson,1.0,,1.0,6-2,209.0,4.45,12.0,35.5,122.0,6.96,4.46,PeakCh00,1992-10-16,74.0,209.0,2016.0,2018.0,1992.0,24.0
+229,MarsKe00,keith-marshall-1,2016,7,242,WAS,Keith Marshall,RB,RB,Georgia,,,,5-11,219.0,4.31,25.0,30.5,,,,MarsKe00,1994-02-16,71.0,222.0,2016.0,2017.0,1994.0,22.0
+230,LawlKe00,kenny-lawler-1,2016,7,243,SEA,Kenny Lawler,WR,WR,California,,,,6-2,203.0,4.64,,31.0,111.0,7.13,4.2,LawlKe00,1994-06-25,74.0,203.0,2016.0,2017.0,1994.0,22.0
+231,BrooZa00,zac-brooks-1,2016,7,247,SEA,Zac Brooks,RB,RB,Clemson,,,,,,,,,,,,BrooZa00,1993-02-01,72.0,200.0,2016.0,2016.0,1993.0,23.0
+232,SandBe00,,2016,7,252,CAR,Beau Sandland,TE,TE,Montana St.,,,,6-4,253.0,4.74,23.0,35.0,124.0,7.1,4.33,SandBe00,1993-02-23,76.0,255.0,2016.0,2016.0,1993.0,23.0
+233,TrubMi00,mitch-trubisky-1,2017,1,2,CHI,Mitchell Trubisky,QB,QB,North Carolina,40.0,,34.0,6-2,222.0,4.67,,27.5,116.0,6.87,4.25,TrubMi00,1994-08-20,74.0,222.0,2017.0,2025.0,1994.0,23.0
+234,FourLe00,leonard-fournette-1,2017,1,4,JAX,Leonard Fournette,RB,RB,LSU,38.0,,19.0,6-0,240.0,4.51,,28.5,,,,FourLe00,1995-01-18,72.0,228.0,2017.0,2023.0,1995.0,22.0
+235,DaviCo03,corey-davis-3,2017,1,5,TEN,Corey Davis,WR,WR,Western Michigan,31.0,,24.0,6-3,209.0,,,,,,,DaviCo03,1995-01-11,75.0,209.0,2017.0,2022.0,1995.0,22.0
+236,WillMi07,mike-williams-17,2017,1,7,LAC,Mike Williams,WR,WR,Clemson,38.0,,37.0,6-4,218.0,,15.0,32.5,121.0,,,WillMi07,1994-10-04,76.0,218.0,2017.0,2025.0,1994.0,23.0
+237,McCaCh01,christian-mccaffrey-1,2017,1,8,CAR,Christian McCaffrey,RB,RB,Stanford,86.0,,43.0,5-11,202.0,4.48,10.0,37.5,121.0,6.57,4.22,McCaCh01,1996-06-07,71.0,210.0,2017.0,2025.0,1996.0,21.0
+238,RossJo00,john-ross-1,2017,1,9,CIN,John Ross,WR,WR,Washington,7.0,,5.0,5-11,188.0,4.22,,37.0,133.0,,,RossJo00,1995-11-27,71.0,190.0,2017.0,2024.0,1995.0,22.0
+239,MahoPa00,patrick-mahomes-1,2017,1,10,KAN,Patrick Mahomes,QB,QB,Texas Tech,115.0,,115.0,6-2,225.0,4.8,,30.0,114.0,6.88,4.08,MahoPa00,1995-09-17,74.0,225.0,2017.0,2025.0,1995.0,22.0
+240,WatsDe00,deshaun-watson-1,2017,1,12,HOU,Deshaun Watson,QB,QB,Clemson,58.0,,52.0,6-2,221.0,4.66,,32.5,119.0,6.95,4.31,WatsDe00,1995-09-14,75.0,223.0,2017.0,2025.0,1995.0,22.0
+241,HowaO.00,oj-howard-1,2017,1,19,TAM,O.J. Howard,TE,TE,Alabama,13.0,,12.0,6-6,251.0,4.51,22.0,30.0,121.0,6.85,4.16,HowaO.00,1994-11-18,78.0,251.0,2017.0,2022.0,1994.0,23.0
+242,EngrEv00,evan-engram-1,2017,1,23,NYG,Evan Engram,TE,TE,Mississippi,37.0,,18.0,6-3,234.0,4.42,19.0,36.0,125.0,6.92,4.23,EngrEv00,1994-09-02,75.0,240.0,2017.0,2025.0,1994.0,23.0
+243,NjokDa00,david-njoku-1,2017,1,29,CLE,David Njoku,TE,TE,Miami (FL),27.0,,27.0,6-4,246.0,4.64,21.0,37.5,133.0,6.97,4.34,NjokDa00,1996-07-10,76.0,246.0,2017.0,2025.0,1996.0,21.0
+244,JoneZa00,isaiah-jones-2,2017,2,37,BUF,Zay Jones,WR,WR,East Carolina,25.0,,8.0,,,,,,,,,JoneZa00,1995-03-30,74.0,200.0,2017.0,2025.0,1995.0,22.0
+245,SamuCu00,curtis-samuel-1,2017,2,40,CAR,Curtis Samuel,WR,WR,Ohio St.,30.0,,17.0,5-11,196.0,4.31,18.0,37.0,119.0,7.09,4.33,SamuCu00,1996-08-11,71.0,195.0,2017.0,2025.0,1996.0,21.0
+246,CookDa01,dalvin-cook-1,2017,2,41,MIN,Dalvin Cook,RB,RB,Florida St.,52.0,,51.0,5-10,210.0,4.49,22.0,30.5,116.0,7.27,4.53,CookDa01,1995-08-10,70.0,210.0,2017.0,2024.0,1995.0,22.0
+247,EverGe00,gerald-everett-1,2017,2,44,LAR,Gerald Everett,TE,TE,South Alabama,22.0,,10.0,6-3,239.0,4.62,22.0,37.5,126.0,6.99,4.33,EverGe00,1994-06-25,75.0,252.0,2017.0,2024.0,1994.0,23.0
+248,ShahAd00,,2017,2,45,CHI,Adam Shaheen,TE,TE,Ashland,4.0,,2.0,6-6,278.0,4.79,24.0,32.5,121.0,7.09,4.38,ShahAd00,1994-10-24,79.0,248.0,2017.0,2022.0,1994.0,23.0
+249,MixoJo00,joe-mixon-1,2017,2,48,CIN,Joe Mixon,RB,RB,Oklahoma,56.0,,49.0,,,,,,,,,MixoJo00,1996-07-24,73.0,220.0,2017.0,2025.0,1996.0,21.0
+250,KizeDe00,deshone-kizer-1,2017,2,52,CLE,DeShone Kizer,QB,QB,Notre Dame,6.0,,5.0,6-4,233.0,4.83,,30.5,107.0,7.4,4.53,KizeDe00,1996-01-03,76.0,235.0,2017.0,2021.0,1996.0,21.0
+251,SmitJu00,juju-smith-1,2017,2,62,PIT,JuJu Smith-Schuster,WR,WR,USC,43.0,,30.0,6-1,215.0,4.54,15.0,32.5,120.0,,,SmitJu00,1996-11-22,73.0,215.0,2017.0,2025.0,1996.0,21.0
+252,KamaAl00,alvin-kamara-1,2017,3,67,NOR,Alvin Kamara,RB,RB,Tennessee,79.0,,79.0,5-10,214.0,4.56,15.0,39.5,131.0,,,KamaAl00,1995-07-25,70.0,215.0,2017.0,2025.0,1995.0,22.0
+253,KuppCo00,,2017,3,69,LAR,Cooper Kupp,WR,WR,Eastern Washington,63.0,,60.0,6-2,204.0,4.62,,31.0,116.0,6.75,4.08,KuppCo00,1993-06-15,74.0,205.0,2017.0,2025.0,1993.0,24.0
+254,TaylTa00,taywan-taylor-1,2017,3,72,TEN,Taywan Taylor,WR,WR,Western Kentucky,6.0,,6.0,5-11,203.0,4.5,13.0,33.5,132.0,6.57,4.21,TaylTa00,1995-03-02,71.0,205.0,2017.0,2020.0,1995.0,22.0
+255,StewAr00,ardarius-stewart-1,2017,3,79,NYJ,ArDarius Stewart,WR,WR,Alabama,1.0,,1.0,5-11,204.0,4.49,,34.0,124.0,,,StewAr00,1993-12-08,72.0,205.0,2017.0,2018.0,1993.0,24.0
+256,HendCa01,carlos-henderson-1,2017,3,82,DEN,Carlos Henderson,WR,WR,Louisiana Tech,,,,5-11,199.0,4.46,13.0,36.0,131.0,7.18,4.35,HendCa01,1994-12-19,71.0,191.0,2017.0,2018.0,1994.0,23.0
+257,GodwCh00,chris-godwin-1,2017,3,84,TAM,Chris Godwin,WR,WR,Penn St.,53.0,,53.0,6-1,209.0,4.42,19.0,36.0,126.0,7.01,4.0,GodwCh00,1996-02-27,73.0,209.0,2017.0,2025.0,1996.0,21.0
+258,HuntKa00,kareem-hunt-1,2017,3,86,KAN,Kareem Hunt,RB,RB,Toledo,52.0,,33.0,5-10,216.0,4.62,18.0,36.5,119.0,,,HuntKa00,1995-08-06,71.0,216.0,2017.0,2025.0,1995.0,22.0
+259,WebbDa00,davis-webb-1,2017,3,87,NYG,Davis Webb,QB,QB,California,1.0,,1.0,6-5,229.0,4.79,,33.0,118.0,6.92,4.21,WebbDa00,1995-01-22,77.0,225.0,2017.0,2022.0,1995.0,22.0
+260,ForeDO00,donta-foreman-1,2017,3,89,HOU,D'Onta Foreman,RB,RB,Texas,17.0,,2.0,6-0,233.0,,18.0,,,,,ForeDO00,1996-04-24,73.0,236.0,2017.0,2024.0,1996.0,21.0
+261,GollKe00,kenny-golladay-1,2017,3,96,DET,Kenny Golladay,WR,WR,Northern Illinois,27.0,,23.0,6-4,218.0,4.5,18.0,35.5,120.0,7.0,4.15,GollKe00,1993-11-03,76.0,214.0,2017.0,2022.0,1993.0,24.0
+262,WillCh05,,2017,3,98,ARI,Chad Williams,WR,WR,Grambling St.,1.0,,1.0,,,,,,,,,WillCh05,1994-10-19,74.0,204.0,2017.0,2020.0,1994.0,23.0
+263,SmitJo01,jonnu-smith-1,2017,3,100,TEN,Jonnu Smith,TE,TE,Florida International,29.0,,10.0,6-3,248.0,4.62,22.0,38.0,127.0,,4.18,SmitJo01,1995-08-22,75.0,248.0,2017.0,2025.0,1995.0,22.0
+264,BeatC.00,cj-beathard-1,2017,3,104,SFO,C.J. Beathard,QB,QB,Iowa,9.0,,8.0,6-2,219.0,,,31.0,113.0,,,BeatC.00,1993-11-16,74.0,215.0,2017.0,2025.0,1993.0,24.0
+265,ConnJa00,james-conner-1,2017,3,105,PIT,James Conner,RB,RB,Pittsburgh,49.0,,17.0,6-1,233.0,4.65,20.0,29.0,113.0,,,ConnJa00,1995-05-05,73.0,233.0,2017.0,2025.0,1995.0,22.0
+266,DarbAm00,amara-darboh-1,2017,3,106,SEA,Amara Darboh,WR,WR,Michigan,1.0,,1.0,6-2,214.0,4.45,17.0,36.0,124.0,,,DarbAm00,1994-02-01,74.0,215.0,2017.0,2020.0,1994.0,23.0
+267,WestDe00,dede-westbrook-1,2017,4,110,JAX,Dede Westbrook,WR,WR,Oklahoma,14.0,,13.0,6-0,178.0,,,,,,,WestDe00,1993-11-21,72.0,178.0,2017.0,2022.0,1993.0,24.0
+268,PeriSa00,samaje-perine-1,2017,4,114,WAS,Samaje Perine,RB,RB,Oklahoma,26.0,,5.0,5-11,233.0,4.65,30.0,33.0,116.0,7.26,4.37,PeriSa00,1995-09-16,70.0,240.0,2017.0,2025.0,1995.0,22.0
+269,ReynJo00,josh-reynolds-1,2017,4,117,LAR,Josh Reynolds,WR,WR,Texas A&M,26.0,,9.0,6-3,194.0,4.52,,37.0,124.0,6.83,4.13,ReynJo00,1995-02-16,75.0,192.0,2017.0,2025.0,1995.0,22.0
+270,HollMa00,mack-hollins-1,2017,4,118,PHI,Mack Hollins,WR,WR,North Carolina,21.0,,3.0,6-4,221.0,4.53,,,,,,HollMa00,1993-09-16,76.0,221.0,2017.0,2025.0,1993.0,24.0
+271,CoheTa00,,2017,4,119,CHI,Tarik Cohen,RB,RB,North Carolina A&T,21.0,,21.0,5-6,179.0,4.42,11.0,31.5,118.0,,,CoheTa00,1995-07-26,66.0,191.0,2017.0,2023.0,1995.0,22.0
+272,WillJo12,joe-williams-7,2017,4,121,SFO,Joe Williams,RB,RB,Utah,,,,5-11,210.0,4.41,14.0,35.0,125.0,7.19,4.19,WillJo12,1993-09-04,71.0,205.0,2017.0,2017.0,1993.0,24.0
+273,RobeMi01,michael-roberts-3,2017,4,127,DET,Michael Roberts,TE,TE,Toledo,1.0,,1.0,6-4,270.0,4.86,,30.0,110.0,7.05,4.51,RobeMi01,1994-05-07,77.0,265.0,2017.0,2018.0,1994.0,23.0
+274,MaloJo00,josh-malone-1,2017,4,128,CIN,Josh Malone,WR,WR,Tennessee,1.0,,1.0,6-3,208.0,4.4,10.0,30.5,121.0,7.05,4.19,MaloJo00,1996-03-21,75.0,205.0,2017.0,2022.0,1996.0,21.0
+275,PumpDo00,donnel-pumphrey-1,2017,4,132,PHI,Donnel Pumphrey,RB,RB,San Diego St.,,,,5-8,176.0,4.48,5.0,33.5,117.0,,,PumpDo00,1994-12-06,69.0,176.0,2017.0,2018.0,1994.0,23.0
+276,SwitRy00,ryan-switzer-1,2017,4,133,DAL,Ryan Switzer,WR,WR,North Carolina,3.0,,1.0,5-8,181.0,4.51,11.0,32.0,116.0,6.77,4.0,SwitRy00,1994-11-04,69.0,183.0,2017.0,2021.0,1994.0,23.0
+277,WillJa06,jamaal-williams-1,2017,4,134,GNB,Jamaal Williams,RB,RB,BYU,33.0,,19.0,6-0,212.0,4.59,,30.0,123.0,7.25,4.53,WillJa06,1995-04-03,72.0,224.0,2017.0,2024.0,1995.0,22.0
+278,DobbJo00,joshua-dobbs-1,2017,4,135,PIT,Joshua Dobbs,QB,QB,Tennessee,9.0,,0.0,6-3,216.0,4.64,,33.0,122.0,6.75,4.31,DobbJo00,1995-01-26,75.0,220.0,2017.0,2025.0,1995.0,22.0
+279,ChesJe00,jehu-chesson-1,2017,4,139,KAN,Jehu Chesson,WR,WR,Michigan,0.0,,0.0,6-3,204.0,4.47,10.0,35.5,132.0,6.7,4.09,ChesJe00,1993-12-20,74.0,204.0,2017.0,2019.0,1993.0,24.0
+280,GallWa00,wayne-gallman-1,2017,4,140,NYG,Wayne Gallman,RB,RB,Clemson,12.0,,11.0,6-0,215.0,4.6,21.0,29.5,120.0,7.17,4.28,GallWa00,1994-10-01,72.0,210.0,2017.0,2022.0,1994.0,23.0
+281,HansCh00,chad-hansen-1,2017,4,141,NYJ,Chad Hansen,WR,WR,California,3.0,,1.0,6-2,202.0,4.53,11.0,35.0,119.0,6.74,4.13,HansCh00,1995-01-18,74.0,202.0,2017.0,2021.0,1995.0,22.0
+282,MackMa00,marlon-mack-1,2017,4,143,IND,Marlon Mack,RB,RB,South Florida,20.0,,19.0,5-11,213.0,4.5,15.0,35.5,125.0,,,MackMa00,1996-03-07,71.0,210.0,2017.0,2023.0,1996.0,21.0
+283,ButtJa00,jake-butt-1,2017,5,145,DEN,Jake Butt,TE,TE,Michigan,1.0,,1.0,6-5,246.0,,,,,,,ButtJa00,1995-07-11,78.0,250.0,2017.0,2020.0,1995.0,22.0
+284,KittGe00,george-kittle-1,2017,5,146,SFO,George Kittle,TE,TE,Iowa,60.0,,60.0,6-4,247.0,4.52,18.0,35.0,132.0,,,KittGe00,1993-10-09,76.0,250.0,2017.0,2025.0,1993.0,24.0
+285,LeggJo00,jordan-leggett-1,2017,5,150,NYJ,Jordan Leggett,TE,TE,Clemson,1.0,,1.0,6-5,258.0,,18.0,33.0,114.0,7.12,4.33,LeggJo00,1995-01-31,77.0,258.0,2017.0,2020.0,1995.0,22.0
+286,SpriJe00,jeremy-sprinkle-1,2017,5,154,WAS,Jeremy Sprinkle,TE,TE,Arkansas,2.0,,2.0,6-5,252.0,4.69,,29.0,116.0,,,SpriJe00,1994-08-10,77.0,252.0,2017.0,2021.0,1994.0,23.0
+287,HillBr02,brian-hill-4,2017,5,156,ATL,Brian Hill,RB,RB,Wyoming,9.0,,8.0,6-1,219.0,4.54,15.0,34.0,125.0,7.03,4.32,HillBr02,1995-11-09,73.0,219.0,2017.0,2021.0,1995.0,22.0
+288,McNiJe00,jeremy-mcnichols-1,2017,5,162,TAM,Jeremy McNichols,RB,RB,Boise St.,9.0,,,5-9,214.0,4.49,,35.5,121.0,6.93,4.28,McNiJe00,1995-12-26,69.0,205.0,2017.0,2025.0,1995.0,22.0
+289,GibsSh00,shelton-gibson-1,2017,5,166,PHI,Shelton Gibson,WR,WR,West Virginia,0.0,,0.0,5-11,191.0,4.5,8.0,32.0,118.0,6.83,4.2,GibsSh00,1995-03-20,71.0,191.0,2017.0,2020.0,1995.0,22.0
+290,AdamRo01,rodney-adams-1,2017,5,170,MIN,Rodney Adams,WR,WR,South Florida,0.0,,,6-1,189.0,4.44,8.0,29.5,125.0,6.98,4.28,AdamRo01,1994-09-15,73.0,189.0,2017.0,2022.0,1994.0,23.0
+291,PeteNa00,nathan-peterman-1,2017,5,171,BUF,Nathan Peterman,QB,QB,Pittsburgh,3.0,,2.0,6-2,226.0,4.82,,31.0,110.0,7.14,4.31,PeteNa00,1994-05-04,74.0,225.0,2017.0,2024.0,1994.0,23.0
+292,McKeIs00,isaiah-mckenzie-1,2017,5,172,DEN,Isaiah McKenzie,WR,WR,Georgia,15.0,,0.0,5-7,173.0,4.42,11.0,36.0,123.0,6.64,4.15,McKeIs00,1995-04-09,68.0,173.0,2017.0,2024.0,1995.0,22.0
+293,SaubEr00,,2017,5,174,ATL,Eric Saubert,TE,TE,Drake,2.0,,0.0,6-5,253.0,,22.0,33.0,121.0,,,SaubEr00,1994-05-09,77.0,253.0,2017.0,2025.0,1994.0,23.0
+294,YancDe00,deangelo-yancey-1,2017,5,175,GNB,DeAngelo Yancey,WR,WR,Purdue,,,,,,,,,,,,YancDe00,1994-11-18,73.0,220.0,2017.0,2018.0,1994.0,23.0
+295,TaylTr02,trent-taylor-2,2017,5,177,SFO,Trent Taylor,WR,WR,Louisiana Tech,7.0,,6.0,5-8,181.0,4.63,13.0,33.0,117.0,6.74,4.01,TaylTr02,1994-04-30,68.0,180.0,2017.0,2025.0,1994.0,23.0
+296,LogaT.00,tj-logan-1,2017,5,179,ARI,T.J. Logan,RB,RB,North Carolina,0.0,,0.0,5-9,196.0,4.37,17.0,33.5,121.0,,,LogaT.00,1994-09-03,71.0,195.0,2017.0,2020.0,1994.0,23.0
+297,JoneAa00,aaron-jones-6,2017,5,182,GNB,Aaron Jones,RB,RB,Texas-El Paso,67.0,,55.0,5-9,208.0,4.56,16.0,37.5,127.0,6.82,4.2,JoneAa00,1994-12-02,69.0,208.0,2017.0,2025.0,1994.0,23.0
+298,McGuEl00,elijah-mcguire-1,2017,6,188,NYJ,Elijah McGuire,RB,RB,Louisiana,6.0,,6.0,5-10,214.0,4.53,15.0,36.0,120.0,7.26,4.56,McGuEl00,1994-06-01,70.0,214.0,2017.0,2021.0,1994.0,23.0
+299,HodgBu00,bucky-hodges-1,2017,6,201,MIN,Bucky Hodges,TE,TE,Virginia Tech,,,,6-6,257.0,4.57,18.0,39.0,134.0,,4.45,HodgBu00,1995-08-08,78.0,257.0,2017.0,2019.0,1995.0,22.0
+300,HendDe01,,2017,6,203,DEN,De'Angelo Henderson,RB,RB,Coastal Carolina,0.0,,0.0,,,,,,,,,HendDe01,1992-11-24,67.0,208.0,2017.0,2019.0,1992.0,25.0
+301,WilsBr01,brandon-wilson-3,2017,6,207,CIN,Brandon Wilson,RB,RB,Houston,6.0,,6.0,,,,,,,,,WilsBr01,1994-07-27,70.0,200.0,2017.0,2023.0,1994.0,23.0
+302,DaviRo00,robert-davis-10,2017,6,209,WAS,Robert Davis,WR,WR,Georgia St.,0.0,,0.0,6-3,219.0,4.44,19.0,41.0,136.0,6.82,4.28,DaviRo00,1995-04-02,75.0,210.0,2017.0,2020.0,1995.0,22.0
+303,KaayBr00,brad-kaaya-1,2017,6,215,DET,Brad Kaaya,QB,QB,Miami (FL),,,,6-4,214.0,,,,,,,KaayBr00,1995-09-03,76.0,215.0,2017.0,2018.0,1995.0,22.0
+304,ColeSt00,stacy-coley-1,2017,7,219,MIN,Stacy Coley,WR,WR,Miami (FL),0.0,,0.0,6-1,195.0,4.45,10.0,34.0,122.0,,,ColeSt00,1994-05-13,72.0,195.0,2017.0,2018.0,1994.0,23.0
+305,MoorDa03,,2017,7,226,SEA,David Moore,WR,WR,East Central (OK),15.0,,12.0,,,,,,,,,MoorDa03,1995-01-15,72.0,219.0,2017.0,2025.0,1995.0,22.0
+306,FordIs00,isaiah-ford-1,2017,7,237,MIA,Isaiah Ford,WR,WR,Virginia Tech,5.0,,5.0,6-1,194.0,4.61,14.0,35.5,127.0,6.94,4.34,FordIs00,1996-02-09,74.0,201.0,2017.0,2021.0,1996.0,21.0
+307,MaysDe00,devante-mays-1,2017,7,238,GNB,Devante Mays,RB,RB,Utah St.,0.0,,0.0,,,,,,,,,MaysDe00,1994-05-26,70.0,230.0,2017.0,2019.0,1994.0,23.0
+308,BrowNo00,noah-brown-2,2017,7,239,DAL,Noah Brown,WR,WR,Ohio St.,19.0,,9.0,6-2,222.0,,19.0,,,7.07,4.33,BrowNo00,1996-01-06,74.0,225.0,2017.0,2025.0,1996.0,21.0
+309,MuhaKh00,khalfani-muhammad-1,2017,7,241,TEN,Khalfani Muhammad,RB,RB,California,,,,,,,,,,,,MuhaKh00,1994-09-26,67.0,174.0,2017.0,2020.0,1994.0,23.0
+310,HoodEl00,elijah-hood-1,2017,7,242,OAK,Elijah Hood,RB,RB,North Carolina,0.0,,0.0,6-0,232.0,,18.0,,,,,HoodEl00,1996-04-22,71.0,230.0,2017.0,2018.0,1996.0,21.0
+311,DuprMa01,malachi-dupre-1,2017,7,247,GNB,Malachi Dupre,WR,WR,LSU,0.0,,,6-2,196.0,4.52,11.0,39.5,135.0,7.19,4.26,DuprMa01,1995-10-12,74.0,196.0,2017.0,2018.0,1995.0,22.0
+312,CarsCh00,chris-carson-1,2017,7,249,SEA,Chris Carson,RB,RB,Oklahoma St.,29.0,,29.0,6-0,218.0,4.58,23.0,37.0,130.0,,,CarsCh00,1994-09-16,71.0,222.0,2017.0,2021.0,1994.0,23.0
+313,SchrMa00,mason-schreck-1,2017,7,251,CIN,Mason Schreck,TE,TE,Buffalo,0.0,,0.0,,,,,,,,,SchrMa00,1993-11-04,77.0,252.0,2017.0,2022.0,1993.0,24.0
+314,DayeMa00,matt-dayes-1,2017,7,252,CLE,Matthew Dayes,RB,RB,North Carolina St.,0.0,,0.0,5-9,205.0,4.47,18.0,28.0,109.0,,,DayeMa00,1994-09-03,69.0,205.0,2017.0,2019.0,1994.0,23.0
+315,KellCh00,chad-kelly-1,2017,7,253,DEN,Chad Kelly,QB,QB,Mississippi,0.0,,0.0,,,,,,,,,KellCh00,1994-03-26,74.0,216.0,2017.0,2020.0,1994.0,23.0
+316,MayfBa00,baker-mayfield-1,2018,1,1,CLE,Baker Mayfield,QB,QB,Oklahoma,80.0,,35.0,6-1,215.0,4.84,,29.0,111.0,7.0,4.28,MayfBa00,1995-04-14,73.0,215.0,2018.0,2025.0,1995.0,23.0
+317,BarkSa00,saquon-barkley-1,2018,1,2,NYG,Saquon Barkley,RB,RB,Penn St.,65.0,,40.0,6-0,233.0,4.4,29.0,41.0,,,4.24,BarkSa00,1997-02-09,72.0,232.0,2018.0,2025.0,1997.0,21.0
+318,DarnSa00,sam-darnold-1,2018,1,3,NYJ,Sam Darnold,QB,QB,USC,49.0,,14.0,6-3,221.0,4.85,,26.5,105.0,6.96,4.4,DarnSa00,1997-06-05,75.0,225.0,2018.0,2025.0,1997.0,21.0
+319,AlleJo02,josh-allen-7,2018,1,7,BUF,Josh Allen,QB,QB,Wyoming,111.0,,111.0,6-5,237.0,4.75,,33.5,119.0,6.9,4.4,AlleJo02,1996-05-21,77.0,237.0,2018.0,2025.0,1996.0,22.0
+320,RoseJo01,josh-rosen-1,2018,1,10,ARI,Josh Rosen,QB,QB,UCLA,3.0,,2.0,6-4,226.0,4.92,,31.0,111.0,7.09,4.28,RoseJo01,1997-02-10,76.0,215.0,2018.0,2022.0,1997.0,21.0
+321,MoorD.00,dj-moore-3,2018,1,24,CAR,D.J. Moore,WR,WR,Maryland,61.0,,36.0,6-0,210.0,4.42,15.0,39.5,132.0,6.95,4.07,MoorD.00,1997-04-14,72.0,213.0,2018.0,2025.0,1997.0,21.0
+322,HursHa00,hayden-hurst-1,2018,1,25,BAL,Hayden Hurst,TE,TE,South Carolina,17.0,,6.0,6-4,250.0,4.67,,31.5,120.0,7.19,4.37,HursHa00,1993-08-24,76.0,245.0,2018.0,2024.0,1993.0,25.0
+323,RidlCa00,calvin-ridley-1,2018,1,26,ATL,Calvin Ridley,WR,WR,Alabama,41.0,,24.0,6-0,189.0,4.43,15.0,31.0,110.0,6.88,4.41,RidlCa00,1994-12-20,73.0,190.0,2018.0,2025.0,1994.0,24.0
+324,PennRa00,rashaad-penny-1,2018,1,27,SEA,Rashaad Penny,RB,RB,San Diego St.,13.0,,13.0,5-11,220.0,4.46,13.0,32.5,120.0,,,PennRa00,1996-02-02,71.0,220.0,2018.0,2023.0,1996.0,22.0
+325,MichSo00,sony-michel-1,2018,1,31,NWE,Sony Michel,RB,RB,Georgia,21.0,,15.0,5-11,214.0,4.54,22.0,,,,4.21,MichSo00,1995-02-17,71.0,215.0,2018.0,2022.0,1995.0,23.0
+326,JackLa00,lamar-jackson-1,2018,1,32,BAL,Lamar Jackson,QB,QB,Louisville,110.0,,110.0,6-2,216.0,,,,,,,JackLa00,1997-01-07,74.0,205.0,2018.0,2025.0,1997.0,21.0
+327,ChubNi00,nick-chubb-1,2018,2,35,CLE,Nick Chubb,RB,RB,Georgia,49.0,,47.0,5-11,227.0,4.52,29.0,38.5,128.0,7.09,4.25,ChubNi00,1995-12-27,71.0,227.0,2018.0,2025.0,1995.0,23.0
+328,JoneRo01,ronald-jones-4,2018,2,38,TAM,Ronald Jones II,RB,RB,USC,18.0,,17.0,,,,,,,,,JoneRo01,1997-08-03,72.0,218.0,2018.0,2023.0,1997.0,21.0
+329,SuttCo00,courtland-sutton-1,2018,2,40,DEN,Courtland Sutton,WR,WR,SMU,45.0,,45.0,6-3,218.0,4.54,18.0,35.5,124.0,6.57,4.11,SuttCo00,1995-10-10,76.0,216.0,2018.0,2025.0,1995.0,23.0
+330,GesiMi00,mike-gesicki-1,2018,2,42,MIA,Mike Gesicki,TE,TE,Penn St.,28.0,,19.0,6-5,247.0,4.54,22.0,41.5,129.0,6.76,4.1,GesiMi00,1995-10-03,78.0,245.0,2018.0,2025.0,1995.0,23.0
+331,JohnKe06,kerryon-johnson-1,2018,2,43,DET,Kerryon Johnson,RB,RB,Auburn,11.0,,11.0,5-11,213.0,,11.0,40.0,126.0,7.07,4.29,JohnKe06,1997-06-30,71.0,211.0,2018.0,2021.0,1997.0,21.0
+332,PettDa00,dante-pettis-1,2018,2,44,SFO,Dante Pettis,WR,WR,Washington,11.0,,5.0,6-0,186.0,,,,,,,PettDa00,1995-10-23,74.0,200.0,2018.0,2025.0,1995.0,23.0
+333,KirkCh01,christian-kirk-1,2018,2,47,ARI,Christian Kirk,WR,WR,Texas A&M,42.0,,23.0,5-10,201.0,4.47,20.0,35.5,115.0,7.09,4.45,KirkCh01,1996-11-18,71.0,200.0,2018.0,2025.0,1996.0,22.0
+334,GoedDa00,,2018,2,49,PHI,Dallas Goedert,TE,TE,South Dakota St.,38.0,,38.0,6-5,256.0,,23.0,,,,,GoedDa00,1995-01-03,77.0,256.0,2018.0,2025.0,1995.0,23.0
+335,MillAn02,anthony-miller-6,2018,2,51,CHI,Anthony Miller,WR,WR,Memphis,12.0,,12.0,5-11,201.0,,22.0,,,,,MillAn02,1994-10-09,71.0,195.0,2018.0,2025.0,1994.0,24.0
+336,GuicDe00,derrius-guice-1,2018,2,59,WAS,Derrius Guice,RB,RB,LSU,2.0,,2.0,5-10,224.0,4.49,15.0,31.5,,,,GuicDe00,1997-06-21,71.0,225.0,2018.0,2019.0,1997.0,21.0
+337,WashJa00,james-washington-5,2018,2,60,PIT,James Washington,WR,WR,Oklahoma St.,11.0,,11.0,5-11,213.0,4.54,14.0,34.5,120.0,7.11,4.32,WashJa00,1996-04-02,71.0,216.0,2018.0,2022.0,1996.0,22.0
+338,CharDJ00,dj-chark-1,2018,2,61,JAX,DJ Chark,WR,WR,LSU,21.0,,13.0,,,,,,,,,CharDJ00,1996-09-23,75.0,200.0,2018.0,2024.0,1996.0,22.0
+339,FreeRo00,royce-freeman-1,2018,3,71,DEN,Royce Freeman,RB,RB,Oregon,13.0,,9.0,5-11,229.0,4.54,17.0,34.0,118.0,6.9,4.16,FreeRo00,1996-02-24,72.0,238.0,2018.0,2025.0,1996.0,22.0
+340,RudoMa00,mason-rudolph-1,2018,3,76,PIT,Mason Rudolph,QB,QB,Oklahoma St.,10.0,,7.0,6-5,235.0,4.9,,26.0,,,,RudoMa00,1995-07-17,77.0,235.0,2018.0,2025.0,1995.0,23.0
+341,GallMi00,michael-gallup-1,2018,3,81,DAL,Michael Gallup,WR,WR,Colorado St.,30.0,,30.0,6-1,205.0,4.51,10.0,36.0,122.0,6.95,4.37,GallMi00,1996-03-04,73.0,198.0,2018.0,2023.0,1996.0,22.0
+342,AndrMa00,mark-andrews-1,2018,3,86,BAL,Mark Andrews,TE,TE,Oklahoma,51.0,,51.0,6-5,256.0,4.67,17.0,31.0,113.0,7.34,4.38,AndrMa00,1995-09-06,77.0,250.0,2018.0,2025.0,1995.0,23.0
+343,SmitTr03,trequan-smith-1,2018,3,91,NOR,Tre'Quan Smith,WR,WR,Central Florida,15.0,,15.0,,,,,,,,,SmitTr03,1996-01-07,74.0,210.0,2018.0,2024.0,1996.0,22.0
+344,AkinJo00,jordan-akins-1,2018,3,98,HOU,Jordan Akins,TE,TE,Central Florida,16.0,,14.0,6-3,249.0,,,,,,,AkinJo00,1992-04-19,76.0,245.0,2018.0,2025.0,1992.0,26.0
+345,ThomIa00,ian-thomas-3,2018,4,101,CAR,Ian Thomas,TE,TE,Indiana,8.0,,7.0,6-4,259.0,4.74,,36.0,123.0,7.15,4.2,ThomIa00,1996-06-06,75.0,253.0,2018.0,2025.0,1996.0,22.0
+346,CoutKe00,keke-coutee-1,2018,4,103,HOU,Keke Coutee,WR,WR,Texas Tech,7.0,,7.0,5-10,181.0,4.43,14.0,34.5,113.0,6.93,4.15,CoutKe00,1997-01-14,71.0,180.0,2018.0,2022.0,1997.0,21.0
+347,HineNy00,nyheim-hines-1,2018,4,104,IND,Nyheim Hines,RB,RB,North Carolina St.,25.0,,22.0,5-8,198.0,4.38,,35.5,119.0,7.18,4.35,HineNy00,1996-11-12,69.0,196.0,2018.0,2025.0,1996.0,22.0
+348,CallAn00,antonio-callaway-1,2018,4,105,CLE,Antonio Callaway,WR,WR,Florida,5.0,,5.0,5-11,200.0,4.41,,34.0,121.0,,,CallAn00,1997-01-09,71.0,200.0,2018.0,2022.0,1997.0,21.0
+349,HernCh00,christopher-herndon-iv-1,2018,4,107,NYJ,Chris Herndon,TE,TE,Miami (FL),6.0,,6.0,,,,,,,,,HernCh00,1996-02-23,76.0,253.0,2018.0,2021.0,1996.0,22.0
+350,LaulKy00,,2018,4,108,NYG,Kyle Lauletta,QB,QB,Richmond,0.0,,0.0,6-3,222.0,4.81,,31.0,113.0,6.95,4.07,LaulKy00,1995-03-17,75.0,222.0,2018.0,2021.0,1995.0,23.0
+351,WaltMa00,mark-walton-1,2018,4,112,CIN,Mark Walton,RB,RB,Miami (FL),3.0,,1.0,5-10,202.0,4.6,18.0,31.5,118.0,,,WaltMa00,1997-03-29,70.0,200.0,2018.0,2019.0,1997.0,21.0
+352,HamiDa01,daesean-hamilton-1,2018,4,113,DEN,DaeSean Hamilton,WR,WR,Penn St.,6.0,,6.0,,,,,,,,,HamiDa01,1995-03-10,73.0,206.0,2018.0,2022.0,1995.0,23.0
+353,DissWi00,will-dissly-1,2018,4,120,SEA,Will Dissly,TE,TE,Washington,16.0,,10.0,6-4,262.0,4.87,15.0,28.0,111.0,7.07,4.4,DissWi00,1996-07-08,76.0,265.0,2018.0,2025.0,1996.0,22.0
+354,SmytDu00,durham-smythe-1,2018,4,123,MIA,Durham Smythe,TE,TE,Notre Dame,10.0,,10.0,6-5,253.0,4.81,18.0,31.0,110.0,7.17,4.23,SmytDu00,1995-08-09,76.0,248.0,2018.0,2025.0,1995.0,23.0
+355,SmitIt00,ito-smith-1,2018,4,126,ATL,Ito Smith,RB,RB,Southern Miss,6.0,,6.0,,,,,,,,,SmitIt00,1995-09-11,69.0,195.0,2018.0,2021.0,1995.0,23.0
+356,BallKa00,kalen-ballage-1,2018,4,131,MIA,Kalen Ballage,RB,RB,Arizona St.,6.0,,3.0,6-1,228.0,4.46,15.0,33.5,122.0,6.91,4.35,BallKa00,1995-12-22,74.0,231.0,2018.0,2021.0,1995.0,23.0
+357,ScotJa02,jaleel-scott-1,2018,4,132,BAL,Jaleel Scott,WR,WR,New Mexico St.,0.0,,0.0,6-5,218.0,4.56,16.0,34.5,124.0,7.2,4.4,ScotJa02,1995-02-23,77.0,210.0,2018.0,2020.0,1995.0,23.0
+358,MoorJM00,jmon-moore-2,2018,4,133,GNB,J'Mon Moore,WR,WR,Missouri,0.0,,0.0,,,,,,,,,MoorJM00,1995-05-23,75.0,205.0,2018.0,2020.0,1995.0,23.0
+359,EdmoCh00,,2018,4,134,ARI,Chase Edmonds,RB,RB,Fordham,21.0,,17.0,5-9,205.0,4.55,19.0,34.0,122.0,6.79,4.07,EdmoCh00,1996-04-13,69.0,201.0,2018.0,2025.0,1996.0,22.0
+360,SchuDa00,dalton-schultz-1,2018,4,137,DAL,Dalton Schultz,TE,TE,Stanford,30.0,,18.0,6-5,244.0,4.75,15.0,32.0,120.0,7.0,4.4,SchuDa00,1996-07-11,77.0,242.0,2018.0,2025.0,1996.0,22.0
+361,WatsJu01,,2018,5,144,TAM,Justin Watson,WR,WR,Pennsylvania,11.0,,2.0,,,,,,,,,WatsJu01,1996-04-04,74.0,215.0,2018.0,2025.0,1996.0,22.0
+362,FumaTr00,troy-fumagalli-2,2018,5,156,DEN,Troy Fumagalli,TE,TE,Wisconsin,1.0,,1.0,6-5,247.0,,14.0,,,,,FumaTr00,1995-02-17,78.0,248.0,2018.0,2023.0,1995.0,23.0
+363,ConkTy00,tyler-conklin-1,2018,5,157,MIN,Tyler Conklin,TE,TE,Central Michigan,20.0,,8.0,6-3,254.0,4.8,18.0,38.0,120.0,7.13,4.23,ConkTy00,1995-07-30,75.0,248.0,2018.0,2025.0,1995.0,23.0
+364,FounDa00,,2018,5,159,IND,Daurice Fountain,WR,WR,Northern Iowa,0.0,,0.0,,,,,,,,,FounDa00,1995-12-22,73.0,210.0,2018.0,2023.0,1995.0,23.0
+365,LaslJo00,jordan-lasley-1,2018,5,162,BAL,Jordan Lasley,WR,WR,UCLA,,,,6-1,203.0,4.5,8.0,34.5,112.0,,4.19,LaslJo00,1996-11-13,73.0,213.0,2018.0,2018.0,1996.0,22.0
+366,SamuJa00,jaylen-samuels-1,2018,5,165,PIT,Jaylen Samuels,TE,TE,North Carolina St.,7.0,,7.0,5-11,225.0,4.54,18.0,34.5,121.0,6.93,4.28,SamuJa00,1996-07-20,72.0,225.0,2018.0,2021.0,1996.0,22.0
+367,WilkJo01,jordan-wilkins-1,2018,5,169,IND,Jordan Wilkins,RB,RB,Mississippi,8.0,,8.0,6-1,216.0,,16.0,36.0,117.0,,4.27,WilkJo01,1994-07-18,72.0,204.0,2018.0,2023.0,1994.0,24.0
+368,WhitMi01,mike-white-6,2018,5,171,DAL,Mike White,QB,QB,Western Kentucky,5.0,,,,,,,,,,,WhitMi01,1995-03-25,77.0,216.0,2018.0,2025.0,1995.0,23.0
+369,ValdMa00,marquez-valdes-scantling-1,2018,5,174,GNB,Marquez Valdes-Scantling,WR,WR,South Florida,29.0,,18.0,6-4,206.0,4.37,15.0,30.5,124.0,,,ValdMa00,1994-10-10,76.0,206.0,2018.0,2025.0,1994.0,24.0
+370,RatlDa00,damion-ratley-1,2018,6,175,CLE,Damion Ratley,WR,WR,Texas A&M,4.0,,3.0,,,,,,,,,RatlDa00,1995-04-16,74.0,200.0,2018.0,2021.0,1995.0,23.0
+371,KellJo00,john-kelly-6,2018,6,176,LAR,John Kelly,RB,RB,Tennessee,1.0,,1.0,5-10,216.0,,15.0,35.0,120.0,7.13,4.51,KellJo00,1996-10-04,70.0,208.0,2018.0,2024.0,1996.0,22.0
+372,CainDe00,deon-cain-1,2018,6,185,IND,Deon Cain,WR,WR,Clemson,1.0,,0.0,6-2,202.0,4.43,11.0,33.5,115.0,6.71,4.37,CainDe00,1996-08-09,74.0,202.0,2018.0,2024.0,1996.0,22.0
+373,McClRa00,ray-ray-mccloud-1,2018,6,187,BUF,Ray-Ray McCloud,WR,WR,Clemson,14.0,,0.0,,,,,,,,,McClRa00,1996-10-15,69.0,185.0,2018.0,2025.0,1996.0,22.0
+374,CantDy00,dylan-cantrell-1,2018,6,191,LAC,Dylan Cantrell,WR,WR,Texas Tech,,,,6-3,226.0,4.59,18.0,38.5,130.0,6.56,4.03,CantDy00,1994-06-29,75.0,226.0,2018.0,2021.0,1994.0,24.0
+375,GageRu00,russell-gage-1,2018,6,194,ATL,Russell Gage,WR,WR,LSU,20.0,,17.0,,,,,,,,,GageRu00,1996-01-22,72.0,184.0,2018.0,2025.0,1996.0,22.0
+376,SmitTr04,,2018,6,196,KAN,Tremon Smith,WR,WR,Central Arkansas,8.0,,1.0,,,,,,,,,SmitTr04,1996-07-20,72.0,190.0,2018.0,2025.0,1996.0,22.0
+377,FalkLu00,luke-falk-1,2018,6,199,TEN,Luke Falk,QB,QB,Washington St.,1.0,,,6-4,215.0,,,26.5,103.0,,,FalkLu00,1994-12-28,76.0,215.0,2018.0,2019.0,1994.0,24.0
+378,ScotBo02,boston-scott-1,2018,6,201,NOR,Boston Scott,RB,RB,Louisiana Tech,11.0,,,,,,,,,,,ScotBo02,1995-04-27,66.0,203.0,2018.0,2024.0,1995.0,23.0
+379,LeexTa00,tanner-lee-1,2018,6,203,JAX,Tanner Lee,QB,QB,Nebraska,,,,6-4,218.0,4.98,,32.0,115.0,7.0,4.41,LeexTa00,1995-02-14,76.0,218.0,2018.0,2018.0,1995.0,23.0
+380,CannTr00,,2018,6,204,NYJ,Trenton Cannon,RB,RB,Virginia St.,2.0,,2.0,,,,,,,,,CannTr00,1994-07-23,71.0,185.0,2018.0,2022.0,1994.0,24.0
+381,St.BEq00,equanimeous-st-brown-1,2018,6,207,GNB,Equanimeous St. Brown,WR,WR,Notre Dame,8.0,,4.0,,,,,,,,,St.BEq00,1996-09-30,77.0,214.0,2018.0,2024.0,1996.0,22.0
+382,WilsCe01,cedric-wilson-3,2018,6,208,DAL,Cedrick Wilson Jr.,WR,WR,Boise St.,11.0,,6.0,,,,,,,,,WilsCe01,1995-11-20,74.0,197.0,2018.0,2025.0,1995.0,23.0
+383,BerrBr00,braxton-berrios-1,2018,6,210,NWE,Braxton Berrios,WR,WR,Miami (FL),11.0,,,5-9,184.0,,11.0,,,,,BerrBr00,1995-10-06,69.0,185.0,2018.0,2025.0,1995.0,23.0
+384,ThomJo05,jordan-thomas-6,2018,6,211,HOU,Jordan Thomas,TE,TE,Mississippi St.,2.0,,2.0,6-5,265.0,4.74,16.0,27.0,111.0,7.5,4.75,ThomJo05,1996-08-02,77.0,277.0,2018.0,2023.0,1996.0,22.0
+385,EtliDa00,danny-etling-1,2018,7,219,NWE,Danny Etling,QB,QB,LSU,,,,6-2,222.0,4.76,,30.5,114.0,7.09,4.37,EtliDa00,1994-07-22,75.0,220.0,2018.0,2022.0,1994.0,24.0
+386,McGoAl00,alex-mcgough-1,2018,7,220,SEA,Alex McGough,QB,QB,Florida International,,,,,,,,,,,,McGoAl00,1995-11-19,75.0,214.0,2018.0,2024.0,1995.0,23.0
+387,WimsJa00,javon-wims-1,2018,7,224,CHI,Javon Wims,WR,WR,Georgia,1.0,,1.0,6-3,215.0,4.53,,33.5,113.0,7.0,,WimsJa00,1994-09-11,74.0,221.0,2018.0,2022.0,1994.0,24.0
+388,WillDa011,david-williams-5,2018,7,226,DEN,David Williams,RB,RB,Arkansas,0.0,,,,,,,,,,,WillDa011,1994-06-17,72.0,229.0,2018.0,2018.0,1994.0,24.0
+389,AtemMa00,marcell-ateman-1,2018,7,228,OAK,Marcell Ateman,WR,WR,Oklahoma St.,2.0,,2.0,6-4,216.0,4.62,13.0,34.0,121.0,7.07,4.25,AtemMa00,1994-09-16,76.0,216.0,2018.0,2023.0,1994.0,24.0
+390,ScarBo01,bo-scarbrough-1,2018,7,236,DAL,Bo Scarbrough,RB,RB,Alabama,2.0,,,6-1,228.0,4.52,14.0,40.0,129.0,,4.34,ScarBo01,1996-09-29,73.0,235.0,2018.0,2020.0,1996.0,22.0
+391,BawdNi00,nick-bawden-1,2018,7,237,DET,Nick Bawden,RB,RB,San Diego St.,0.0,,0.0,,,,,,,,,BawdNi00,1996-06-22,74.0,245.0,2018.0,2023.0,1996.0,22.0
+392,JameRi00,richie-james-1,2018,7,240,SFO,Richie James,WR,WR,Middle Tenn. St.,13.0,,6.0,,,,,,,,,JameRi00,1995-09-05,69.0,185.0,2018.0,2023.0,1995.0,23.0
+393,WoodLo00,logan-woodside-1,2018,7,249,CIN,Logan Woodside,QB,QB,Toledo,0.0,,,6-1,213.0,4.79,,31.5,103.0,6.94,4.15,WoodLo00,1995-01-27,73.0,210.0,2018.0,2025.0,1995.0,23.0
+394,IzzoRy00,ryan-izzo-1,2018,7,250,NWE,Ryan Izzo,TE,TE,Florida St.,3.0,,3.0,6-5,256.0,4.94,18.0,33.0,110.0,7.15,4.43,IzzoRy00,1995-12-21,77.0,255.0,2018.0,2021.0,1995.0,23.0
+395,JackJu01,justin-jackson-5,2018,7,251,LAC,Justin Jackson,RB,RB,Northwestern,12.0,,10.0,6-0,199.0,4.52,13.0,38.5,122.0,6.81,4.07,JackJu01,1996-04-22,72.0,200.0,2018.0,2022.0,1996.0,22.0
+396,TateAu00,auden-tate-1,2018,7,253,CIN,Auden Tate,WR,WR,Florida St.,5.0,,5.0,6-5,228.0,4.68,,31.0,112.0,,,TateAu00,1997-02-03,77.0,228.0,2018.0,2022.0,1997.0,21.0
+397,ProeAu00,austin-proehl-1,2018,7,255,BUF,Austin Proehl,WR,WR,North Carolina,,,,,,,,,,,,ProeAu00,1995-10-11,70.0,175.0,2018.0,2021.0,1995.0,23.0
+398,QuinTr00,trey-quinn-1,2018,7,256,WAS,Trey Quinn,WR,WR,SMU,2.0,,2.0,5-11,203.0,4.55,17.0,33.5,116.0,6.91,4.19,QuinTr00,1995-12-07,72.0,200.0,2018.0,2023.0,1995.0,23.0
+399,MurrKy00,kyler-murray-1,2019,1,1,ARI,Kyler Murray,QB,QB,Oklahoma,71.0,,71.0,5-10,207.0,,,,,,,MurrKy00,1997-08-07,70.0,207.0,2019.0,2025.0,1997.0,22.0
+400,JoneDa05,daniel-jones-4,2019,1,6,NYG,Daniel Jones,QB,QB,Duke,52.0,,40.0,6-5,221.0,4.81,,33.5,120.0,7.0,4.41,JoneDa05,1997-05-27,77.0,230.0,2019.0,2025.0,1997.0,22.0
+401,HockTJ00,tj-hockenson-1,2019,1,8,DET,T.J. Hockenson,TE,TE,Iowa,33.0,,16.0,6-5,251.0,4.7,17.0,37.5,123.0,7.02,4.18,HockTJ00,1997-07-03,77.0,248.0,2019.0,2025.0,1997.0,22.0
+402,HaskDw00,dwayne-haskins-1,2019,1,15,WAS,Dwayne Haskins,QB,QB,Ohio St.,4.0,,4.0,6-3,231.0,5.04,,28.5,,,,HaskDw00,1997-05-03,76.0,230.0,2019.0,2021.0,1997.0,22.0
+403,FantNo00,noah-fant-1,2019,1,20,DEN,Noah Fant,TE,TE,Iowa,26.0,,14.0,6-4,249.0,4.5,20.0,39.5,127.0,6.81,4.22,FantNo00,1997-11-20,76.0,249.0,2019.0,2025.0,1997.0,22.0
+404,JacoJo01,joshua-jacobs-1,2019,1,24,OAK,Josh Jacobs,RB,RB,Alabama,57.0,,38.0,5-10,220.0,,,,,,,JacoJo01,1998-02-11,70.0,223.0,2019.0,2025.0,1998.0,21.0
+405,BrowMa04,marquise-brown-1,2019,1,25,BAL,Marquise Brown,WR,WR,Oklahoma,39.0,,24.0,5-9,166.0,,,,,,,BrowMa04,1997-06-04,69.0,180.0,2019.0,2025.0,1997.0,22.0
+406,HarrNK00,nkeal-harry-1,2019,1,32,NWE,N'Keal Harry,WR,WR,Arizona St.,7.0,,6.0,6-2,228.0,4.53,27.0,38.5,122.0,,,HarrNK00,1997-12-17,76.0,225.0,2019.0,2024.0,1997.0,22.0
+407,SamuDe00,deebo-samuel-1,2019,2,36,SFO,Deebo Samuel,WR,WR,South Carolina,52.0,,47.0,5-11,214.0,4.48,15.0,39.0,122.0,7.03,4.14,SamuDe00,1996-01-15,72.0,215.0,2019.0,2025.0,1996.0,23.0
+408,LockDr00,drew-lock-1,2019,2,42,DEN,Drew Lock,QB,QB,Missouri,14.0,,12.0,6-4,228.0,4.69,,31.0,112.0,7.03,4.12,LockDr00,1996-11-10,76.0,228.0,2019.0,2025.0,1996.0,23.0
+409,SmitIr01,irv-smith-jr-1,2019,2,50,MIN,Irv Smith Jr.,TE,TE,Alabama,9.0,,8.0,,,,,,,,,SmitIr01,1998-08-09,74.0,240.0,2019.0,2025.0,1998.0,21.0
+410,BrowAJ00,aj-brown-3,2019,2,51,TEN,A.J. Brown,WR,WR,Mississippi,73.0,,25.0,6-0,226.0,4.49,19.0,36.5,120.0,,,BrowAJ00,1997-06-30,73.0,226.0,2019.0,2025.0,1997.0,22.0
+411,SampDr00,drew-sample-1,2019,2,52,CIN,Drew Sample,TE,TE,Washington,7.0,,7.0,6-5,255.0,4.71,,33.5,115.0,7.15,4.31,SampDr00,1996-04-16,77.0,260.0,2019.0,2025.0,1996.0,23.0
+412,SandMi01,miles-sanders-1,2019,2,53,PHI,Miles Sanders,RB,RB,Penn St.,34.0,,29.0,5-11,211.0,4.49,20.0,36.0,124.0,6.89,4.19,SandMi01,1997-05-01,71.0,211.0,2019.0,2025.0,1997.0,22.0
+413,HardMe00,mecole-hardman-1,2019,2,56,KAN,Mecole Hardman,WR,WR,Georgia,23.0,,23.0,5-10,187.0,4.33,17.0,36.5,119.0,,,HardMe00,1998-03-12,70.0,187.0,2019.0,2025.0,1998.0,21.0
+414,ArceJJ00,jj-arcega-whiteside-1,2019,2,57,PHI,JJ Arcega-Whiteside,WR,WR,Stanford,2.0,,2.0,,,,,,,,,ArceJJ00,1996-12-31,74.0,237.0,2019.0,2022.0,1996.0,23.0
+415,CampPa00,parris-campbell-1,2019,2,59,IND,Parris Campbell,WR,WR,Ohio St.,9.0,,9.0,6-0,205.0,4.31,11.0,40.0,135.0,,4.03,CampPa00,1997-07-16,73.0,205.0,2019.0,2025.0,1997.0,22.0
+416,IsabAn00,andy-isabella-1,2019,2,62,ARI,Andy Isabella,WR,WR,Massachusetts,4.0,,4.0,5-9,188.0,4.31,15.0,36.5,121.0,6.95,4.15,IsabAn00,1996-11-18,69.0,188.0,2019.0,2024.0,1996.0,23.0
+417,MetcDK00,dk-metcalf-1,2019,2,64,SEA,D.K. Metcalf,WR,WR,Mississippi,57.0,,50.0,6-3,228.0,4.33,27.0,40.5,134.0,7.38,4.5,MetcDK00,1997-12-14,76.0,229.0,2019.0,2025.0,1997.0,22.0
+418,JohnDi01,diontae-johnson-1,2019,3,66,PIT,Diontae Johnson,WR,WR,Toledo,35.0,,33.0,5-10,183.0,4.53,15.0,33.5,123.0,7.09,4.45,JohnDi01,1996-07-05,70.0,183.0,2019.0,2024.0,1996.0,23.0
+419,HurdJa00,jalen-hurd-1,2019,3,67,SFO,Jalen Hurd,WR,WR,Baylor,,,,6-5,226.0,,23.0,,,,,HurdJa00,1996-01-23,77.0,230.0,2019.0,2021.0,1996.0,23.0
+420,OlivJo00,josh-oliver-1,2019,3,69,JAX,Josh Oliver,TE,TE,San Jose St.,7.0,,0.0,6-5,249.0,4.63,22.0,34.0,117.0,7.21,4.47,OlivJo00,1997-03-21,77.0,264.0,2019.0,2025.0,1997.0,22.0
+421,HendDa00,darrell-henderson-1,2019,3,70,LAR,Darrell Henderson,RB,RB,Memphis,15.0,,15.0,5-8,208.0,4.49,22.0,33.5,121.0,,,HendDa00,1997-08-19,68.0,208.0,2019.0,2023.0,1997.0,22.0
+422,MontDa01,david-montgomery-1,2019,3,73,CHI,David Montgomery,RB,RB,Iowa St.,49.0,,26.0,5-10,222.0,4.63,15.0,28.5,121.0,,,MontDa01,1997-06-07,71.0,230.0,2019.0,2025.0,1997.0,22.0
+423,SingDe00,devin-singletary-1,2019,3,74,BUF,Devin Singletary,RB,RB,Florida Atlantic,39.0,,28.0,5-7,203.0,4.66,15.0,35.0,117.0,7.32,4.4,SingDe00,1997-09-03,67.0,203.0,2019.0,2025.0,1997.0,22.0
+424,SterJa00,jace-sternberger-1,2019,3,75,GNB,Jace Sternberger,TE,TE,Texas A&M,1.0,,1.0,6-4,251.0,4.75,17.0,31.5,113.0,7.19,4.31,SterJa00,1996-06-26,76.0,251.0,2019.0,2021.0,1996.0,23.0
+425,McLaTe00,terry-mclaurin-1,2019,3,76,WAS,Terry McLaurin,WR,WR,Ohio St.,51.0,,51.0,6-0,208.0,4.35,18.0,37.5,125.0,7.01,4.15,McLaTe00,1995-09-15,72.0,210.0,2019.0,2025.0,1995.0,24.0
+426,WarrKa00,kahale-warring-1,2019,3,86,HOU,Kahale Warring,TE,TE,San Diego St.,0.0,,0.0,6-5,252.0,4.67,19.0,36.5,122.0,7.21,4.25,WarrKa00,1997-03-23,77.0,252.0,2019.0,2021.0,1997.0,22.0
+427,HarrDa06,damien-harris-1,2019,3,87,NWE,Damien Harris,RB,RB,Alabama,16.0,,15.0,5-10,216.0,4.57,16.0,37.0,121.0,,,HarrDa06,1997-02-11,71.0,213.0,2019.0,2023.0,1997.0,22.0
+428,BoykMi00,miles-boykin-1,2019,3,93,BAL,Miles Boykin,WR,WR,Notre Dame,6.0,,6.0,6-4,220.0,4.42,12.0,43.5,140.0,6.77,4.07,BoykMi00,1996-10-12,75.0,231.0,2019.0,2025.0,1996.0,23.0
+429,KnoxDa00,dawson-knox-1,2019,3,96,BUF,Dawson Knox,TE,TE,Mississippi,25.0,,25.0,6-4,254.0,,16.0,34.5,,7.12,4.27,KnoxDa00,1996-11-14,76.0,254.0,2019.0,2025.0,1996.0,23.0
+430,GrieWi00,will-grier-1,2019,3,100,CAR,Will Grier,QB,QB,West Virginia,1.0,,1.0,6-2,217.0,4.84,,34.0,112.0,7.09,4.28,GrieWi00,1995-04-03,73.0,212.0,2019.0,2025.0,1995.0,24.0
+431,MattAl01,alexander-mattison-1,2019,3,102,MIN,Alexander Mattison,RB,RB,Boise St.,21.0,,18.0,5-11,221.0,4.67,22.0,35.0,127.0,7.13,4.29,MattAl01,1998-06-19,71.0,220.0,2019.0,2025.0,1998.0,21.0
+432,ButlHa00,hakeem-butler-1,2019,4,103,ARI,Hakeem Butler,WR,WR,Iowa St.,0.0,,,6-5,227.0,4.48,18.0,36.0,128.0,,,ButlHa00,1996-05-16,77.0,227.0,2019.0,2020.0,1996.0,23.0
+433,FinlRy00,ryan-finley-1,2019,4,104,CIN,Ryan Finley,QB,QB,North Carolina St.,2.0,,2.0,6-4,213.0,4.73,,30.5,116.0,7.2,4.2,FinlRy00,1994-12-26,76.0,207.0,2019.0,2020.0,1994.0,25.0
+434,LoveBr00,bryce-love-1,2019,4,112,WAS,Bryce Love,RB,RB,Stanford,,,,5-9,200.0,,18.0,,,,,LoveBr00,1997-07-08,69.0,205.0,2019.0,2020.0,1997.0,22.0
+435,HillJu00,justice-hill-1,2019,4,113,BAL,Justice Hill,RB,RB,Oklahoma St.,17.0,,17.0,5-10,198.0,4.4,21.0,40.0,130.0,,,HillJu00,1997-11-14,70.0,205.0,2019.0,2025.0,1997.0,22.0
+436,JennGa00,gary-jennings-1,2019,4,120,SEA,Gary Jennings Jr,WR,WR,West Virginia,0.0,,,,,,,,,,,JennGa00,1997-03-07,73.0,216.0,2019.0,2021.0,1997.0,22.0
+437,WescTr00,trevon-wesco-1,2019,4,121,NYJ,Trevon Wesco,TE,TE,West Virginia,0.0,,0.0,6-3,267.0,4.89,24.0,31.0,117.0,7.18,4.38,WescTr00,1995-09-12,75.0,267.0,2019.0,2024.0,1995.0,24.0
+438,SnelBe00,benjamin-snell-jr-1,2019,4,122,PIT,Benny Snell Jr.,RB,RB,Kentucky,8.0,,8.0,,,,,,,,,SnelBe00,1998-02-27,70.0,224.0,2019.0,2022.0,1998.0,21.0
+439,RidlRi00,riley-ridley-1,2019,4,126,CHI,Riley Ridley,WR,WR,Georgia,1.0,,1.0,6-1,199.0,4.58,13.0,30.5,124.0,7.22,4.28,RidlRi00,1996-07-21,73.0,192.0,2019.0,2020.0,1996.0,23.0
+440,PollTo00,tony-pollard-1,2019,4,128,DAL,Tony Pollard,RB,RB,Memphis,45.0,,34.0,6-0,210.0,4.52,13.0,35.0,121.0,,,PollTo00,1997-04-30,72.0,209.0,2019.0,2025.0,1997.0,22.0
+441,StidJa00,jarrett-stidham-1,2019,4,133,NWE,Jarrett Stidham,QB,QB,Auburn,6.0,,1.0,6-2,218.0,4.81,,31.0,110.0,7.28,4.33,StidJa00,1996-08-08,75.0,215.0,2019.0,2025.0,1996.0,23.0
+442,MoreFo00,foster-moreau-1,2019,4,137,OAK,Foster Moreau,TE,TE,LSU,13.0,,8.0,6-4,253.0,4.66,22.0,36.5,121.0,7.16,4.11,MoreFo00,1997-05-06,76.0,250.0,2019.0,2025.0,1997.0,22.0
+443,ArmsRy00,ryquell-armstead-1,2019,5,140,JAX,Ryquell Armstead,RB,RB,Temple,2.0,,2.0,5-11,220.0,4.45,22.0,30.0,114.0,7.02,4.29,ArmsRy00,1996-10-30,71.0,220.0,2019.0,2021.0,1996.0,23.0
+444,GentZa00,zach-gentry-2,2019,5,141,PIT,Zach Gentry,TE,TE,Michigan,2.0,,2.0,6-8,265.0,4.9,12.0,29.5,110.0,7.4,4.53,GentZa00,1996-09-10,80.0,265.0,2019.0,2023.0,1996.0,23.0
+445,RenfHu00,hunter-renfrow-1,2019,5,149,OAK,Hunter Renfrow,WR,WR,Clemson,22.0,,21.0,5-10,184.0,4.59,7.0,35.0,116.0,6.8,4.19,RenfHu00,1995-12-21,70.0,185.0,2019.0,2025.0,1995.0,24.0
+446,OlliQa00,oadree-ollison-1,2019,5,152,ATL,Qadree Ollison,RB,RB,Pittsburgh,1.0,,1.0,6-1,228.0,4.58,19.0,29.5,114.0,7.53,4.31,OlliQa00,1996-09-08,73.0,232.0,2019.0,2023.0,1996.0,23.0
+447,ScarJo00,jordan-scarlett-1,2019,5,154,CAR,Jordan Scarlett,RB,RB,Florida,0.0,,0.0,5-11,208.0,4.47,21.0,30.0,116.0,7.37,4.63,ScarJo00,1995-07-08,71.0,210.0,2019.0,2021.0,1995.0,24.0
+448,SticEa00,,2019,5,166,LAC,Easton Stick,QB,QB,North Dakota St.,4.0,,4.0,6-1,224.0,4.62,,33.5,118.0,6.65,4.05,SticEa00,1995-09-09,73.0,224.0,2019.0,2025.0,1995.0,24.0
+449,ThorCl00,clayton-thorson-1,2019,5,167,PHI,Clayton Thorson,QB,QB,Northwestern,,,,6-4,222.0,,,,,,,ThorCl00,1995-06-15,76.0,222.0,2019.0,2021.0,1995.0,24.0
+450,SlayDa01,darius-slayton-1,2019,5,171,NYG,Darius Slayton,WR,WR,Auburn,32.0,,32.0,6-1,190.0,4.39,11.0,40.5,135.0,7.0,4.15,SlayDa01,1997-01-12,73.0,198.0,2019.0,2025.0,1997.0,22.0
+451,JohnKe07,keesean-johnson-1,2019,6,174,ARI,KeeSean Johnson,WR,WR,Fresno St.,4.0,,4.0,,,,,,,,,JohnKe07,1996-10-09,73.0,201.0,2019.0,2022.0,1996.0,23.0
+452,SmitKa00,kaden-smith-1,2019,6,176,SFO,Kaden Smith,TE,TE,Stanford,3.0,,,6-5,255.0,4.92,15.0,32.0,108.0,7.08,4.47,SmitKa00,1997-04-24,77.0,249.0,2019.0,2023.0,1997.0,22.0
+453,MinsGa00,gardner-minshew-1,2019,6,178,JAX,Gardner Minshew II,QB,QB,Washington St.,32.0,,16.0,,,,,,,,,MinsGa00,1996-05-16,73.0,225.0,2019.0,2025.0,1996.0,23.0
+454,WillTr06,trayveon-williams-1,2019,6,182,CIN,Trayveon Williams,RB,RB,Texas A&M,4.0,,3.0,5-8,206.0,4.51,19.0,33.0,121.0,7.44,4.44,WillTr06,1997-10-18,68.0,206.0,2019.0,2025.0,1997.0,22.0
+455,FulgTr00,travis-fulgham-1,2019,6,184,DET,Travis Fulgham,WR,WR,Old Dominion,4.0,,0.0,6-2,215.0,4.58,15.0,36.5,126.0,,,FulgTr00,1995-09-13,74.0,215.0,2019.0,2022.0,1995.0,24.0
+456,JohnTy02,ty-johnson-1,2019,6,186,DET,Ty Johnson,RB,RB,Maryland,18.0,,2.0,,,,,,,,,JohnTy02,1997-09-17,70.0,210.0,2019.0,2025.0,1997.0,22.0
+457,WinfJu00,juwann-winfree-1,2019,6,187,DEN,Juwann Winfree,WR,WR,Colorado,1.0,,0.0,,,,,,,,,WinfJu00,1996-09-04,73.0,210.0,2019.0,2024.0,1996.0,23.0
+458,WillDe07,dexter-williams-1,2019,6,194,GNB,Dexter Williams,RB,RB,Notre Dame,0.0,,0.0,5-11,212.0,4.57,17.0,36.0,130.0,7.0,4.16,WillDe07,1997-01-06,71.0,212.0,2019.0,2021.0,1997.0,22.0
+459,McSoTr00,trace-mcsorley-1,2019,6,197,BAL,Trace McSorley,QB,QB,Penn St.,1.0,,0.0,6-0,202.0,4.57,,33.0,115.0,7.09,4.12,McSoTr00,1995-08-23,72.0,202.0,2019.0,2023.0,1995.0,24.0
+460,GreeMa02,marcus-green-6,2019,6,203,ATL,Marcus Green,WR,WR,La-Monroe,,,,,,,,,,,,GreeMa02,1996-08-13,68.0,191.0,2019.0,2020.0,1996.0,23.0
+461,HomeTr00,travis-homer-1,2019,6,204,SEA,Travis Homer,RB,RB,Miami (FL),8.0,,8.0,5-10,201.0,4.48,17.0,39.5,130.0,7.07,4.31,HomeTr00,1998-08-07,70.0,211.0,2019.0,2025.0,1998.0,21.0
+462,HarmKe00,kelvin-harmon-1,2019,6,206,WAS,Kelvin Harmon,WR,WR,North Carolina St.,3.0,,3.0,6-2,221.0,4.6,18.0,32.5,117.0,7.15,4.32,HarmKe00,1996-12-15,74.0,215.0,2019.0,2024.0,1996.0,23.0
+463,MillSc01,scott-miller-3,2019,6,208,TAM,Scott Miller,WR,WR,Bowling Green,11.0,,9.0,,,,,,,,,MillSc01,1997-07-31,69.0,174.0,2019.0,2025.0,1997.0,22.0
+464,AndeRo02,rodney-anderson-1,2019,6,211,CIN,Rodney Anderson,RB,RB,Oklahoma,,,,6-0,224.0,,25.0,,,,,AndeRo02,1996-09-12,72.0,224.0,2019.0,2019.0,1996.0,23.0
+465,ThomDa06,darwin-thompson-1,2019,6,214,KAN,Darwin Thompson,RB,RB,Utah St.,2.0,,2.0,,,,,,,,,ThomDa06,1997-02-12,68.0,200.0,2019.0,2022.0,1997.0,22.0
+466,WebeMi00,mike-weber-1,2019,7,218,DAL,Mike Weber,RB,RB,Ohio St.,,,,5-10,211.0,4.47,22.0,33.5,,,,WebeMi00,1997-08-27,70.0,210.0,2019.0,2020.0,1997.0,22.0
+467,GillCu00,cullen-gillaspia-1,2019,7,220,HOU,Cullen Gillaspia,RB,RB,Texas A&M,0.0,,0.0,,,,,,,,,GillCu00,1995-05-12,74.0,235.0,2019.0,2022.0,1995.0,24.0
+468,WhytKe00,kerrith-whyte-1,2019,7,222,CHI,Kerrith Whyte Jr,RB,RB,Florida Atlantic,1.0,,,,,,,,,,,WhytKe00,1996-10-31,70.0,204.0,2019.0,2021.0,1996.0,23.0
+469,NautIs00,isaac-nauta-1,2019,7,224,DET,Isaac Nauta,TE,TE,Georgia,0.0,,0.0,6-3,244.0,4.91,19.0,28.0,,7.45,4.43,NautIs00,1997-05-21,75.0,244.0,2019.0,2020.0,1997.0,22.0
+470,SweeTo00,tommy-sweeney-1,2019,7,228,BUF,Tommy Sweeney,TE,TE,Boston Col.,1.0,,1.0,6-4,251.0,4.83,17.0,,,,,SweeTo00,1995-07-01,77.0,255.0,2019.0,2024.0,1995.0,24.0
+471,MackAl00,alize-mack-1,2019,7,231,NOR,Alizé Mack,TE,TE,Notre Dame,,,,,,,,,,,,MackAl00,1997-03-29,76.0,249.0,2019.0,2019.0,1997.0,22.0
+472,CoxxCh01,chandler-cox-1,2019,7,233,MIA,Chandler Cox,RB,RB,Auburn,0.0,,0.0,,,,,,,,,CoxxCh01,1996-07-29,73.0,240.0,2019.0,2020.0,1996.0,23.0
+473,GaskMy00,myles-gaskin-1,2019,7,234,MIA,Myles Gaskin,RB,RB,Washington,13.0,,13.0,5-9,205.0,4.58,24.0,35.5,118.0,7.19,4.27,GaskMy00,1997-02-15,70.0,199.0,2019.0,2025.0,1997.0,22.0
+474,UrsuJo00,john-ursua-1,2019,7,236,SEA,John Ursua,WR,WR,Hawaii,0.0,,0.0,,,,,,,,,UrsuJo00,1994-01-17,69.0,182.0,2019.0,2021.0,1994.0,25.0
+475,GodwTe00,terry-godwin-1,2019,7,237,CAR,Terry Godwin,WR,WR,Georgia,0.0,,,5-11,184.0,4.55,,36.5,117.0,6.96,,GodwTe00,1996-10-23,71.0,185.0,2019.0,2021.0,1996.0,23.0
+476,MitcDi00,dillon-mitchell-1,2019,7,239,MIN,Dillon Mitchell,WR,WR,Oregon,,,,6-1,197.0,4.46,12.0,36.5,122.0,,4.29,MitcDi00,1997-05-16,73.0,202.0,2019.0,2019.0,1997.0,22.0
+477,JohnOl00,olabisi-johnson-1,2019,7,247,MIN,Olabisi Johnson,WR,WR,Colorado St.,5.0,,5.0,,,,,,,,,JohnOl00,1997-03-17,72.0,210.0,2019.0,2022.0,1997.0,22.0
+478,WilsCa00,caleb-wilson-2,2019,7,254,ARI,Caleb Wilson,TE,TE,UCLA,0.0,,,6-4,240.0,4.56,,29.0,113.0,7.2,4.4,WilsCa00,1996-07-15,76.0,240.0,2019.0,2021.0,1996.0,23.0
+479,BurrJo01,joe-burrow-1,2020,1,1,CIN,Joe Burrow,QB,QB,LSU,63.0,,63.0,6-3,221.0,,,,,,,BurrJo01,1996-12-10,76.0,215.0,2020.0,2025.0,1996.0,24.0
+480,TagoTu00,tua-tagovailoa-1,2020,1,5,MIA,Tua Tagovailoa,QB,QB,Alabama,52.0,,52.0,6-0,217.0,,,,,,,TagoTu00,1998-03-02,73.0,225.0,2020.0,2025.0,1998.0,22.0
+481,HerbJu00,justin-herbert-1,2020,1,6,LAC,Justin Herbert,QB,QB,Oregon,74.0,,74.0,6-6,236.0,4.68,,35.5,123.0,7.06,4.46,HerbJu00,1998-03-10,78.0,236.0,2020.0,2025.0,1998.0,22.0
+482,RuggHe00,henry-ruggs-iii-1,2020,1,12,LVR,Henry Ruggs III,WR,WR,Alabama,8.0,,8.0,5-11,188.0,4.27,,42.0,131.0,,,RuggHe00,1999-01-24,72.0,190.0,2020.0,2021.0,1999.0,21.0
+483,JeudJe00,jerry-jeudy-1,2020,1,15,DEN,Jerry Jeudy,WR,WR,Alabama,31.0,,22.0,6-1,193.0,4.45,,35.0,120.0,,4.53,JeudJe00,1999-04-24,73.0,195.0,2020.0,2025.0,1999.0,21.0
+484,LambCe00,ceedee-lamb-1,2020,1,17,DAL,CeeDee Lamb,WR,WR,Oklahoma,65.0,,65.0,6-2,198.0,4.5,11.0,34.5,124.0,,,LambCe00,1999-04-08,74.0,200.0,2020.0,2025.0,1999.0,21.0
+485,ReagJa00,jalen-reagor-1,2020,1,21,PHI,Jalen Reagor,WR,WR,TCU,10.0,,7.0,5-11,206.0,4.47,17.0,42.0,138.0,7.31,4.46,ReagJa00,1999-01-02,71.0,197.0,2020.0,2025.0,1999.0,21.0
+486,JeffJu00,justin-jefferson-1,2020,1,22,MIN,Justin Jefferson,WR,WR,LSU,65.0,,65.0,6-1,202.0,4.43,,37.5,126.0,,,JeffJu00,1999-06-16,73.0,195.0,2020.0,2025.0,1999.0,21.0
+487,AiyuBr00,brandon-aiyuk-1,2020,1,25,SFO,Brandon Aiyuk,WR,WR,Arizona St.,39.0,,39.0,6-0,205.0,4.5,11.0,40.0,128.0,,,AiyuBr00,1998-03-17,72.0,200.0,2020.0,2025.0,1998.0,22.0
+488,LoveJo03,jordan-love-2,2020,1,26,GNB,Jordan Love,QB,QB,Utah St.,42.0,,42.0,6-4,224.0,4.74,,35.5,118.0,7.21,4.52,LoveJo03,1998-11-02,76.0,219.0,2020.0,2025.0,1998.0,22.0
+489,EdwaCl00,clyde-edwards-helaire-1,2020,1,32,KAN,Clyde Edwards-Helaire,RB,RB,LSU,18.0,,18.0,5-7,207.0,4.6,15.0,39.5,123.0,,,EdwaCl00,1999-04-11,67.0,207.0,2020.0,2025.0,1999.0,21.0
+490,HiggTe00,tee-higgins-1,2020,2,33,CIN,Tee Higgins,WR,WR,Clemson,43.0,,43.0,6-4,216.0,,,,,,,HiggTe00,1999-01-18,76.0,219.0,2020.0,2025.0,1999.0,21.0
+491,PittMi01,michael-pittman-jr-1,2020,2,34,IND,Michael Pittman Jr.,WR,WR,USC,44.0,,44.0,,,,,,,,,PittMi01,1997-10-05,76.0,223.0,2020.0,2025.0,1997.0,23.0
+492,SwifDA00,dandre-swift-1,2020,2,35,DET,D'Andre Swift,RB,RB,Georgia,44.0,,17.0,5-8,212.0,4.48,,35.5,121.0,,,SwifDA00,1999-01-14,68.0,204.0,2020.0,2025.0,1999.0,21.0
+493,TaylJo02,jonathan-taylor-1,2020,2,41,IND,Jonathan Taylor,RB,RB,Wisconsin,58.0,,58.0,5-10,226.0,4.39,17.0,36.0,123.0,7.01,4.24,TaylJo02,1999-01-19,70.0,226.0,2020.0,2025.0,1999.0,21.0
+494,ShenLa00,laviska-shenault-jr-1,2020,2,42,JAX,Laviska Shenault Jr.,WR,WR,Colorado,13.0,,9.0,6-1,227.0,4.58,17.0,,,,,ShenLa00,1998-10-05,73.0,224.0,2020.0,2024.0,1998.0,22.0
+495,KmetCo00,cole-kmet-1,2020,2,43,CHI,Cole Kmet,TE,TE,Notre Dame,25.0,,25.0,6-6,262.0,4.7,,37.0,123.0,7.44,4.41,KmetCo00,1999-03-10,78.0,257.0,2020.0,2025.0,1999.0,21.0
+496,HamlKJ00,kj-hamler-1,2020,2,46,DEN,KJ Hamler,WR,WR,Penn St.,5.0,,5.0,5-9,178.0,,15.0,,,,,HamlKJ00,1999-07-08,69.0,178.0,2020.0,2024.0,1999.0,21.0
+497,ClayCh01,chase-claypool-1,2020,2,49,PIT,Chase Claypool,WR,WR,Notre Dame,19.0,,17.0,6-4,238.0,4.42,19.0,40.5,126.0,,,ClayCh01,1998-07-07,76.0,238.0,2020.0,2023.0,1998.0,22.0
+498,AkerCa00,cam-akers-1,2020,2,52,LAR,Cam Akers,RB,RB,Florida St.,13.0,,10.0,5-10,217.0,4.47,20.0,35.5,122.0,,4.42,AkerCa00,1999-06-22,70.0,217.0,2020.0,2025.0,1999.0,21.0
+499,HurtJa00,jalen-hurts-1,2020,2,53,PHI,Jalen Hurts,QB,QB,Oklahoma,79.0,,79.0,6-1,222.0,4.59,,35.0,125.0,,,HurtJa00,1998-08-07,73.0,223.0,2020.0,2025.0,1998.0,22.0
+500,DobbJK00,jk-dobbins-1,2020,2,55,BAL,J.K. Dobbins,RB,RB,Ohio St.,22.0,,10.0,5-9,209.0,,23.0,,,,,DobbJK00,1998-12-17,70.0,212.0,2020.0,2025.0,1998.0,22.0
+501,JeffVa00,van-jefferson-1,2020,2,57,LAR,Van Jefferson,WR,WR,Florida,19.0,,13.0,6-1,200.0,,,,,,,JeffVa00,1996-07-26,73.0,200.0,2020.0,2025.0,1996.0,24.0
+502,MimsDe00,denzel-mims-1,2020,2,59,NYJ,Denzel Mims,WR,WR,Baylor,5.0,,5.0,6-3,207.0,4.38,16.0,38.5,131.0,6.66,4.43,MimsDe00,1997-10-10,75.0,207.0,2020.0,2023.0,1997.0,23.0
+503,DillAJ00,aj-dillon-1,2020,2,62,GNB,AJ Dillon,RB,RB,Boston Col.,24.0,,23.0,6-0,247.0,4.53,23.0,41.0,131.0,7.19,,DillAJ00,1998-05-02,72.0,247.0,2020.0,2025.0,1998.0,22.0
+504,GibsAn00,antonio-gibson-2,2020,3,66,WAS,Antonio Gibson,RB,RB,Memphis,29.0,,23.0,6-0,228.0,4.39,16.0,35.0,118.0,,,GibsAn00,1998-06-23,72.0,228.0,2020.0,2025.0,1998.0,22.0
+505,VaugKe00,keshawn-vaughn-1,2020,3,76,TAM,Ke'Shawn Vaughn,RB,RB,Illinois,2.0,,2.0,5-10,214.0,4.51,,32.0,117.0,,,VaugKe00,1997-05-04,70.0,214.0,2020.0,2024.0,1997.0,23.0
+506,BowdLy00,lynn-bowden-jr-1,2020,3,80,LVR,Lynn Bowden Jr.,WR,WR,Kentucky,3.0,,,,,,,,,,,BowdLy00,1997-10-14,73.0,204.0,2020.0,2023.0,1997.0,23.0
+507,EdwaBr01,bryan-edwards-1,2020,3,81,LVR,Bryan Edwards,WR,WR,South Carolina,6.0,,6.0,6-3,212.0,,,,,,,EdwaBr01,1998-11-13,75.0,215.0,2020.0,2022.0,1998.0,22.0
+508,MossZa00,zack-moss-1,2020,3,86,BUF,Zack Moss,RB,RB,Utah,18.0,,8.0,5-9,223.0,4.65,19.0,33.0,,,4.37,MossZa00,1997-12-15,70.0,220.0,2020.0,2024.0,1997.0,23.0
+509,AsiaDe00,devin-asiasi-1,2020,3,91,NWE,Devin Asiasi,TE,TE,UCLA,0.0,,0.0,6-3,257.0,4.73,16.0,30.5,115.0,,,AsiaDe00,1997-08-14,75.0,260.0,2020.0,2023.0,1997.0,23.0
+510,DuveDe00,devin-duvernay-1,2020,3,92,BAL,Devin Duvernay,WR,WR,Texas,12.0,,12.0,5-10,200.0,4.39,,35.5,123.0,7.13,4.2,DuveDe00,1997-09-12,71.0,202.0,2020.0,2025.0,1997.0,23.0
+511,EvanDa02,darrynton-evans-1,2020,3,93,TEN,Darrynton Evans,RB,RB,Appalachian St.,3.0,,1.0,5-10,203.0,4.41,20.0,37.0,125.0,,,EvanDa02,1998-07-09,70.0,203.0,2020.0,2024.0,1998.0,22.0
+512,DeguJo00,josiah-deguara-1,2020,3,94,GNB,Josiah Deguara,TE,TE,Cincinnati,4.0,,4.0,6-2,242.0,4.72,25.0,35.5,115.0,7.15,4.35,DeguJo00,1997-02-14,74.0,240.0,2020.0,2025.0,1997.0,23.0
+513,KeenDa00,dalton-keene-1,2020,3,101,NWE,Dalton Keene,TE,TE,Virginia Tech,0.0,,0.0,6-4,253.0,4.71,21.0,34.0,125.0,7.07,4.19,KeenDa00,1999-04-14,76.0,251.0,2020.0,2025.0,1999.0,21.0
+514,TrauAd00,,2020,3,105,NOR,Adam Trautman,TE,TE,Dayton,11.0,,6.0,6-5,255.0,4.8,18.0,34.5,114.0,6.78,4.27,TrauAd00,1997-02-05,77.0,253.0,2020.0,2025.0,1997.0,23.0
+515,KellJo01,joshua-kelley-1,2020,4,112,LAC,Joshua Kelley,RB,RB,UCLA,9.0,,9.0,5-11,212.0,4.49,23.0,31.0,121.0,6.95,4.28,KellJo01,1997-11-20,71.0,212.0,2020.0,2024.0,1997.0,23.0
+516,BryaHa00,harrison-bryant-1,2020,4,115,CLE,Harrison Bryant,TE,TE,Florida Atlantic,7.0,,7.0,6-5,243.0,4.73,13.0,32.5,110.0,7.41,4.37,BryaHa00,1998-04-23,77.0,230.0,2020.0,2025.0,1998.0,22.0
+517,OkwuAl00,albert-okwuegbunam-1,2020,4,118,DEN,Albert Okwuegbunam,TE,TE,Missouri,5.0,,5.0,6-5,258.0,4.49,,,,,,OkwuAl00,1998-04-25,77.0,258.0,2020.0,2025.0,1998.0,22.0
+518,PeriLa00,lamical-perine-1,2020,4,120,NYJ,La'Mical Perine,RB,RB,Florida,3.0,,2.0,5-11,216.0,4.62,22.0,35.0,118.0,7.13,4.31,PeriLa00,1998-01-30,71.0,216.0,2020.0,2024.0,1998.0,22.0
+519,EasoJa00,jacob-eason-1,2020,4,122,IND,Jacob Eason,QB,QB,Washington,0.0,,0.0,6-6,231.0,4.89,,27.5,110.0,7.5,4.75,EasoJa00,1997-11-17,78.0,231.0,2020.0,2023.0,1997.0,23.0
+520,McFaAn00,anthony-mcfarland-2,2020,4,124,PIT,Anthony McFarland Jr.,RB,RB,Maryland,1.0,,1.0,,,,,,,,,McFaAn00,1999-03-04,68.0,193.0,2020.0,2023.0,1999.0,21.0
+521,MorgJa00,james-morgan-1,2020,4,125,NYJ,James Morgan,QB,QB,Florida International,,,,6-4,229.0,4.89,,29.0,112.0,7.51,4.64,MorgJa00,1997-02-28,76.0,229.0,2020.0,2022.0,1997.0,23.0
+522,DaviGa01,gabriel-davis-1,2020,4,128,BUF,Gabriel Davis,WR,WR,Central Florida,28.0,,26.0,6-2,216.0,4.54,14.0,35.0,124.0,7.08,4.59,DaviGa01,1999-03-01,74.0,225.0,2020.0,2025.0,1999.0,21.0
+523,ParkCo02,colby-parkinson-1,2020,4,133,SEA,Colby Parkinson,TE,TE,Stanford,11.0,,5.0,6-7,252.0,4.77,18.0,32.5,109.0,7.15,4.46,ParkCo02,1999-01-07,79.0,265.0,2020.0,2025.0,1999.0,21.0
+524,HopkBr01,brycen-hopkins-1,2020,4,136,LAR,Brycen Hopkins,TE,TE,Purdue,2.0,,2.0,6-4,245.0,4.66,21.0,33.5,116.0,7.25,4.28,HopkBr01,1997-03-27,76.0,245.0,2020.0,2023.0,1997.0,23.0
+525,GandAn00,antonio-gandy-golden-1,2020,4,142,WAS,Antonio Gandy-Golden,WR,WR,Liberty,0.0,,0.0,6-4,223.0,4.6,22.0,36.0,127.0,7.33,4.55,GandAn00,1998-04-11,76.0,223.0,2020.0,2021.0,1998.0,22.0
+526,DallDe00,deejay-dallas-1,2020,4,144,SEA,DeeJay Dallas,RB,RB,Miami (FL),7.0,,6.0,5-10,217.0,4.58,,33.5,119.0,7.18,4.32,DallDe00,1998-09-16,70.0,214.0,2020.0,2025.0,1998.0,22.0
+527,ReedJo03,joe-reed-4,2020,5,151,LAC,Joe Reed,WR,WR,Virginia,0.0,,0.0,6-0,224.0,4.47,21.0,38.0,123.0,,,ReedJo03,1998-01-04,72.0,224.0,2020.0,2023.0,1998.0,22.0
+528,JohnTy00,tyler-johnson-6,2020,5,161,TAM,Tyler Johnson,WR,WR,Minnesota,9.0,,5.0,6-1,206.0,,,,,,,JohnTy00,1998-08-25,73.0,208.0,2020.0,2025.0,1998.0,22.0
+529,JohnCo01,collin-johnson-2,2020,5,165,JAX,Collin Johnson,WR,WR,Texas,3.0,,2.0,6-6,222.0,,17.0,,,,,JohnCo01,1997-09-23,78.0,220.0,2020.0,2024.0,1997.0,23.0
+530,CephQu00,quintez-cephus-1,2020,5,166,DET,Quintez Cephus,WR,WR,Wisconsin,5.0,,5.0,6-1,202.0,4.73,23.0,38.5,124.0,7.2,4.33,CephQu00,1998-04-01,73.0,208.0,2020.0,2025.0,1998.0,22.0
+531,FromJa00,jake-fromm-1,2020,5,167,BUF,Jake Fromm,QB,QB,Georgia,1.0,,,6-2,219.0,5.01,,30.0,111.0,7.27,4.51,FromJa00,1998-07-30,74.0,215.0,2020.0,2024.0,1998.0,22.0
+532,HighJo00,john-hightower-1,2020,5,168,PHI,John Hightower,WR,WR,Boise St.,1.0,,1.0,6-1,189.0,4.43,,38.5,122.0,7.07,4.21,HighJo00,1996-05-31,74.0,190.0,2020.0,2022.0,1996.0,24.0
+533,CoulIs00,,2020,5,171,HOU,Isaiah Coulter,WR,WR,Rhode Island,0.0,,0.0,6-2,198.0,4.45,,36.0,121.0,7.28,4.62,CoulIs00,1998-09-18,74.0,198.0,2020.0,2022.0,1998.0,22.0
+534,HuntJa01,jason-huntley-1,2020,5,172,DET,Jason Huntley,RB,RB,New Mexico St.,0.0,,,,,,,,,,,HuntJa01,1998-04-20,69.0,195.0,2020.0,2023.0,1998.0,22.0
+535,MoonDa00,darnell-mooney-1,2020,5,173,CHI,Darnell Mooney,WR,WR,Tulane,33.0,,23.0,5-10,176.0,4.38,9.0,37.0,124.0,,,MoonDa00,1997-10-29,71.0,180.0,2020.0,2025.0,1997.0,23.0
+536,OsboKJ00,kj-osborn-1,2020,5,176,MIN,K.J. Osborn,WR,WR,Miami (FL),13.0,,13.0,5-11,203.0,4.48,18.0,37.5,123.0,7.0,4.35,OsboKJ00,1997-06-10,71.0,203.0,2020.0,2025.0,1997.0,23.0
+537,PeopDo00,donovan-peoples-jones-1,2020,6,187,CLE,Donovan Peoples-Jones,WR,WR,Michigan,18.0,,17.0,6-2,212.0,4.48,,44.5,139.0,,,PeopDo00,1999-02-19,74.0,204.0,2020.0,2024.0,1999.0,21.0
+538,LutoJa00,jake-luton-1,2020,6,189,JAX,Jake Luton,QB,QB,Oregon St.,2.0,,2.0,6-6,224.0,,,,,,,LutoJa00,1996-04-11,78.0,224.0,2020.0,2024.0,1996.0,24.0
+539,WoerCh00,charlie-woerner-1,2020,6,190,SFO,Charlie Woerner,TE,TE,Georgia,0.0,,0.0,6-5,244.0,4.78,21.0,34.5,120.0,7.18,4.46,WoerCh00,1997-10-16,77.0,250.0,2020.0,2025.0,1997.0,23.0
+540,WatkQu00,quez-watkins-1,2020,6,200,PHI,Quez Watkins,WR,WR,Southern Miss,13.0,,13.0,6-0,185.0,4.35,,36.5,125.0,7.28,4.36,WatkQu00,1998-06-09,72.0,193.0,2020.0,2025.0,1998.0,22.0
+541,ProcJa00,james-proche-1,2020,6,201,BAL,James Proche,WR,WR,SMU,4.0,,3.0,5-11,201.0,,20.0,34.5,,7.27,4.4,ProcJa00,1996-09-20,71.0,193.0,2020.0,2025.0,1996.0,24.0
+542,DaviTy02,tyler-davis-2,2020,6,206,JAX,Tyler Davis,TE,TE,Georgia Tech,0.0,,0.0,,,,,,,,,DaviTy02,1997-04-02,76.0,252.0,2020.0,2024.0,1997.0,23.0
+543,HodgIs00,isaiah-hodgins-1,2020,6,207,BUF,Isaiah Hodgins,WR,WR,Oregon St.,6.0,,0.0,6-4,210.0,4.61,9.0,36.5,124.0,7.01,4.12,HodgIs00,1998-10-21,75.0,201.0,2020.0,2025.0,1998.0,22.0
+544,PatmDe00,dezmon-patmon-1,2020,6,212,IND,Dezmon Patmon,WR,WR,Washington St.,0.0,,0.0,6-4,225.0,4.48,15.0,36.0,132.0,7.28,4.38,PatmDe00,1998-08-06,76.0,225.0,2020.0,2023.0,1998.0,22.0
+545,SwaiFr00,freddie-swain-1,2020,6,214,SEA,Freddie Swain,WR,WR,Florida,5.0,,5.0,6-0,197.0,4.46,16.0,36.5,124.0,7.05,4.26,SwaiFr00,1998-08-04,72.0,199.0,2020.0,2023.0,1998.0,22.0
+546,JennJa00,jauan-jennings-1,2020,7,217,SFO,Jauan Jennings,WR,WR,Tennessee,21.0,,21.0,6-3,215.0,4.72,,29.0,119.0,,,JennJa00,1997-07-10,75.0,212.0,2020.0,2025.0,1997.0,23.0
+547,HillKJ00,kj-hill-1,2020,7,220,LAC,K.J. Hill,WR,WR,Ohio St.,1.0,,1.0,6-0,196.0,4.6,17.0,32.5,114.0,,,HillKJ00,1997-09-15,72.0,195.0,2020.0,2021.0,1997.0,23.0
+548,BenjEn00,eno-benjamin-1,2020,7,222,ARI,Eno Benjamin,RB,RB,Arizona St.,4.0,,4.0,5-9,207.0,4.57,12.0,39.0,122.0,6.97,4.25,BenjEn00,1999-04-13,69.0,207.0,2020.0,2023.0,1999.0,21.0
+549,McDoCo00,cole-mcdonald-1,2020,7,224,TEN,Cole McDonald,QB,QB,Hawaii,,,,6-3,215.0,4.58,,36.0,121.0,7.13,4.52,,,,,,,,
+550,DiNuBe00,ben-dinucci-1,2020,7,231,DAL,Ben DiNucci,QB,QB,James Madison,1.0,,1.0,,,,,,,,,DiNuBe00,1996-11-24,75.0,209.0,2020.0,2025.0,1996.0,24.0
+551,StevTo01,tommy-stevens-1,2020,7,240,NOR,Tommy Stevens,QB,QB,Mississippi St.,0.0,,,,,,,,,,,StevTo01,1996-12-15,77.0,235.0,2020.0,2020.0,1996.0,24.0
+552,StanNa00,nathan-stanley-2,2020,7,244,MIN,Nate Stanley,QB,QB,Iowa,,,,6-4,235.0,4.81,,28.5,108.0,7.26,4.48,StanNa00,1997-08-26,76.0,235.0,2020.0,2021.0,1997.0,23.0
+553,CalaRa00,raymond-calais-1,2020,7,245,TAM,Raymond Calais,RB,RB,Louisiana,0.0,,,5-8,188.0,4.42,20.0,37.5,120.0,,,CalaRa00,1998-04-02,69.0,188.0,2020.0,2021.0,1998.0,22.0
+554,PerrMa00,malcolm-perry-1,2020,7,246,MIA,Malcolm Perry,RB,RB,Navy,1.0,,1.0,5-9,186.0,4.63,10.0,36.0,122.0,7.12,4.31,PerrMa00,1997-04-19,70.0,190.0,2020.0,2021.0,1997.0,23.0
+555,SullSt00,stephen-sullivan-1,2020,7,251,SEA,Stephen Sullivan,TE,TE,LSU,1.0,,0.0,6-5,248.0,4.66,,36.5,123.0,7.51,4.62,SullSt00,1996-11-28,77.0,245.0,2020.0,2024.0,1996.0,24.0
+556,ClevTy00,tyrie-cleveland-1,2020,7,252,DEN,Tyrie Cleveland,WR,WR,Florida,0.0,,0.0,6-2,209.0,4.46,13.0,39.5,126.0,,,ClevTy00,1997-09-20,74.0,205.0,2020.0,2023.0,1997.0,23.0
+557,LawrTr00,trevor-lawrence-1,2021,1,1,JAX,Trevor Lawrence,QB,QB,Clemson,52.0,,52.0,6-5,213.0,,,,,,,LawrTr00,1999-10-06,78.0,220.0,2021.0,2025.0,1999.0,22.0
+558,WilsZa00,zach-wilson-3,2021,1,2,NYJ,Zach Wilson,QB,QB,BYU,13.0,,13.0,6-2,214.0,,,,,,,WilsZa00,1999-08-03,74.0,214.0,2021.0,2025.0,1999.0,22.0
+559,LancTr00,trey-lance-1,2021,1,3,SFO,Trey Lance,QB,QB,North Dakota St.,6.0,,4.0,6-3,224.0,,,,,,,LancTr00,2000-05-09,76.0,226.0,2021.0,2025.0,2000.0,21.0
+560,PittKy00,kyle-pitts-1,2021,1,4,ATL,Kyle Pitts,TE,TE,Florida,28.0,,28.0,6-5,245.0,4.44,22.0,33.5,129.0,7.12,4.3,PittKy00,2000-10-06,78.0,250.0,2021.0,2025.0,2000.0,21.0
+561,ChasJa00,jamarr-chase-1,2021,1,5,CIN,Ja'Marr Chase,WR,WR,LSU,58.0,,58.0,6-0,201.0,4.34,,41.0,132.0,6.96,3.99,ChasJa00,2000-03-01,72.0,205.0,2021.0,2025.0,2000.0,21.0
+562,WaddJa00,jaylen-waddle-1,2021,1,6,MIA,Jaylen Waddle,WR,WR,Alabama,41.0,,41.0,,,,,,,,,WaddJa00,1998-11-25,70.0,185.0,2021.0,2025.0,1998.0,23.0
+563,SmitDe07,devonta-smith-1,2021,1,10,PHI,DeVonta Smith,WR,WR,Alabama,47.0,,47.0,,,,,,,,,SmitDe07,1998-11-14,72.0,170.0,2021.0,2025.0,1998.0,23.0
+564,FielJu00,justin-fields-2,2021,1,11,CHI,Justin Fields,QB,QB,Ohio St.,44.0,,34.0,6-2,227.0,4.45,,,,,,FielJu00,1999-03-05,75.0,227.0,2021.0,2025.0,1999.0,22.0
+565,JoneMa05,mac-jones-1,2021,1,15,NWE,Mac Jones,QB,QB,Alabama,34.0,,24.0,6-2,217.0,4.72,,32.0,116.0,7.04,4.39,JoneMa05,1998-09-05,75.0,220.0,2021.0,2025.0,1998.0,23.0
+566,ToneKa00,kadarius-toney-1,2021,1,20,NYG,Kadarius Toney,WR,WR,Florida,7.0,,3.0,5-11,193.0,4.39,9.0,39.5,136.0,6.88,4.25,ToneKa00,1999-01-27,72.0,193.0,2021.0,2024.0,1999.0,22.0
+567,HarrNa00,najee-harris-1,2021,1,24,PIT,Najee Harris,RB,RB,Alabama,30.0,,29.0,,,,,,,,,HarrNa00,1998-03-09,73.0,242.0,2021.0,2025.0,1998.0,23.0
+568,EtieTr00,travis-etienne-1,2021,1,25,JAX,Travis Etienne,RB,RB,Clemson,33.0,,33.0,5-10,215.0,4.45,18.0,33.5,128.0,,,EtieTr00,1999-01-26,70.0,215.0,2021.0,2025.0,1999.0,22.0
+569,BateRa00,rashod-bateman-1,2021,1,27,BAL,Rashod Bateman,WR,WR,Minnesota,20.0,,20.0,6-0,190.0,4.39,,36.0,123.0,,,BateRa00,1999-11-29,73.0,193.0,2021.0,2025.0,1999.0,22.0
+570,MoorEl00,elijah-moore-1,2021,2,34,NYJ,Elijah Moore,WR,WR,Mississippi,15.0,,7.0,,,4.35,17.0,36.0,121.0,6.63,4.07,MoorEl00,2000-03-27,70.0,180.0,2021.0,2025.0,2000.0,21.0
+571,WillJa10,javonte-williams-1,2021,2,35,DEN,Javonte Williams,RB,RB,North Carolina,28.0,,19.0,5-9,212.0,4.55,22.0,36.0,123.0,6.97,4.09,WillJa10,2000-04-25,70.0,220.0,2021.0,2025.0,2000.0,21.0
+572,MoorRo02,rondale-moore-1,2021,2,49,ARI,Rondale Moore,WR,WR,Purdue,12.0,,12.0,5-7,180.0,4.28,,42.5,,6.65,4.06,MoorRo02,2000-06-09,67.0,180.0,2021.0,2025.0,2000.0,21.0
+573,FreiPa00,pat-freiermuth-1,2021,2,55,PIT,Pat Freiermuth,TE,TE,Penn St.,22.0,,22.0,6-5,251.0,,26.0,,,,,FreiPa00,1998-10-25,77.0,258.0,2021.0,2025.0,1998.0,23.0
+574,EskrDW00,dwayne-eskridge-1,2021,2,56,SEA,D'Wayne Eskridge,WR,WR,Western Michigan,3.0,,2.0,5-8,190.0,4.38,,35.0,124.0,6.93,4.22,EskrDW00,1997-03-23,69.0,190.0,2021.0,2025.0,1997.0,24.0
+575,AtweTu00,chatarius-atwell-1,2021,2,57,LAR,Tutu Atwell,WR,WR,Louisville,14.0,,14.0,5-8,155.0,4.42,,33.0,117.0,6.89,4.14,AtweTu00,1999-10-07,69.0,165.0,2021.0,2025.0,1999.0,22.0
+576,MarsTe00,terrace-marshall-jr-1,2021,2,59,CAR,Terrace Marshall Jr.,WR,WR,LSU,6.0,,6.0,6-2,205.0,4.4,19.0,39.0,125.0,,,MarsTe00,2000-06-09,74.0,200.0,2021.0,2025.0,2000.0,21.0
+577,TrasKy00,kyle-trask-1,2021,2,64,TAM,Kyle Trask,QB,QB,Florida,0.0,,0.0,6-5,236.0,5.1,,31.5,113.0,7.08,4.6,TrasKy00,1998-03-06,77.0,236.0,2021.0,2025.0,1998.0,23.0
+578,MondKe00,kellen-mond-1,2021,3,66,MIN,Kellen Mond,QB,QB,Texas A&M,0.0,,0.0,,,,,,,,,MondKe00,1999-06-22,75.0,217.0,2021.0,2023.0,1999.0,22.0
+579,MillDa02,davis-mills-1,2021,3,67,HOU,Davis Mills,QB,QB,Stanford,17.0,,17.0,6-3,217.0,4.82,,32.0,110.0,6.95,4.4,MillDa02,1998-10-21,76.0,225.0,2021.0,2025.0,1998.0,23.0
+580,PalmJo00,josh-palmer-1,2021,3,77,LAC,Josh Palmer,WR,WR,Tennessee,21.0,,19.0,,,,,,,,,PalmJo00,1999-09-22,73.0,210.0,2021.0,2025.0,1999.0,22.0
+581,LongHu00,hunter-long-3,2021,3,81,MIA,Hunter Long,TE,TE,Boston Col.,2.0,,0.0,,,,,,,,,LongHu00,1998-08-19,77.0,243.0,2021.0,2025.0,1998.0,23.0
+582,BrowDy00,dyami-brown-1,2021,3,82,WAS,Dyami Brown,WR,WR,North Carolina,7.0,,6.0,6-0,189.0,4.46,18.0,35.0,128.0,6.87,4.35,BrowDy00,1999-11-01,72.0,195.0,2021.0,2025.0,1999.0,22.0
+583,TremTo00,tommy-tremble-1,2021,3,83,CAR,Tommy Tremble,TE,TE,Notre Dame,7.0,,7.0,6-3,241.0,4.6,20.0,36.5,122.0,,,TremTo00,2000-06-02,76.0,250.0,2021.0,2025.0,2000.0,21.0
+584,RodgAm00,amari-rodgers-1,2021,3,85,GNB,Amari Rodgers,WR,WR,Clemson,2.0,,1.0,5-9,212.0,4.52,19.0,33.0,121.0,7.07,4.31,RodgAm00,1999-09-23,69.0,212.0,2021.0,2023.0,1999.0,22.0
+585,SermTr00,trey-sermon-1,2021,3,88,SFO,Trey Sermon,RB,RB,Ohio St.,4.0,,1.0,6-0,215.0,4.57,,37.0,125.0,6.83,4.28,SermTr00,1999-01-30,72.0,215.0,2021.0,2025.0,1999.0,22.0
+586,CollNi00,nico-collins-1,2021,3,89,HOU,Nico Collins,WR,WR,Michigan,33.0,,33.0,6-4,215.0,4.43,14.0,37.5,125.0,6.78,4.29,CollNi00,1999-03-19,76.0,222.0,2021.0,2025.0,1999.0,22.0
+587,SchwAn00,anthony-schwartz-1,2021,3,91,CLE,Anthony Schwartz,WR,WR,Auburn,2.0,,2.0,6-0,186.0,4.27,,32.0,123.0,7.13,4.25,SchwAn00,2000-09-05,72.0,195.0,2021.0,2024.0,2000.0,21.0
+588,McKiTr00,tre-mckitty-1,2021,3,97,LAC,Tre' McKitty,TE,TE,Georgia,1.0,,1.0,6-4,247.0,,,,,,,McKiTr00,1999-01-12,76.0,246.0,2021.0,2024.0,1999.0,22.0
+589,CartMi03,michael-carter-5,2021,4,107,NYJ,Michael Carter,RB,RB,North Carolina,16.0,,11.0,5-7,201.0,4.5,16.0,34.0,119.0,6.81,3.98,CartMi03,1999-05-07,68.0,201.0,2021.0,2025.0,1999.0,22.0
+590,FitzDe00,dez-fitzpatrick-1,2021,4,109,TEN,Dez Fitzpatrick,WR,WR,Louisville,0.0,,0.0,6-1,208.0,4.43,,35.0,,7.09,4.26,FitzDe00,1997-12-17,74.0,208.0,2021.0,2024.0,1997.0,24.0
+591,StxxAm00,amon-ra-st-brown-1,2021,4,112,DET,Amon-Ra St. Brown,WR,WR,USC,57.0,,57.0,5-11,197.0,4.51,20.0,38.5,127.0,6.88,4.17,StxxAm00,1999-10-24,72.0,202.0,2021.0,2025.0,1999.0,22.0
+592,NwanKe00,kene-nwangwu-1,2021,4,119,MIN,Kene Nwangwu,RB,RB,Iowa St.,5.0,,3.0,,,,,,,,,NwanKe00,1998-02-09,73.0,210.0,2021.0,2025.0,1998.0,23.0
+593,StevRh00,rhamondre-stevenson-1,2021,4,120,NWE,Rhamondre Stevenson,RB,RB,Oklahoma,28.0,,28.0,5-11,231.0,4.64,15.0,31.5,112.0,7.09,4.15,StevRh00,1998-02-23,72.0,227.0,2021.0,2025.0,1998.0,23.0
+594,BateJo00,john-bates-1,2021,4,124,WAS,John Bates,TE,TE,Boise St.,6.0,,6.0,6-5,250.0,4.84,19.0,31.5,120.0,6.85,4.35,BateJo00,1997-11-06,78.0,256.0,2021.0,2025.0,1997.0,24.0
+595,HubbCh01,chuba-hubbard-1,2021,4,126,CAR,Chuba Hubbard,RB,RB,Oklahoma St.,27.0,,27.0,6-0,210.0,4.48,20.0,36.0,120.0,7.24,4.26,HubbCh01,1999-06-11,73.0,210.0,2021.0,2025.0,1999.0,22.0
+596,GranKy00,kylen-granson-1,2021,4,127,IND,Kylen Granson,TE,TE,SMU,8.0,,8.0,,,,,,,,,GranKy00,1998-03-27,75.0,242.0,2021.0,2025.0,1998.0,23.0
+597,DardJa00,jaelon-darden-1,2021,4,129,TAM,Jaelon Darden,WR,WR,North Texas,0.0,,0.0,5-7,174.0,4.47,,35.5,122.0,6.66,3.98,DardJa00,1999-01-14,68.0,175.0,2021.0,2024.0,1999.0,22.0
+598,WallTy00,tylan-wallace-1,2021,4,131,BAL,Tylan Wallace,WR,WR,Oklahoma St.,3.0,,3.0,5-11,194.0,4.48,11.0,33.0,112.0,6.97,4.25,WallTy00,1999-05-13,71.0,200.0,2021.0,2025.0,1999.0,22.0
+599,BookIa00,ian-book-1,2021,4,133,NOR,Ian Book,QB,QB,Notre Dame,0.0,,0.0,6-0,211.0,4.65,,32.5,115.0,6.99,4.19,BookIa00,1998-03-30,72.0,206.0,2021.0,2024.0,1998.0,23.0
+600,HarrJa03,jacob-harris-2,2021,4,141,LAR,Jacob Harris,WR,WR,Central Florida,0.0,,0.0,6-5,219.0,4.39,15.0,40.5,133.0,6.54,4.31,HarrJa03,1997-04-16,77.0,211.0,2021.0,2024.0,1997.0,24.0
+601,FarrLu00,luke-farrell-1,2021,5,145,JAX,Luke Farrell,TE,TE,Ohio St.,3.0,,2.0,6-5,251.0,4.79,22.0,36.5,118.0,7.14,4.36,FarrLu00,1997-10-14,77.0,250.0,2021.0,2025.0,1997.0,24.0
+602,JordBr00,brevin-jordan-1,2021,5,147,HOU,Brevin Jordan,TE,TE,Miami (FL),4.0,,4.0,6-2,247.0,4.64,17.0,31.0,116.0,,,JordBr00,2000-07-16,75.0,245.0,2021.0,2025.0,2000.0,21.0
+603,GainKe00,kenny-gainwell-1,2021,5,150,PHI,Kenneth Gainwell,RB,RB,Memphis,24.0,,15.0,,201.0,4.42,21.0,,,,,GainKe00,1999-03-14,69.0,200.0,2021.0,2025.0,1999.0,22.0
+604,SmitIh00,ihmir-smith-marsette-1,2021,5,157,MIN,Ihmir Smith-Marsette,WR,WR,Iowa,4.0,,1.0,6-0,181.0,4.43,,37.0,124.0,7.0,4.2,SmitIh00,1999-08-29,73.0,185.0,2021.0,2025.0,1999.0,22.0
+605,GrayNo00,noah-gray-1,2021,5,162,KAN,Noah Gray,TE,TE,Duke,11.0,,11.0,6-3,240.0,4.55,15.0,35.0,115.0,6.83,4.37,GrayNo00,1999-04-30,75.0,240.0,2021.0,2025.0,1999.0,22.0
+606,DaviZa00,,2021,5,168,MIN,Zach Davidson,TE,TE,Central Missouri St.,0.0,,,6-6,245.0,4.58,17.0,37.5,117.0,6.95,4.19,DaviZa00,1998-07-15,79.0,251.0,2021.0,2025.0,1998.0,23.0
+607,FehoSi00,simi-fehoko-1,2021,5,179,DAL,Simi Fehoko,WR,WR,Stanford,1.0,,0.0,6-3,222.0,4.44,16.0,34.5,120.0,6.78,4.26,FehoSi00,1997-11-05,76.0,218.0,2021.0,2025.0,1997.0,24.0
+608,PoweCo00,cornell-powell-1,2021,5,181,KAN,Cornell Powell,WR,WR,Clemson,0.0,,0.0,6-0,204.0,4.53,16.0,36.5,128.0,7.03,4.21,PoweCo00,1997-10-30,72.0,204.0,2021.0,2025.0,1997.0,24.0
+609,DarbFr00,frank-darby-1,2021,6,187,ATL,Frank Darby,WR,WR,Arizona St.,0.0,,0.0,6-0,201.0,4.56,19.0,34.5,117.0,7.05,4.25,DarbFr00,1997-09-08,73.0,200.0,2021.0,2023.0,1997.0,24.0
+610,MitcEl00,elijah-mitchell-2,2021,6,194,SFO,Elijah Mitchell,RB,RB,Louisiana,11.0,,11.0,5-10,201.0,4.38,17.0,37.5,128.0,6.94,4.19,MitcEl00,1998-05-02,70.0,200.0,2021.0,2025.0,1998.0,23.0
+611,BrigGa00,gary-brightwell-1,2021,6,196,NYG,Gary Brightwell,RB,RB,Arizona,1.0,,1.0,5-10,218.0,4.62,17.0,34.5,118.0,7.51,4.48,BrigGa00,1998-02-28,73.0,218.0,2021.0,2025.0,1998.0,23.0
+612,RounLa00,larry-rountree-iii-1,2021,6,198,LAC,Larry Rountree,RB,RB,Missouri,1.0,,1.0,,,4.62,,30.0,,6.96,,RounLa00,1999-02-13,70.0,210.0,2021.0,2023.0,1999.0,22.0
+613,EvanCh02,chris-evans-2,2021,6,202,CIN,Chris Evans,RB,RB,Michigan,2.0,,2.0,5-11,211.0,4.5,20.0,40.5,127.0,6.83,4.12,EvanCh02,1997-10-05,71.0,215.0,2021.0,2024.0,1997.0,24.0
+614,StevMa00,marquez-stevenson-1,2021,6,203,BUF,Marquez Stevenson,WR,WR,Houston,0.0,,0.0,5-10,180.0,4.48,,33.0,122.0,6.76,4.14,StevMa00,1998-03-26,70.0,180.0,2021.0,2022.0,1998.0,23.0
+615,SmitSh03,shi-smith-1,2021,6,204,CAR,Shi Smith,WR,WR,South Carolina,4.0,,4.0,,,,,,,,,SmitSh03,1998-10-26,70.0,190.0,2021.0,2023.0,1998.0,23.0
+616,McMaRa00,racey-mcmath-1,2021,6,205,TEN,Racey McMath,WR,WR,LSU,0.0,,0.0,6-2,217.0,4.36,,34.0,124.0,7.38,4.38,McMaRa00,1999-06-14,75.0,217.0,2021.0,2023.0,1999.0,22.0
+617,CampJa03,jalen-camp-1,2021,6,209,JAX,Jalen Camp,WR,WR,Georgia Tech,0.0,,,6-1,226.0,4.48,29.0,39.5,125.0,7.0,4.14,CampJa03,1998-07-10,74.0,220.0,2021.0,2023.0,1998.0,23.0
+618,FeltDe00,demetric-felton-1,2021,6,211,CLE,Demetric Felton,RB,RB,UCLA,2.0,,2.0,5-8,189.0,4.55,,,,,,FeltDe00,1998-07-16,69.0,190.0,2021.0,2024.0,1998.0,23.0
+619,HerbKh00,khalil-herbert-1,2021,6,217,CHI,Khalil Herbert,RB,RB,Virginia Tech,13.0,,12.0,5-8,210.0,4.46,22.0,33.0,115.0,6.96,4.31,HerbKh00,1998-04-21,69.0,212.0,2021.0,2025.0,1998.0,23.0
+620,EhliSa00,sam-ehlinger-1,2021,6,218,IND,Sam Ehlinger,QB,QB,Texas,2.0,,2.0,6-1,220.0,4.84,,36.5,114.0,7.15,4.44,EhliSa00,1998-09-30,74.0,225.0,2021.0,2025.0,1998.0,23.0
+621,WillSe00,seth-williams-1,2021,6,219,DEN,Seth Williams,WR,WR,Auburn,0.0,,0.0,6-3,211.0,4.49,12.0,37.0,124.0,7.2,4.43,WillSe00,2000-04-10,75.0,211.0,2021.0,2024.0,2000.0,21.0
+622,NewsDa00,dazz-newsome-1,2021,6,221,CHI,Dazz Newsome,WR,WR,North Carolina,0.0,,0.0,5-10,190.0,4.59,12.0,34.0,121.0,7.38,4.38,NewsDa00,1999-05-15,70.0,184.0,2021.0,2022.0,1999.0,22.0
+623,StraMi03,,2021,7,229,IND,Mike Strachan,WR,WR,Charleston (WV),0.0,,0.0,,,,,,,,,StraMi03,1997-08-13,77.0,225.0,2021.0,2024.0,1997.0,24.0
+624,FunkJa00,jake-funk-1,2021,7,233,LAR,Jake Funk,RB,RB,Maryland,0.0,,0.0,5-10,204.0,4.49,22.0,38.0,122.0,6.71,4.12,FunkJa00,1998-01-11,70.0,205.0,2021.0,2024.0,1998.0,23.0
+625,NixoTr01,tre-nixon-1,2021,7,242,NWE,Tre Nixon,WR,WR,Central Florida,,,,6-0,187.0,4.44,18.0,35.5,125.0,6.81,4.27,NixoTr01,1998-01-26,74.0,190.0,2021.0,2023.0,1998.0,23.0
+626,DoakGe00,gerrid-doaks-1,2021,7,244,MIA,Gerrid Doaks,RB,RB,Cincinnati,,,,5-11,228.0,4.58,19.0,39.5,120.0,7.2,4.27,DoakGe00,1998-06-09,71.0,228.0,2021.0,2023.0,1998.0,23.0
+627,SkowBe00,ben-skowronek-1,2021,7,249,LAR,Ben Skowronek,WR,WR,Notre Dame,8.0,,6.0,6-2,220.0,,13.0,,,,,SkowBe00,1997-06-27,75.0,224.0,2021.0,2025.0,1997.0,24.0
+628,BakeKa00,kawaan-baker-1,2021,7,255,NOR,Kawaan Baker,WR,WR,South Alabama,0.0,,0.0,6-0,210.0,4.44,21.0,39.5,129.0,7.42,4.41,BakeKa00,1998-08-24,73.0,215.0,2021.0,2022.0,1998.0,23.0
+629,HillKy00,kylin-hill-1,2021,7,256,GNB,Kylin Hill,RB,RB,Mississippi St.,0.0,,0.0,5-10,214.0,4.51,22.0,36.0,122.0,7.13,4.35,HillKy00,1998-08-18,70.0,214.0,2021.0,2022.0,1998.0,23.0
+630,JeffJe00,jermar-jefferson-1,2021,7,257,DET,Jermar Jefferson,RB,RB,Oregon St.,1.0,,1.0,5-10,206.0,4.57,13.0,31.0,115.0,7.38,4.38,JeffJe00,2000-04-15,70.0,215.0,2021.0,2025.0,2000.0,21.0
+631,MilnDa00,dax-milne-1,2021,7,258,WAS,Dax Milne,WR,WR,BYU,1.0,,1.0,,,4.54,14.0,31.0,114.0,,4.19,MilnDa00,1999-06-23,73.0,200.0,2021.0,2024.0,1999.0,22.0
+632,LondDr00,drake-london-1,2022,1,8,ATL,Drake London,WR,WR,USC,32.0,,32.0,6-4,219.0,,,,,,,LondDr00,2001-07-24,76.0,215.0,2022.0,2025.0,2001.0,21.0
+633,WilsGa00,garrett-wilson-2,2022,1,10,NYJ,Garrett Wilson,WR,WR,Ohio St.,27.0,,27.0,6-0,183.0,4.38,,36.0,123.0,,4.36,WilsGa00,2000-07-22,72.0,183.0,2022.0,2025.0,2000.0,22.0
+634,OlavCh00,chris-olave-1,2022,1,11,NOR,Chris Olave,WR,WR,Ohio St.,27.0,,27.0,6-0,187.0,4.39,,32.0,124.0,,,OlavCh00,2000-06-27,72.0,187.0,2022.0,2025.0,2000.0,22.0
+635,WillJa11,jameson-williams-1,2022,1,12,DET,Jameson Williams,WR,WR,Alabama,26.0,,26.0,6-2,179.0,,,,,,,WillJa11,2001-03-26,73.0,180.0,2022.0,2025.0,2001.0,21.0
+636,DotsJa00,jahan-dotson-1,2022,1,16,WAS,Jahan Dotson,WR,WR,Penn St.,12.0,,8.0,5-11,178.0,4.43,,36.0,121.0,7.28,,DotsJa00,2000-03-22,71.0,184.0,2022.0,2025.0,2000.0,22.0
+637,BurkTr00,treylon-burks-1,2022,1,18,TEN,Treylon Burks,WR,WR,Arkansas,7.0,,6.0,6-2,225.0,4.55,,33.0,122.0,7.28,,BurkTr00,2000-03-23,74.0,225.0,2022.0,2025.0,2000.0,22.0
+638,PickKe00,kenny-pickett-1,2022,1,20,PIT,Kenny Pickett,QB,QB,Pittsburgh,14.0,,13.0,6-3,217.0,4.73,,33.5,121.0,,4.29,PickKe00,1998-06-06,75.0,220.0,2022.0,2025.0,1998.0,24.0
+639,WatsCh00,,2022,2,34,GNB,Christian Watson,WR,WR,North Dakota St.,22.0,,22.0,6-4,208.0,4.36,,38.5,136.0,,,WatsCh00,1999-05-12,76.0,208.0,2022.0,2025.0,1999.0,23.0
+640,HallBr03,breece-hall-1,2022,2,36,NYJ,Breece Hall,RB,RB,Iowa St.,28.0,,28.0,5-11,217.0,4.39,,40.0,126.0,,,HallBr03,2001-05-31,71.0,217.0,2022.0,2025.0,2001.0,21.0
+641,WalkKe00,kenneth-walker-iii-1,2022,2,41,SEA,Kenneth Walker III,RB,RB,Michigan St.,28.0,,28.0,,,,,,,,,WalkKe00,2000-10-20,69.0,211.0,2022.0,2025.0,2000.0,22.0
+642,RobiWa01,wandale-robinson-1,2022,2,43,NYG,Wan'Dale Robinson,WR,WR,Kentucky,20.0,,20.0,5-8,178.0,4.44,,34.5,118.0,,,RobiWa01,2001-01-05,68.0,185.0,2022.0,2025.0,2001.0,21.0
+643,MetcJo00,john-metchie-1,2022,2,44,HOU,John Metchie,WR,WR,Alabama,5.0,,3.0,5-11,187.0,,,,,,,MetcJo00,2000-07-18,72.0,195.0,2022.0,2025.0,2000.0,22.0
+644,ThorTy00,tyquan-thornton-1,2022,2,50,NWE,Tyquan Thornton,WR,WR,Baylor,7.0,,3.0,6-2,181.0,4.28,,36.5,130.0,,,ThorTy00,2000-08-07,74.0,185.0,2022.0,2025.0,2000.0,22.0
+645,PickGe00,george-pickens-1,2022,2,52,PIT,George Pickens,WR,WR,Georgia,36.0,,23.0,6-3,195.0,4.47,,33.0,125.0,,,PickGe00,2001-03-04,75.0,200.0,2022.0,2025.0,2001.0,21.0
+646,PierAl00,alec-pierce-2,2022,2,53,IND,Alec Pierce,WR,WR,Cincinnati,26.0,,26.0,6-3,211.0,4.41,,40.5,129.0,7.13,4.28,PierAl00,2000-05-02,75.0,211.0,2022.0,2025.0,2000.0,22.0
+647,MoorSk01,skyy-moore-1,2022,2,54,KAN,Skyy Moore,WR,WR,Western Michigan,5.0,,4.0,5-10,195.0,4.41,,34.5,125.0,7.13,4.32,MoorSk01,2000-09-10,70.0,195.0,2022.0,2025.0,2000.0,22.0
+648,McBrTr01,trey-mcbride-1,2022,2,55,ARI,Trey McBride,TE,TE,Colorado St.,29.0,,29.0,6-4,246.0,,18.0,33.0,117.0,,,McBrTr01,1999-11-22,76.0,246.0,2022.0,2025.0,1999.0,23.0
+649,CookJa01,james-cook-2,2022,2,63,BUF,James Cook,RB,RB,Georgia,43.0,,43.0,5-11,199.0,4.42,,33.0,124.0,,,CookJa01,1999-09-25,71.0,190.0,2022.0,2025.0,1999.0,23.0
+650,JoneVe00,velus-jones-jr-1,2022,3,71,CHI,Velus Jones Jr.,WR,WR,Tennessee,3.0,,3.0,,,,,,,,,JoneVe00,1997-05-11,72.0,200.0,2022.0,2025.0,1997.0,25.0
+651,WoodJe01,jelani-woods-1,2022,3,73,IND,Jelani Woods,TE,TE,Virginia,2.0,,2.0,6-7,259.0,4.61,24.0,,,,,WoodJe01,1998-10-09,79.0,253.0,2022.0,2025.0,1998.0,24.0
+652,RiddDe00,desmond-ridder-1,2022,3,74,ATL,Desmond Ridder,QB,QB,Cincinnati,13.0,,12.0,6-3,211.0,4.52,,36.0,127.0,7.15,4.29,RiddDe00,1999-08-31,75.0,207.0,2022.0,2025.0,1999.0,23.0
+653,DulcGr00,greg-dulcich-1,2022,3,80,DEN,Greg Dulcich,TE,TE,UCLA,6.0,,3.0,6-4,243.0,4.69,16.0,34.0,122.0,7.05,4.37,DulcGr00,2000-03-26,76.0,245.0,2022.0,2025.0,2000.0,22.0
+654,WillMa12,malik-willis-1,2022,3,86,TEN,Malik Willis,QB,QB,Liberty,6.0,,1.0,6-1,219.0,,,,,,,WillMa12,1999-05-25,73.0,225.0,2022.0,2025.0,1999.0,23.0
+655,TolbJa00,jalen-tolbert-1,2022,3,88,DAL,Jalen Tolbert,WR,WR,South Alabama,9.0,,9.0,6-1,194.0,4.49,,36.0,123.0,7.08,,TolbJa00,1999-02-27,73.0,195.0,2022.0,2025.0,1999.0,23.0
+656,WhitRa01,rachaad-white-1,2022,3,91,TAM,Rachaad White,RB,RB,Arizona St.,26.0,,26.0,6-0,214.0,4.48,,38.0,125.0,,,WhitRa01,1999-01-12,72.0,214.0,2022.0,2025.0,1999.0,23.0
+657,DaviTy03,tyrion-davis-price-1,2022,3,93,SFO,Tyrion Davis-Price,RB,RB,LSU,1.0,,1.0,6-0,211.0,4.48,,30.0,117.0,,,DaviTy03,2000-10-23,73.0,219.0,2022.0,2024.0,2000.0,22.0
+658,CorrMa00,matt-corral-1,2022,3,94,CAR,Matt Corral,QB,QB,Mississippi,,,,6-2,212.0,,,,,,,CorrMa00,1999-01-31,74.0,205.0,2022.0,2023.0,1999.0,23.0
+659,RobiBr01,brian-robinson-jr-1,2022,3,98,WAS,Brian Robinson Jr.,RB,RB,Alabama,19.0,,16.0,,,,,,,,,RobiBr01,1999-03-22,73.0,225.0,2022.0,2025.0,1999.0,23.0
+660,BellDa02,david-bell-6,2022,3,99,CLE,David Bell,WR,WR,Purdue,3.0,,3.0,6-1,212.0,4.65,,33.0,118.0,7.14,4.57,BellDa02,2000-12-14,73.0,212.0,2022.0,2025.0,2000.0,22.0
+661,RuckJe00,jeremy-ruckert-1,2022,3,101,NYJ,Jeremy Ruckert,TE,TE,Ohio St.,4.0,,4.0,6-5,250.0,,19.0,,,,,RuckJe00,2000-08-11,77.0,250.0,2022.0,2025.0,2000.0,22.0
+662,GrayDa02,danny-gray-1,2022,3,105,SFO,Danny Gray,WR,WR,SMU,0.0,,0.0,6-0,186.0,4.33,,34.0,126.0,,,GrayDa02,1999-04-01,72.0,200.0,2022.0,2025.0,1999.0,23.0
+663,OttoCa00,cade-otton-1,2022,4,106,TAM,Cade Otton,TE,TE,Washington,17.0,,17.0,6-5,247.0,,,,,,,OttoCa00,1999-04-15,77.0,247.0,2022.0,2025.0,1999.0,23.0
+664,PierDa01,dameon-pierce-1,2022,4,107,HOU,Dameon Pierce,RB,RB,Florida,12.0,,12.0,5-10,218.0,4.59,21.0,34.5,119.0,,,PierDa01,2000-02-19,70.0,215.0,2022.0,2025.0,2000.0,22.0
+665,BellDa00,daniel-bellinger-1,2022,4,112,NYG,Daniel Bellinger,TE,TE,San Diego St.,9.0,,9.0,6-5,253.0,4.63,22.0,34.5,125.0,7.05,4.47,BellDa00,2000-09-22,78.0,255.0,2022.0,2025.0,2000.0,22.0
+666,WhitZa01,zamir-white-1,2022,4,122,LVR,Zamir White,RB,RB,Georgia,5.0,,5.0,6-0,214.0,4.4,,33.5,128.0,,,WhitZa01,1999-09-18,71.0,227.0,2022.0,2025.0,1999.0,23.0
+667,SpilIs00,isaiah-spiller-1,2022,4,123,LAC,Isaiah Spiller,RB,RB,Texas A&M,1.0,,1.0,6-0,217.0,,,30.0,114.0,,,SpilIs00,2001-08-09,73.0,215.0,2022.0,2024.0,2001.0,21.0
+668,EzukEr00,erik-ezukanma-1,2022,4,125,MIA,Erik Ezukanma,WR,WR,Texas Tech,0.0,,0.0,6-2,209.0,,,36.5,126.0,,4.38,EzukEr00,2000-01-25,74.0,210.0,2022.0,2025.0,2000.0,22.0
+669,StroPi00,,2022,4,127,NWE,Pierre Strong,RB,RB,South Dakota St.,4.0,,1.0,5-11,207.0,4.37,,36.0,124.0,,,StroPi00,1998-12-10,71.0,215.0,2022.0,2025.0,1998.0,24.0
+670,KolaCh00,charlie-kolar-1,2022,4,128,BAL,Charlie Kolar,TE,TE,Iowa St.,4.0,,4.0,6-7,252.0,,,,,,,KolaCh00,1999-02-10,78.0,265.0,2022.0,2025.0,1999.0,23.0
+671,FergJa00,jake-ferguson-1,2022,4,129,DAL,Jake Ferguson,TE,TE,Wisconsin,19.0,,19.0,6-5,250.0,4.81,15.0,31.5,118.0,7.03,4.48,FergJa00,1999-01-18,77.0,244.0,2022.0,2025.0,1999.0,23.0
+672,HaskHa00,hassan-haskins-1,2022,4,131,TEN,Hassan Haskins,RB,RB,Michigan,2.0,,1.0,6-2,228.0,,27.0,,,,,HaskHa00,1999-11-26,74.0,228.0,2022.0,2025.0,1999.0,23.0
+673,DoubRo00,romeo-doubs-1,2022,4,132,GNB,Romeo Doubs,WR,WR,Nevada,23.0,,23.0,6-2,201.0,,,,,,,DoubRo00,2000-04-13,74.0,204.0,2022.0,2025.0,2000.0,22.0
+674,ZappBa00,bailey-zappe-1,2022,4,137,NWE,Bailey Zappe,QB,QB,Western Kentucky,2.0,,2.0,6-1,215.0,4.88,,30.0,109.0,7.19,4.4,ZappBa00,1999-04-26,73.0,215.0,2022.0,2025.0,1999.0,23.0
+675,AustCa00,calvin-austin-iii-1,2022,4,138,PIT,Calvin Austin III,WR,WR,Memphis,12.0,,12.0,,,,,,,,,AustCa00,1999-03-24,69.0,162.0,2022.0,2025.0,1999.0,23.0
+676,LikeIs00,isaiah-likely-1,2022,4,139,BAL,Isaiah Likely,TE,TE,Coastal Carolina,15.0,,15.0,6-5,245.0,,,36.0,,,4.57,LikeIs00,2000-04-18,76.0,245.0,2022.0,2025.0,2000.0,22.0
+677,OkonCh00,chigoziem-okonkwo-1,2022,4,143,TEN,Chigoziem Okonkwo,TE,TE,Maryland,16.0,,16.0,6-3,238.0,4.52,,35.5,,,,OkonCh00,1999-09-08,75.0,238.0,2022.0,2025.0,1999.0,23.0
+678,HoweSa00,sam-howell-1,2022,5,144,WAS,Sam Howell,QB,QB,North Carolina,12.0,,12.0,6-1,218.0,,,,,,,HoweSa00,2000-09-16,73.0,220.0,2022.0,2025.0,2000.0,22.0
+679,ShakKh00,khalil-shakir-1,2022,5,148,BUF,Khalil Shakir,WR,WR,Boise St.,25.0,,25.0,6-0,196.0,4.43,,34.5,124.0,7.28,4.21,ShakKh00,2000-02-03,72.0,190.0,2022.0,2025.0,2000.0,22.0
+680,TurnCo00,cole-turner-2,2022,5,149,WAS,Cole Turner,TE,TE,Nevada,1.0,,1.0,6-6,246.0,4.76,17.0,27.0,120.0,7.06,4.41,TurnCo00,2000-03-16,78.0,240.0,2022.0,2025.0,2000.0,22.0
+681,AllgTy00,tyler-allgeier-1,2022,5,151,ATL,Tyler Allgeier,RB,RB,BYU,20.0,,20.0,5-11,224.0,4.6,,33.0,120.0,,,AllgTy00,2000-04-15,71.0,225.0,2022.0,2025.0,2000.0,22.0
+682,ConnSn00,snoop-conner-1,2022,5,154,JAX,Snoop Conner,RB,RB,Mississippi,0.0,,0.0,5-10,222.0,4.59,25.0,29.5,118.0,,,ConnSn00,2000-08-01,70.0,222.0,2022.0,2023.0,2000.0,22.0
+683,FordJe00,jerome-ford-1,2022,5,156,CLE,Jerome Ford,RB,RB,Cincinnati,11.0,,11.0,5-11,210.0,4.46,,31.0,118.0,,,FordJe00,1999-09-12,70.0,210.0,2022.0,2025.0,1999.0,23.0
+684,WashMo00,,2022,5,162,DEN,Montrell Washington,WR,WR,Samford,0.0,,0.0,,,,,,,,,WashMo00,1999-03-14,70.0,170.0,2022.0,2024.0,1999.0,23.0
+685,PhilKy01,kyle-philips-4,2022,5,163,TEN,Kyle Philips,WR,WR,UCLA,3.0,,3.0,5-11,189.0,4.58,,33.5,124.0,,,PhilKy01,1999-06-17,71.0,189.0,2022.0,2024.0,1999.0,23.0
+686,WillKy02,kyren-williams-1,2022,5,164,LAR,Kyren Williams,RB,RB,Notre Dame,31.0,,31.0,5-9,194.0,4.65,,32.0,116.0,,,WillKy02,2000-08-26,69.0,202.0,2022.0,2025.0,2000.0,22.0
+687,ChanTy01,ty-chandler-1,2022,5,169,MIN,Ty Chandler,RB,RB,North Carolina,6.0,,6.0,,,,,,,,,ChanTy01,1998-05-12,71.0,204.0,2022.0,2025.0,1998.0,24.0
+688,QuitTe00,teagan-quitoriano-1,2022,5,170,HOU,Teagan Quitoriano,TE,TE,Oregon St.,1.0,,1.0,6-6,258.0,,22.0,,,,,QuitTe00,2000-03-15,78.0,259.0,2022.0,2025.0,2000.0,22.0
+689,MitcJa00,james-mitchell-2,2022,5,177,DET,James Mitchell,TE,TE,Virginia Tech,1.0,,1.0,6-4,249.0,,,,,,,MitcJa00,1999-08-11,76.0,249.0,2022.0,2025.0,1999.0,23.0
+690,HarrKe01,kevin-harris-5,2022,6,183,NWE,Kevin Harris,RB,RB,South Carolina,1.0,,1.0,5-10,221.0,,21.0,38.5,126.0,,,HarrKe01,2000-11-17,70.0,225.0,2022.0,2024.0,2000.0,22.0
+691,NailJa00,jalen-nailor-1,2022,6,191,MIN,Jalen Nailor,WR,WR,Michigan St.,9.0,,9.0,5-11,186.0,4.5,,38.0,128.0,7.03,4.28,NailJa00,1999-03-02,71.0,199.0,2022.0,2025.0,1999.0,23.0
+692,OgleAn00,,2022,6,192,IND,Andrew Ogletree,TE,TE,Youngstown St.,2.0,,2.0,,,,,,,,,OgleAn00,1998-07-28,77.0,260.0,2022.0,2025.0,1998.0,24.0
+693,BadiTy00,tyler-badie-1,2022,6,196,BAL,Tyler Badie,RB,RB,Missouri,2.0,,,5-8,197.0,4.45,,33.5,121.0,,,BadiTy00,1999-02-07,68.0,197.0,2022.0,2025.0,1999.0,23.0
+694,CalcGr00,grant-calcaterra-1,2022,6,198,PHI,Grant Calcaterra,TE,TE,SMU,5.0,,5.0,6-4,241.0,4.62,20.0,,,,,CalcGr00,1998-12-04,76.0,240.0,2022.0,2025.0,1998.0,24.0
+695,IngrKe01,keaontay-ingram-1,2022,6,201,ARI,Keaontay Ingram,RB,RB,USC,2.0,,2.0,6-0,221.0,4.53,,34.5,122.0,,,IngrKe01,1999-10-26,72.0,221.0,2022.0,2025.0,1999.0,23.0
+696,WoodMi00,mike-woods-3,2022,6,202,CLE,Michael Woods II,WR,WR,Oklahoma,0.0,,0.0,,,,,,,,,WoodMi00,2000-03-19,73.0,204.0,2022.0,2025.0,2000.0,22.0
+697,EbneTr00,trestan-ebner-1,2022,6,203,CHI,Trestan Ebner,RB,RB,Baylor,0.0,,0.0,5-11,206.0,4.43,,30.0,,,,EbneTr00,1999-01-02,71.0,206.0,2022.0,2022.0,1999.0,23.0
+698,HeywCo00,connor-heyward-1,2022,6,208,PIT,Connor Heyward,TE,TE,Michigan St.,3.0,,3.0,5-11,233.0,4.72,,32.5,,,,HeywCo00,1999-01-22,72.0,230.0,2022.0,2025.0,1999.0,23.0
+699,FitzJo00,john-fitzpatrick-2,2022,6,213,ATL,John FitzPatrick,TE,TE,Georgia,1.0,,0.0,,,,,,,,,FitzJo00,2000-03-09,79.0,262.0,2022.0,2025.0,2000.0,22.0
+700,KiefKo00,ko-kieft-1,2022,6,218,TAM,Ko Kieft,TE,TE,Minnesota,1.0,,1.0,,,,,,,,,KiefKo00,1998-01-20,77.0,265.0,2022.0,2025.0,1998.0,24.0
+701,MuseNi00,nick-muse-1,2022,7,227,MIN,Nick Muse,TE,TE,South Carolina,0.0,,0.0,,,,,,,,,MuseNi00,1998-11-25,77.0,252.0,2022.0,2025.0,1998.0,24.0
+702,MeltBo00,bo-melton-1,2022,7,229,SEA,Bo Melton,WR,WR,Rutgers,5.0,,,5-11,189.0,4.34,,38.0,121.0,6.98,,MeltBo00,1999-05-18,71.0,189.0,2022.0,2025.0,1999.0,23.0
+703,YounDa02,,2022,7,233,SEA,Dareke Young,WR,WR,Lenoir-Rhyne,0.0,,0.0,,,,,,,,,YounDa02,1999-06-04,74.0,224.0,2022.0,2025.0,1999.0,23.0
+704,OladCh00,,2022,7,241,PIT,Chris Oladokun,QB,QB,South Dakota St.,1.0,,,,,,,,,,,OladCh00,1997-09-03,73.0,213.0,2022.0,2025.0,1997.0,25.0
+705,ThomSk00,skylar-thompson-1,2022,7,247,MIA,Skylar Thompson,QB,QB,Kansas St.,3.0,,3.0,6-2,217.0,4.91,,31.0,112.0,7.0,4.28,ThomSk00,1997-06-04,74.0,219.0,2022.0,2025.0,1997.0,25.0
+706,BrowBr06,brittain-brown-1,2022,7,250,LVR,Brittain Brown,RB,RB,UCLA,0.0,,0.0,,,,,,,,,BrowBr06,1997-10-10,73.0,205.0,2022.0,2025.0,1997.0,25.0
+707,PachIs00,isaih-pacheco-1,2022,7,251,KAN,Isiah Pacheco,RB,RB,Rutgers,21.0,,21.0,5-10,216.0,4.37,,33.0,118.0,,,PachIs00,1999-03-02,70.0,216.0,2022.0,2025.0,1999.0,23.0
+708,TourSa00,samori-toure-1,2022,7,258,GNB,Samori Toure,WR,WR,Nebraska,2.0,,2.0,,,,,,,,,TourSa00,1998-03-24,73.0,196.0,2022.0,2025.0,1998.0,24.0
+709,HorvZa00,alexander-horvath-1,2022,7,260,LAC,Zander Horvath,RB,RB,Purdue,0.0,,0.0,,,,,,,,,HorvZa00,1998-12-10,75.0,230.0,2022.0,2023.0,1998.0,24.0
+710,PurdBr00,brock-purdy-1,2022,7,262,SFO,Brock Purdy,QB,QB,Iowa St.,44.0,,44.0,6-1,212.0,4.84,,27.0,,7.21,4.45,PurdBr00,1999-12-27,73.0,220.0,2022.0,2025.0,1999.0,23.0
+711,YounBr01,bryce-young-1,2023,1,1,CAR,Bryce Young,QB,QB,Alabama,23.0,,23.0,5-10,204.0,,,,,,,YounBr01,2001-07-25,70.0,204.0,2023.0,2025.0,2001.0,22.0
+712,StroCJ00,cj-stroud-1,2023,1,2,HOU,C.J. Stroud,QB,QB,Ohio St.,33.0,,33.0,6-3,214.0,,,,,,,StroCJ00,2001-10-03,75.0,218.0,2023.0,2025.0,2001.0,22.0
+713,RichAn03,anthony-richardson-2,2023,1,4,IND,Anthony Richardson,QB,QB,Florida,9.0,,9.0,6-4,244.0,4.43,,40.5,129.0,,,RichAn03,2002-05-22,76.0,244.0,2023.0,2025.0,2002.0,21.0
+714,RobiBi01,bijan-robinson-1,2023,1,8,ATL,Bijan Robinson,RB,RB,Texas,36.0,,36.0,5-11,215.0,4.46,,37.0,124.0,,,RobiBi01,2002-01-30,71.0,215.0,2023.0,2025.0,2002.0,21.0
+715,GibbJa01,jahmyr-gibbs-1,2023,1,12,DET,Jahmyr Gibbs,RB,RB,Alabama,40.0,,40.0,5-9,199.0,4.36,,33.5,,,,GibbJa01,2002-03-20,69.0,202.0,2023.0,2025.0,2002.0,21.0
+716,SmitJa06,jaxon-smith-njigba-1,2023,1,20,SEA,Jaxon Smith-Njigba,WR,WR,Ohio St.,30.0,,30.0,6-1,196.0,,,35.0,125.0,6.57,3.93,SmitJa06,2002-02-14,72.0,197.0,2023.0,2025.0,2002.0,21.0
+717,JohnQu02,quentin-johnston-1,2023,1,21,LAC,Quentin Johnston,WR,WR,TCU,16.0,,16.0,6-3,208.0,,,40.5,134.0,,,JohnQu02,2001-09-06,74.0,208.0,2023.0,2025.0,2001.0,22.0
+718,FlowZa00,zay-flowers-1,2023,1,22,BAL,Zay Flowers,WR,WR,Boston Col.,33.0,,33.0,5-9,182.0,4.42,,35.5,127.0,,,FlowZa00,2000-09-11,69.0,183.0,2023.0,2025.0,2000.0,23.0
+719,AddiJo00,jordan-addison-1,2023,1,23,MIN,Jordan Addison,WR,WR,USC,20.0,,20.0,5-11,173.0,4.49,,34.0,122.0,,,AddiJo00,2002-01-27,71.0,175.0,2023.0,2025.0,2002.0,21.0
+720,KincDa00,dalton-kincaid-1,2023,1,25,BUF,Dalton Kincaid,TE,TE,Utah,17.0,,17.0,6-4,246.0,,,,,,,KincDa00,1999-10-18,75.0,240.0,2023.0,2025.0,1999.0,24.0
+721,LeviWi00,will-levis-1,2023,2,33,TEN,Will Levis,QB,QB,Kentucky,11.0,,11.0,6-4,229.0,,,34.0,124.0,,,LeviWi00,1999-06-27,76.0,229.0,2023.0,2025.0,1999.0,24.0
+722,LaPoSa01,sam-laporta-1,2023,2,34,DET,Sam LaPorta,TE,TE,Iowa,21.0,,21.0,6-3,245.0,,,35.0,123.0,6.91,4.25,LaPoSa01,2001-01-12,75.0,245.0,2023.0,2025.0,2001.0,22.0
+723,MayeMi00,michael-mayer-1,2023,2,35,LVR,Michael Mayer,TE,TE,Notre Dame,7.0,,7.0,6-5,249.0,,,32.5,118.0,,,MayeMi00,2001-07-06,76.0,256.0,2023.0,2025.0,2001.0,22.0
+724,MingJo00,jonathan-mingo-1,2023,2,39,CAR,Jonathan Mingo,WR,WR,Mississippi,4.0,,4.0,6-2,220.0,4.46,22.0,39.5,129.0,,,MingJo00,2001-04-20,74.0,225.0,2023.0,2025.0,2001.0,22.0
+725,MusgLu00,luke-musgrave-1,2023,2,42,GNB,Luke Musgrave,TE,TE,Oregon St.,6.0,,6.0,6-6,253.0,,,36.0,125.0,,,MusgLu00,2000-09-02,78.0,253.0,2023.0,2025.0,2000.0,23.0
+726,ReedJa03,jayden-reed-1,2023,2,50,GNB,Jayden Reed,WR,WR,Michigan St.,19.0,,19.0,5-11,187.0,4.45,,33.5,121.0,,4.29,ReedJa03,2000-04-28,71.0,187.0,2023.0,2025.0,2000.0,23.0
+727,CharZa00,zach-charbonnet-1,2023,2,52,SEA,Zach Charbonnet,RB,RB,UCLA,16.0,,16.0,6-0,214.0,4.53,,37.0,122.0,,,CharZa00,2001-01-08,73.0,214.0,2023.0,2025.0,2001.0,22.0
+728,RiceRa01,rashee-rice-1,2023,2,55,KAN,Rashee Rice,WR,WR,SMU,16.0,,16.0,6-1,204.0,4.51,,41.0,128.0,,,RiceRa01,2000-04-22,73.0,203.0,2023.0,2025.0,2000.0,23.0
+729,SchoLu00,luke-schoonmaker-1,2023,2,58,DAL,Luke Schoonmaker,TE,TE,Michigan,4.0,,4.0,6-5,251.0,,,33.5,127.0,,4.27,SchoLu00,1998-09-28,77.0,250.0,2023.0,2025.0,1998.0,25.0
+730,StraBr00,brenton-strange-1,2023,2,61,JAX,Brenton Strange,TE,TE,Penn St.,8.0,,8.0,6-4,253.0,,23.0,36.0,124.0,7.25,4.46,StraBr00,2000-12-27,76.0,253.0,2023.0,2025.0,2000.0,23.0
+731,MimsMa00,marvin-mims-1,2023,2,63,DEN,Marvin Mims,WR,WR,Oklahoma,13.0,,13.0,5-11,183.0,4.38,,39.5,129.0,6.9,,MimsMa00,2002-03-19,71.0,182.0,2023.0,2025.0,2002.0,21.0
+732,HookHe00,hendon-hooker-1,2023,3,68,DET,Hendon Hooker,QB,QB,Tennessee,0.0,,0.0,6-3,217.0,,,,,,,HookHe00,1998-01-13,75.0,221.0,2023.0,2025.0,1998.0,25.0
+733,DellNa00,nathaniel-dell-1,2023,3,69,HOU,Tank Dell,WR,WR,Houston,12.0,,12.0,,,,,,,,,DellNa00,1999-10-29,70.0,165.0,2023.0,2025.0,1999.0,24.0
+734,MillKe01,kendre-miller-1,2023,3,71,NOR,Kendre Miller,RB,RB,TCU,4.0,,4.0,5-11,215.0,,,,,,,MillKe01,2002-06-11,72.0,220.0,2023.0,2025.0,2002.0,21.0
+735,HyatJa00,jalin-hyatt-1,2023,3,73,NYG,Jalin Hyatt,WR,WR,Tennessee,3.0,,3.0,6-0,176.0,4.4,,40.0,135.0,,,HyatJa00,2001-09-25,72.0,185.0,2023.0,2025.0,2001.0,22.0
+736,TillCe01,cedric-tillman-1,2023,3,74,CLE,Cedric Tillman,WR,WR,Tennessee,6.0,,6.0,6-3,213.0,4.54,,37.0,128.0,,,TillCe01,2000-04-19,75.0,215.0,2023.0,2025.0,2000.0,23.0
+737,KrafTu00,,2023,3,78,GNB,Tucker Kraft,TE,TE,South Dakota St.,15.0,,15.0,6-5,254.0,,23.0,34.0,122.0,7.08,4.29,KrafTu00,2000-11-03,77.0,259.0,2023.0,2025.0,2000.0,23.0
+738,DownJo00,josh-downs-2,2023,3,79,IND,Josh Downs,WR,WR,North Carolina,19.0,,19.0,5-9,171.0,4.48,,38.5,131.0,,,DownJo00,2001-08-12,69.0,171.0,2023.0,2025.0,2001.0,22.0
+739,SpeaTy00,tyjae-spears-1,2023,3,81,TEN,Tyjae Spears,RB,RB,Tulane,13.0,,13.0,5-10,201.0,,,39.0,125.0,,,SpeaTy00,2001-06-15,71.0,195.0,2023.0,2025.0,2001.0,22.0
+740,AchaDe00,devon-achane-1,2023,3,84,MIA,De'Von Achane,RB,RB,Texas A&M,31.0,,31.0,,,,,,,,,AchaDe00,2001-10-13,69.0,191.0,2023.0,2025.0,2001.0,22.0
+741,BigsTa00,tank-bigsby-1,2023,3,88,JAX,Tank Bigsby,RB,RB,Auburn,8.0,,6.0,6-0,210.0,4.56,,32.5,119.0,,,BigsTa00,2002-08-30,71.0,215.0,2023.0,2025.0,2002.0,21.0
+742,WashDa03,darnell-washington-1,2023,3,93,PIT,Darnell Washington,TE,TE,Georgia,7.0,,7.0,6-7,264.0,,21.0,31.0,122.0,,4.08,WashDa03,2001-08-17,79.0,265.0,2023.0,2025.0,2001.0,22.0
+743,WilsMi02,michael-wilson-3,2023,3,94,ARI,Michael Wilson,WR,WR,Stanford,18.0,,18.0,6-2,213.0,4.58,23.0,37.5,125.0,,4.27,WilsMi02,2000-02-23,74.0,213.0,2023.0,2025.0,2000.0,23.0
+744,TuckTr00,tre-tucker-1,2023,3,100,LVR,Tre Tucker,WR,WR,Cincinnati,13.0,,13.0,5-9,182.0,4.4,,37.5,124.0,,,TuckTr00,2001-03-08,68.0,182.0,2023.0,2025.0,2001.0,22.0
+745,LatuCa01,cameron-latu-1,2023,3,101,SFO,Cameron Latu,TE,TE,Alabama,0.0,,,6-4,242.0,,,,,,,LatuCa01,2000-02-24,77.0,244.0,2023.0,2025.0,2000.0,23.0
+746,JohnRo07,roschon-johnson-1,2023,4,115,CHI,Roschon Johnson,RB,RB,Texas,6.0,,6.0,6-0,219.0,4.58,,31.5,122.0,,,JohnRo07,2001-01-31,72.0,227.0,2023.0,2025.0,2001.0,22.0
+747,DaviDe02,derius-davis-1,2023,4,125,LAC,Derius Davis,WR,WR,TCU,3.0,,3.0,5-8,165.0,4.36,,,,,4.38,DaviDe02,2000-09-11,68.0,165.0,2023.0,2025.0,2000.0,23.0
+748,HaenJa00,jake-haener-1,2023,4,127,NOR,Jake Haener,QB,QB,Fresno St.,1.0,,1.0,6-0,207.0,,,35.0,114.0,7.01,,HaenJa00,1999-03-10,73.0,200.0,2023.0,2025.0,1999.0,24.0
+749,BennSt00,stetson-bennett-1,2023,4,128,LAR,Stetson Bennett,QB,QB,Georgia,,,,5-11,192.0,4.67,,33.5,118.0,,4.2,BennSt00,1997-10-28,71.0,190.0,2023.0,2025.0,1997.0,26.0
+750,JoneCh11,charlie-jones-7,2023,4,131,CIN,Charlie Jones,WR,WR,Purdue,4.0,,4.0,5-11,175.0,4.43,13.0,36.5,124.0,,,JoneCh11,1998-10-29,72.0,190.0,2023.0,2025.0,1998.0,25.0
+751,ScotTy00,tyler-scott-3,2023,4,133,CHI,Tyler Scott,WR,WR,Cincinnati,2.0,,2.0,5-10,177.0,4.44,,39.5,133.0,,,ScotTy00,2001-10-12,70.0,182.0,2023.0,2025.0,2001.0,22.0
+752,OConAi00,aidan-oconnell-1,2023,4,135,LVR,Aidan O'Connell,QB,QB,Purdue,10.0,,10.0,6-3,213.0,,,,,,,OConAi00,1998-09-01,75.0,206.0,2023.0,2025.0,1998.0,25.0
+753,TuneCl00,clayton-tune-1,2023,5,139,ARI,Clayton Tune,QB,QB,Houston,0.0,,0.0,6-3,220.0,4.64,,37.5,122.0,6.89,4.25,TuneCl00,1999-03-23,75.0,220.0,2023.0,2025.0,1999.0,24.0
+754,ThomDo02,dorian-thompson-robinson-1,2023,5,140,CLE,Dorian Thompson-Robinson,QB,QB,UCLA,2.0,,2.0,6-2,203.0,4.56,,32.5,121.0,7.28,4.44,ThomDo02,1999-11-14,74.0,203.0,2023.0,2024.0,1999.0,24.0
+755,AbanIs00,israel-abanikanda-1,2023,5,143,NYJ,Israel Abanikanda,RB,RB,Pittsburgh,1.0,,1.0,5-10,216.0,,,,,,,AbanIs00,2002-10-05,70.0,216.0,2023.0,2025.0,2002.0,21.0
+756,WhylJo01,josh-whyle-1,2023,5,147,TEN,Josh Whyle,TE,TE,Cincinnati,3.0,,3.0,6-7,248.0,,,33.5,115.0,,,WhylJo01,1999-09-08,79.0,248.0,2023.0,2025.0,1999.0,24.0
+757,ClifSe00,sean-clifford-1,2023,5,149,GNB,Sean Clifford,QB,QB,Penn St.,0.0,,0.0,,,,,,,,,ClifSe00,1998-07-14,74.0,217.0,2023.0,2025.0,1998.0,25.0
+758,ShorJu00,justin-shorter-1,2023,5,150,BUF,Justin Shorter,WR,WR,Florida,0.0,,,6-4,229.0,4.55,18.0,35.5,126.0,,,ShorJu00,2000-04-17,76.0,227.0,2023.0,2025.0,2000.0,23.0
+759,WickDo00,dontayvion-wicks-1,2023,5,159,GNB,Dontayvion Wicks,WR,WR,Virginia,13.0,,13.0,6-1,206.0,4.62,,39.0,130.0,,,WickDo00,2001-06-16,73.0,206.0,2023.0,2025.0,2001.0,22.0
+760,MallWi00,will-mallory-1,2023,5,162,IND,Will Mallory,TE,TE,Miami (FL),2.0,,2.0,6-5,239.0,,20.0,36.5,121.0,,,MallWi00,1999-06-22,76.0,239.0,2023.0,2025.0,1999.0,24.0
+761,BrowCh10,chase-brown-3,2023,5,163,CIN,Chase Brown,RB,RB,Illinois,22.0,,22.0,5-10,209.0,4.43,,40.0,127.0,,,BrowCh10,2000-03-21,70.0,211.0,2023.0,2025.0,2000.0,23.0
+762,HallJa00,jaren-hall-1,2023,5,164,MIN,Jaren Hall,QB,QB,BYU,1.0,,1.0,6-0,207.0,,,,,,,HallJa00,1998-03-24,72.0,207.0,2023.0,2024.0,1998.0,25.0
+763,DurhPa00,payne-durham-1,2023,5,171,TAM,Payne Durham,TE,TE,Purdue,2.0,,2.0,6-6,253.0,,,34.5,117.0,,,DurhPa00,2000-06-15,77.0,255.0,2023.0,2025.0,2000.0,23.0
+764,GrayEr01,eric-gray-2,2023,5,172,NYG,Eric Gray,RB,RB,Oklahoma,1.0,,1.0,5-10,207.0,,,37.5,118.0,,,GrayEr01,1999-11-04,70.0,210.0,2023.0,2025.0,1999.0,24.0
+765,AlleDa02,davis-allen-1,2023,5,175,LAR,Davis Allen,TE,TE,Clemson,3.0,,3.0,6-6,245.0,,,38.5,125.0,,,AlleDa02,2001-02-03,78.0,251.0,2023.0,2025.0,2001.0,22.0
+766,HullEv00,evan-hull-2,2023,5,176,IND,Evan Hull,RB,RB,Northwestern,0.0,,0.0,5-10,209.0,4.47,,37.0,123.0,6.9,4.38,HullEv00,2000-10-26,70.0,209.0,2023.0,2025.0,2000.0,23.0
+767,NacuPu00,puka-nacua-1,2023,5,177,LAR,Puka Nacua,WR,WR,BYU,39.0,,39.0,6-2,201.0,,,,,,,NacuPu00,2001-05-29,74.0,212.0,2023.0,2025.0,2001.0,22.0
+768,WashPa01,parker-washington-1,2023,6,185,JAX,Parker Washington,WR,WR,Penn St.,15.0,,15.0,5-10,204.0,,16.0,,,,,WashPa01,2002-03-21,70.0,204.0,2023.0,2025.0,2002.0,21.0
+769,BoutKa00,kayshon-boutte-1,2023,6,187,NWE,Kayshon Boutte,WR,WR,LSU,10.0,,10.0,5-11,195.0,4.5,,29.0,118.0,,4.25,BoutKa00,2002-05-07,71.0,197.0,2023.0,2025.0,2002.0,21.0
+770,McKeTa01,tanner-mckee-1,2023,6,188,PHI,Tanner McKee,QB,QB,Stanford,2.0,,2.0,6-6,231.0,,,33.0,114.0,7.22,4.41,McKeTa01,2000-04-27,78.0,230.0,2023.0,2025.0,2000.0,23.0
+771,PalmTr00,trey-palmer-1,2023,6,191,TAM,Trey Palmer,WR,WR,Nebraska,6.0,,6.0,6-0,192.0,4.33,,,,,,PalmTr00,2001-04-02,73.0,190.0,2023.0,2025.0,2001.0,22.0
+772,RodrCh00,christopher-rodriguez-jr-1,2023,6,193,WAS,Chris Rodriguez,RB,RB,Kentucky,6.0,,6.0,,,,,,,,,RodrCh00,1999-09-26,71.0,224.0,2023.0,2025.0,1999.0,24.0
+773,PerrAT00,at-perry-1,2023,6,195,NOR,A.T. Perry,WR,WR,Wake Forest,2.0,,2.0,6-4,198.0,4.47,,35.0,133.0,,,PerrAT00,1999-10-26,77.0,205.0,2023.0,2025.0,1999.0,24.0
+774,HiggEl00,elijah-higgins-1,2023,6,197,MIA,Elijah Higgins,WR,WR,Stanford,6.0,,,6-3,235.0,4.54,,35.0,126.0,7.01,,HiggEl00,2000-10-27,75.0,245.0,2023.0,2025.0,2000.0,23.0
+775,HutcXa00,xavier-hutchinson-1,2023,6,205,HOU,Xavier Hutchinson,WR,WR,Iowa St.,6.0,,6.0,6-2,203.0,4.53,,36.0,116.0,6.91,4.35,HutcXa00,2000-06-01,75.0,210.0,2023.0,2025.0,2000.0,23.0
+776,IosiAn00,,2023,6,206,CIN,Andrei Iosivas,WR,WR,Princeton,9.0,,9.0,6-3,205.0,4.43,19.0,39.0,128.0,6.85,4.12,IosiAn00,1999-10-15,75.0,210.0,2023.0,2025.0,1999.0,24.0
+777,DougDe00,demario-douglas-1,2023,6,210,NWE,DeMario Douglas,WR,WR,Liberty,12.0,,12.0,,,,,,,,,DougDe00,2000-12-08,68.0,192.0,2023.0,2025.0,2000.0,23.0
+778,VaugDe00,deuce-vaughn-1,2023,6,212,DAL,Deuce Vaughn,RB,RB,Kansas St.,1.0,,1.0,5-5,179.0,,,35.5,116.0,,,VaugDe00,2001-11-02,65.0,185.0,2023.0,2025.0,2001.0,22.0
+779,EvanZa00,zach-evans-1,2023,6,215,LAR,Zach Evans,RB,RB,Mississippi,0.0,,0.0,5-11,202.0,,,,,,,EvanZa00,2001-05-30,71.0,211.0,2023.0,2024.0,2001.0,22.0
+780,GreeAn00,antoine-green-1,2023,7,219,DET,Antoine Green,WR,WR,North Carolina,0.0,,0.0,6-2,199.0,4.47,,33.5,123.0,6.99,4.27,GreeAn00,1999-11-15,74.0,200.0,2023.0,2024.0,1999.0,24.0
+781,KuntZa00,zack-kuntz-1,2023,7,220,NYJ,Zack Kuntz,TE,TE,Old Dominion,0.0,,0.0,,,,,,,,,KuntZa00,1999-06-09,80.0,251.0,2023.0,2024.0,1999.0,24.0
+782,McBrDe00,dewayne-mcbride-1,2023,7,222,MIN,DeWayne McBride,RB,RB,Ala-Birmingham,,,,,,,,,,,,McBrDe00,2001-07-08,71.0,209.0,2023.0,2023.0,2001.0,22.0
+783,DoweCo00,,2023,7,228,TEN,Colton Dowell,WR,WR,UT Martin,0.0,,0.0,,,,,,,,,DoweCo00,1999-04-19,75.0,212.0,2023.0,2024.0,1999.0,24.0
+784,NichLe00,lew-nichols-1,2023,7,235,GNB,Lew Nichols,RB,RB,Central Michigan,0.0,,,,,,,,,,,NichLe00,2001-08-16,70.0,220.0,2023.0,2025.0,2001.0,22.0
+785,McInKe00,kenny-mcintosh-1,2023,7,237,SEA,Kenny McIntosh,RB,RB,Georgia,1.0,,1.0,6-0,204.0,4.62,,,,,,McInKe00,2000-03-03,72.0,211.0,2023.0,2025.0,2000.0,23.0
+786,DuggMa00,max-duggan-1,2023,7,239,LAC,Max Duggan,QB,QB,TCU,,,,6-2,207.0,4.52,,30.5,116.0,7.26,4.45,DuggMa00,2001-03-12,73.0,207.0,2023.0,2023.0,2001.0,22.0
+787,BrooJa03,jalen-brooks-2,2023,7,244,DAL,Jalen Brooks,WR,WR,South Carolina,2.0,,2.0,6-1,201.0,4.69,,35.0,130.0,7.15,4.31,BrooJa03,2000-05-07,73.0,203.0,2023.0,2025.0,2000.0,23.0
+788,WillBr06,brayden-willis-1,2023,7,247,SFO,Brayden Willis,TE,TE,Oklahoma,0.0,,0.0,6-4,241.0,,20.0,32.0,117.0,7.3,4.36,WillBr06,1999-11-11,76.0,240.0,2023.0,2025.0,1999.0,24.0
+789,BellRo01,ronnie-bell-3,2023,7,253,SFO,Ronnie Bell,WR,WR,Michigan,1.0,,1.0,6-0,191.0,4.54,14.0,38.5,120.0,6.98,4.15,BellRo01,2000-01-28,72.0,195.0,2023.0,2025.0,2000.0,23.0
+790,DuboGr00,grant-dubose-1,2023,7,256,GNB,Grant Dubose,WR,WR,Charlotte,0.0,,,,,,,,,,,DuboGr00,2001-06-20,74.0,201.0,2023.0,2024.0,2001.0,22.0
+791,WillCa03,caleb-williams-3,2024,1,1,CHI,Caleb Williams,QB,QB,USC,26.0,,26.0,6-1,214.0,,,,,,,WillCa03,2001-11-18,73.0,226.0,2024.0,2025.0,2001.0,23.0
+792,DaniJa02,jayden-daniels-1,2024,1,2,WAS,Jayden Daniels,QB,QB,LSU,26.0,,26.0,6-4,210.0,,,,,,,DaniJa02,2000-12-18,76.0,210.0,2024.0,2025.0,2000.0,24.0
+793,MayeDr00,drake-maye-1,2024,1,3,NWE,Drake Maye,QB,QB,North Carolina,26.0,,26.0,6-4,223.0,,,,,,,MayeDr00,2002-08-30,76.0,225.0,2024.0,2025.0,2002.0,22.0
+794,HarrMa09,marvin-harrison-jr-1,2024,1,4,ARI,Marvin Harrison Jr.,WR,WR,Ohio St.,13.0,,13.0,,,,,,,,,HarrMa09,2002-08-11,75.0,220.0,2024.0,2025.0,2002.0,22.0
+795,NabeMa00,malik-nabers-1,2024,1,6,NYG,Malik Nabers,WR,WR,LSU,12.0,,12.0,6-0,200.0,,,,,,,NabeMa00,2003-07-28,72.0,200.0,2024.0,2025.0,2003.0,21.0
+796,PeniMi00,michael-penix-jr-1,2024,1,8,ATL,Michael Penix,QB,QB,Washington,8.0,,8.0,,,,,,,,,PeniMi00,2000-05-08,75.0,220.0,2024.0,2025.0,2000.0,24.0
+797,OdunRo00,rome-odunze-1,2024,1,9,CHI,Rome Odunze,WR,WR,Washington,12.0,,12.0,6-3,212.0,4.45,,39.0,124.0,6.88,4.03,OdunRo00,2002-06-03,75.0,215.0,2024.0,2025.0,2002.0,22.0
+798,McCaJJ00,jj-mccarthy-1,2024,1,10,MIN,J.J. McCarthy,QB,QB,Michigan,4.0,,4.0,6-3,219.0,,,,,6.82,4.23,McCaJJ00,2003-01-20,75.0,219.0,2024.0,2025.0,2003.0,21.0
+799,NixxBo00,bo-nix-1,2024,1,12,DEN,Bo Nix,QB,QB,Oregon,25.0,,25.0,6-2,214.0,,,,,,,NixxBo00,2000-02-25,74.0,217.0,2024.0,2025.0,2000.0,24.0
+800,BoweBr01,brock-bowers-1,2024,1,13,LVR,Brock Bowers,TE,TE,Georgia,14.0,,14.0,6-3,243.0,,,,,,,BoweBr01,2002-12-13,75.0,235.0,2024.0,2025.0,2002.0,22.0
+801,ThomBr06,brian-thomas-jr-1,2024,1,23,JAX,Brian Thomas,WR,WR,LSU,18.0,,18.0,6-3,209.0,4.33,11.0,38.5,126.0,,,ThomBr06,2002-10-08,74.0,209.0,2024.0,2025.0,2002.0,22.0
+802,WortXa00,xavier-worthy-1,2024,1,28,KAN,Xavier Worthy,WR,WR,Texas,13.0,,13.0,5-11,165.0,4.21,,41.0,131.0,,,WortXa00,2003-04-27,71.0,165.0,2024.0,2025.0,2003.0,21.0
+803,PearRi00,ricky-pearsall-1,2024,1,31,SFO,Ricky Pearsall,WR,WR,Florida,8.0,,8.0,6-1,189.0,4.41,17.0,42.0,129.0,6.64,4.05,PearRi00,2000-09-09,73.0,189.0,2024.0,2025.0,2000.0,24.0
+804,LegeXa00,xavier-legette-1,2024,1,32,CAR,Xavier Legette,WR,WR,South Carolina,8.0,,8.0,6-1,221.0,4.39,,40.0,126.0,,,LegeXa00,2001-01-29,75.0,227.0,2024.0,2025.0,2001.0,23.0
+805,ColeKe02,keon-coleman-1,2024,2,33,BUF,Keon Coleman,WR,WR,Florida St.,11.0,,11.0,6-3,213.0,4.61,,38.0,127.0,,,ColeKe02,2003-05-17,76.0,215.0,2024.0,2025.0,2003.0,21.0
+806,McCoLa00,ladd-mcconkey-1,2024,2,34,LAC,Ladd McConkey,WR,WR,Georgia,18.0,,18.0,6-0,186.0,4.39,13.0,36.0,124.0,,,McCoLa00,2001-11-11,72.0,185.0,2024.0,2025.0,2001.0,23.0
+807,PolkJa00,jalynn-polk-1,2024,2,37,NWE,Ja'Lynn Polk,WR,WR,Washington,1.0,,1.0,6-1,203.0,4.52,,37.5,129.0,,,PolkJa00,2002-04-11,73.0,203.0,2024.0,2025.0,2002.0,22.0
+808,BrooJo02,jonathon-brooks-1,2024,2,46,CAR,Jonathon Brooks,RB,RB,Texas,0.0,,0.0,6-0,216.0,,,,,,,BrooJo02,2003-07-21,72.0,207.0,2024.0,2025.0,2003.0,21.0
+809,MitcAd00,adonai-mitchell-1,2024,2,52,IND,Adonai Mitchell,WR,WR,Texas,8.0,,5.0,6-2,205.0,4.34,,39.5,136.0,,,MitcAd00,2002-10-08,74.0,205.0,2024.0,2025.0,2002.0,22.0
+810,SinnBe00,ben-sinnott-1,2024,2,53,WAS,Ben Sinnott,TE,TE,Kansas St.,1.0,,1.0,6-4,250.0,4.68,,40.0,126.0,6.82,4.23,SinnBe00,2002-06-14,76.0,245.0,2024.0,2025.0,2002.0,22.0
+811,CorlMa00,malachi-corley-1,2024,3,65,NYJ,Malachi Corley,WR,WR,Western Kentucky,1.0,,0.0,5-11,215.0,,,,,,,CorlMa00,2002-03-21,71.0,215.0,2024.0,2025.0,2002.0,22.0
+812,BensTr01,trey-benson-2,2024,3,66,ARI,Trey Benson,RB,RB,Florida St.,3.0,,3.0,6-0,216.0,4.39,,33.5,122.0,,,BensTr01,2002-07-23,72.0,220.0,2024.0,2025.0,2002.0,22.0
+813,BurtJe01,jermaine-burton-1,2024,3,80,CIN,Jermaine Burton,WR,WR,Alabama,1.0,,1.0,6-0,196.0,4.45,,38.5,133.0,,,BurtJe01,2001-06-28,72.0,204.0,2024.0,2025.0,2001.0,23.0
+814,ReimTi00,tip-reiman-1,2024,3,82,ARI,Tip Reiman,TE,TE,Illinois,0.0,,0.0,6-5,271.0,4.64,28.0,33.5,121.0,7.02,4.26,ReimTi00,2001-09-17,77.0,271.0,2024.0,2025.0,2001.0,23.0
+815,CoruBl00,blake-corum-1,2024,3,83,LAR,Blake Corum,RB,RB,Michigan,8.0,,8.0,5-8,205.0,4.53,27.0,35.5,,6.82,4.12,CoruBl00,2000-11-25,68.0,210.0,2024.0,2025.0,2000.0,24.0
+816,WilsRo02,roman-wilson-1,2024,3,84,PIT,Roman Wilson,WR,WR,Michigan,2.0,,2.0,5-11,185.0,4.39,12.0,,,,,WilsRo02,2001-06-19,70.0,186.0,2024.0,2025.0,2001.0,23.0
+817,LloyMa00,marshawn-lloyd-1,2024,3,88,GNB,MarShawn Lloyd,RB,RB,USC,0.0,,0.0,5-9,220.0,4.46,25.0,36.0,118.0,,,LloyMa00,2001-01-05,69.0,220.0,2024.0,2025.0,2001.0,23.0
+818,McMiJa01,jalen-mcmillan-1,2024,3,92,TAM,Jalen McMillan,WR,WR,Washington,7.0,,7.0,6-1,197.0,4.47,,37.0,127.0,6.94,4.18,McMiJa01,2001-12-07,73.0,192.0,2024.0,2025.0,2001.0,23.0
+819,McCaLu00,luke-mccaffrey-1,2024,3,100,WAS,Luke McCaffrey,WR,WR,Rice,4.0,,4.0,6-2,198.0,4.46,,36.0,121.0,6.7,4.02,McCaLu00,2001-04-02,74.0,195.0,2024.0,2025.0,2001.0,23.0
+820,SandJa01,jatavion-sanders-1,2024,4,101,CAR,Ja'Tavion Sanders,TE,TE,Texas,5.0,,5.0,6-4,245.0,4.69,,,,,4.32,SandJa01,2003-03-27,76.0,252.0,2024.0,2025.0,2003.0,21.0
+821,FranTr00,troy-franklin-2,2024,4,102,DEN,Troy Franklin,WR,WR,Oregon,8.0,,8.0,6-2,176.0,4.41,,39.0,124.0,6.9,4.31,FranTr00,2003-02-06,75.0,180.0,2024.0,2025.0,2003.0,21.0
+822,JohnTh00,theo-johnson-1,2024,4,107,NYG,Theo Johnson,TE,TE,Penn St.,7.0,,7.0,,,,,,,,,JohnTh00,2001-02-26,78.0,264.0,2024.0,2025.0,2001.0,23.0
+823,BakeJa00,javon-baker-1,2024,4,110,NWE,Javon Baker,WR,WR,Central Florida,0.0,,0.0,6-1,202.0,4.54,,37.0,121.0,,,BakeJa00,2002-02-18,73.0,202.0,2024.0,2025.0,2002.0,22.0
+824,WalkDe01,devontez-walker-1,2024,4,113,BAL,Devontez Walker,WR,WR,North Carolina,1.0,,1.0,6-2,193.0,4.36,,40.5,134.0,,,WalkDe01,2001-06-19,73.0,198.0,2024.0,2025.0,2001.0,23.0
+825,AllxEr00,erick-all-1,2024,4,115,CIN,Erick All,TE,TE,Iowa,1.0,,1.0,6-4,252.0,,,,,,,AllxEr00,2000-09-13,77.0,255.0,2024.0,2025.0,2000.0,24.0
+826,WrigJa04,jaylen-wright-1,2024,4,120,MIA,Jaylen Wright,RB,RB,Tennessee,4.0,,4.0,5-11,210.0,4.38,,38.0,134.0,,,WrigJa04,2003-04-01,70.0,208.0,2024.0,2025.0,2003.0,21.0
+827,BarnAJ00,aj-barner-1,2024,4,121,SEA,AJ Barner,TE,TE,Michigan,7.0,,7.0,6-6,251.0,,,,,,,BarnAJ00,2002-05-03,78.0,251.0,2024.0,2025.0,2002.0,22.0
+828,StovCa00,cade-stover-1,2024,4,123,HOU,Cade Stover,TE,TE,Ohio St.,2.0,,2.0,6-4,247.0,4.65,,34.5,117.0,,4.45,StovCa00,2000-06-12,76.0,251.0,2024.0,2025.0,2000.0,24.0
+829,IrviBu00,markeise-irving-1,2024,4,125,TAM,Bucky Irving,RB,RB,Oregon,18.0,,18.0,5-9,192.0,4.55,,29.5,115.0,,,IrviBu00,2002-08-19,70.0,194.0,2024.0,2025.0,2002.0,22.0
+830,ShipWi00,will-shipley-1,2024,4,127,PHI,Will Shipley,RB,RB,Clemson,2.0,,2.0,5-11,206.0,,,,,,,ShipWi00,2002-08-29,71.0,210.0,2024.0,2025.0,2002.0,22.0
+831,DaviRa04,remahn-davis-1,2024,4,128,BUF,Ray Davis,RB,RB,Kentucky,10.0,,10.0,,,,,,,,,DaviRa04,1999-11-20,68.0,220.0,2024.0,2025.0,1999.0,25.0
+832,GuerIs00,isaac-guerendo-1,2024,4,129,SFO,Isaac Guerendo,RB,RB,Louisville,4.0,,4.0,6-0,221.0,4.33,,41.5,129.0,6.94,4.15,GuerIs00,2000-06-28,72.0,221.0,2024.0,2025.0,2000.0,24.0
+833,WileJa00,jared-wiley-1,2024,4,131,KAN,Jared Wiley,TE,TE,TCU,0.0,,0.0,6-6,249.0,4.62,,37.0,118.0,7.19,,WileJa00,2000-11-02,78.0,249.0,2024.0,2025.0,2000.0,24.0
+834,AlleBr05,braelon-allen-1,2024,4,134,NYJ,Braelon Allen,RB,RB,Wisconsin,4.0,,4.0,6-1,235.0,,26.0,32.0,117.0,,,AlleBr05,2004-01-20,73.0,235.0,2024.0,2025.0,2004.0,20.0
+835,CowiJa00,jacob-cowing-1,2024,4,135,SFO,Jacob Cowing,WR,WR,Arizona,1.0,,1.0,5-8,168.0,4.38,,36.0,119.0,7.02,4.32,CowiJa00,2001-02-04,69.0,170.0,2024.0,2025.0,2001.0,23.0
+836,GoulAn00,anthony-gould-1,2024,5,142,IND,Anthony Gould,WR,WR,Oregon St.,0.0,,0.0,5-8,174.0,4.39,,39.5,129.0,,4.16,GoulAn00,2001-04-06,68.0,174.0,2024.0,2025.0,2001.0,23.0
+837,EstiAu00,audric-estime-1,2024,5,147,DEN,Audric Estime,RB,RB,Notre Dame,4.0,,2.0,,,,,,,,,EstiAu00,2003-09-06,71.0,227.0,2024.0,2025.0,2003.0,21.0
+838,RattSp00,spencer-rattler-1,2024,5,150,NOR,Spencer Rattler,QB,QB,South Carolina,6.0,,6.0,6-0,211.0,4.95,,32.0,108.0,7.21,4.37,RattSp00,2000-09-28,72.0,211.0,2024.0,2025.0,2000.0,24.0
+839,SmitAi00,ainias-smith-1,2024,5,152,PHI,Ainias Smith,WR,WR,Texas A&M,1.0,,1.0,5-9,190.0,,21.0,,,,,SmitAi00,2001-05-31,69.0,176.0,2024.0,2025.0,2001.0,23.0
+840,ThraJa01,jamari-thrash-1,2024,5,156,CLE,Jamari Thrash,WR,WR,Louisville,1.0,,1.0,6-0,188.0,4.46,,34.0,120.0,7.16,,ThraJa01,2000-12-19,72.0,190.0,2024.0,2025.0,2000.0,24.0
+841,AlixRa00,rasheen-ali-1,2024,5,165,BAL,Rasheen Ali,RB,RB,Marshall,1.0,,1.0,5-11,206.0,,,,,,,AlixRa00,2001-02-16,71.0,210.0,2024.0,2025.0,2001.0,23.0
+842,TracTy00,tyrone-tracy-jr-1,2024,5,166,NYG,Tyrone Tracy Jr.,RB,RB,Purdue,14.0,,14.0,5-11,209.0,4.48,,40.0,124.0,6.81,4.06,TracTy00,1999-11-23,71.0,210.0,2024.0,2025.0,1999.0,25.0
+843,RobiKe03,keilan-robinson-1,2024,5,167,JAX,Keilan Robinson,RB,RB,Texas,0.0,,0.0,5-8,191.0,4.42,,33.0,125.0,,,RobiKe03,2000-02-16,68.0,191.0,2024.0,2025.0,2000.0,24.0
+844,MeanBu00,bub-means-1,2024,5,170,NOR,Bub Means,WR,WR,Pittsburgh,1.0,,1.0,6-1,212.0,4.43,19.0,39.5,122.0,,,MeanBu00,2001-01-10,74.0,215.0,2024.0,2025.0,2001.0,23.0
+845,TravJo00,jordan-travis-1,2024,5,171,NYJ,Jordan Travis,QB,QB,Florida St.,,,,6-1,200.0,,,,,,,TravJo00,2000-05-02,73.0,200.0,2024.0,2024.0,2000.0,24.0
+846,DaviIs00,,2024,5,173,NYJ,Isaiah Davis,RB,RB,South Dakota St.,5.0,,5.0,6-0,218.0,4.57,23.0,34.5,119.0,,,DaviIs00,2002-02-21,73.0,220.0,2024.0,2025.0,2002.0,22.0
+847,VidaKi00,kimani-vidal-1,2024,6,181,LAC,Kimani Vidal,RB,RB,Troy,7.0,,7.0,5-8,213.0,4.46,18.0,37.5,120.0,7.01,4.15,VidaKi00,2001-08-28,68.0,215.0,2024.0,2025.0,2001.0,23.0
+848,JackJh00,jhaquan-jackson-1,2024,6,182,TEN,Jha'Quan Jackson,WR,WR,Tulane,0.0,,0.0,5-9,188.0,4.42,12.0,32.0,118.0,,,JackJh00,2000-05-15,69.0,188.0,2024.0,2025.0,2000.0,24.0
+849,WashMa00,malik-washington-1,2024,6,184,MIA,Malik Washington,WR,WR,Virginia,7.0,,7.0,5-9,191.0,4.47,19.0,42.5,126.0,,,WashMa00,2000-10-20,68.0,195.0,2024.0,2025.0,2000.0,24.0
+850,WilsJo03,johnny-wilson-3,2024,6,185,PHI,Johnny Wilson,WR,WR,Florida St.,0.0,,0.0,6-6,231.0,4.52,,37.0,128.0,,4.11,WilsJo03,2001-04-03,78.0,228.0,2024.0,2025.0,2001.0,23.0
+851,McClJa05,jase-mcclellan-1,2024,6,186,ATL,Jase McClellan,RB,RB,Alabama,0.0,,0.0,5-10,221.0,,20.0,,,,,McClJa05,2002-06-25,71.0,212.0,2024.0,2024.0,2002.0,22.0
+852,WashCa01,casey-washington-1,2024,6,187,ATL,Casey Washington,WR,WR,Illinois,1.0,,1.0,,,,,,,,,WashCa01,2001-03-06,72.0,205.0,2024.0,2025.0,2001.0,23.0
+853,PalmTe00,tejhaun-palmer-1,2024,6,191,ARI,Tejhaun Palmer,WR,WR,Ala-Birmingham,0.0,,0.0,,,,,,,,,PalmTe00,2000-05-19,74.0,210.0,2024.0,2025.0,2000.0,24.0
+854,MiltJo00,joe-milton-2,2024,6,193,NWE,Joe Milton,QB,QB,Tennessee,2.0,,1.0,6-5,235.0,,,35.0,121.0,,,MiltJo00,2000-03-06,77.0,246.0,2024.0,2025.0,2000.0,24.0
+855,McLaTa00,tanner-mclachlan-2,2024,6,194,CIN,Tanner McLachlan,TE,TE,Arizona,0.0,,0.0,6-5,244.0,4.61,,35.0,117.0,,,McLaTa00,1999-03-15,77.0,245.0,2024.0,2025.0,1999.0,25.0
+856,JordJa00,jawhar-jordan-1,2024,6,205,HOU,Jawhar Jordan,RB,RB,Louisville,1.0,,1.0,5-10,193.0,4.56,,,,,,JordJa00,1999-08-18,70.0,186.0,2024.0,2025.0,1999.0,25.0
+857,LaubDy00,,2024,6,208,LVR,Dylan Laube,RB,RB,New Hampshire,0.0,,0.0,5-10,206.0,4.54,23.0,37.0,118.0,6.84,4.02,LaubDy00,1999-12-14,69.0,204.0,2024.0,2025.0,1999.0,25.0
+858,WhitJo04,jordan-whittington-2,2024,6,213,LAR,Jordan Whittington,WR,WR,Texas,5.0,,5.0,6-1,205.0,,18.0,,,,,WhitJo04,2000-10-01,73.0,202.0,2024.0,2025.0,2000.0,24.0
+859,FlouRy00,,2024,6,216,DAL,Ryan Flournoy,WR,WR,SE Missouri St.,5.0,,5.0,6-1,202.0,4.44,19.0,39.5,132.0,,,FlouRy00,1999-10-27,73.0,205.0,2024.0,2025.0,1999.0,25.0
+860,LearDe00,devin-leary-1,2024,6,218,BAL,Devin Leary,QB,QB,Kentucky,,,,6-1,215.0,,,,,,,LearDe00,1999-09-10,73.0,215.0,2024.0,2024.0,1999.0,25.0
+861,RiceBr00,brenden-rice-1,2024,7,225,LAC,Brenden Rice,WR,WR,USC,0.0,,0.0,6-2,208.0,4.5,13.0,36.5,119.0,,,RiceBr00,2002-03-18,75.0,210.0,2024.0,2025.0,2002.0,22.0
+862,BellJa00,jaheim-bell-1,2024,7,231,NWE,Jaheim Bell,TE,TE,Florida St.,0.0,,0.0,6-2,241.0,4.61,,35.0,124.0,,,BellJa00,2001-06-14,74.0,241.0,2024.0,2025.0,2001.0,23.0
+863,VeleDe00,devaughn-vele-1,2024,7,235,DEN,Devaughn Vele,WR,WR,Utah,6.0,,4.0,6-4,203.0,4.47,,36.0,126.0,,,VeleDe00,1997-12-12,77.0,210.0,2024.0,2025.0,1997.0,27.0
+864,WashTa00,tahj-washington-1,2024,7,241,MIA,Tahj Washington,WR,WR,USC,0.0,,0.0,5-10,174.0,,,35.0,122.0,,,WashTa00,2001-05-16,70.0,175.0,2024.0,2025.0,2001.0,23.0
+865,PratMi00,michael-pratt-1,2024,7,245,GNB,Michael Pratt,QB,QB,Tulane,,,,6-3,217.0,,,36.0,114.0,7.2,4.23,PratMi00,2001-09-30,75.0,220.0,2024.0,2024.0,2001.0,23.0
+866,CulpDe00,devin-culp-1,2024,7,246,TAM,Devin Culp,TE,TE,Washington,1.0,,1.0,6-3,231.0,4.47,,,,,,CulpDe00,2000-02-02,76.0,237.0,2024.0,2025.0,2000.0,24.0
+867,JohnCo02,cornelius-johnson-1,2024,7,253,LAC,Cornelius Johnson,WR,WR,Michigan,,,,6-3,212.0,4.44,,37.5,127.0,,,JohnCo02,2000-11-29,75.0,212.0,2024.0,2025.0,2000.0,24.0
+868,WardCa00,cameron-ward-1,2025,1,1,TEN,Cam Ward,QB,QB,Miami (FL),7.0,,7.0,,,,,,,,,WardCa00,2002-05-25,74.0,219.0,2025.0,2025.0,2002.0,23.0
+869,HuntTr00,travis-hunter-2,2025,1,2,JAX,Travis Hunter,WR,WR,Colorado,5.0,,5.0,,,,,,,,,HuntTr00,2003-05-18,73.0,185.0,2025.0,2025.0,2003.0,22.0
+870,JeanAs00,ashton-jeanty-1,2025,1,6,LVR,Ashton Jeanty,RB,RB,Boise St.,7.0,,7.0,5-9,211.0,,,,,,,JeanAs00,2003-12-02,68.0,208.0,2025.0,2025.0,2003.0,22.0
+871,McMiTe00,tetairoa-mcmillan-1,2025,1,8,CAR,Tetairoa McMillan,WR,WR,Arizona,9.0,,9.0,6-4,219.0,,,,,,,McMiTe00,2003-04-05,77.0,212.0,2025.0,2025.0,2003.0,22.0
+872,LoveCo00,colston-loveland-1,2025,1,10,CHI,Colston Loveland,TE,TE,Michigan,7.0,,7.0,6-6,248.0,,,,,,,LoveCo00,2004-04-09,78.0,241.0,2025.0,2025.0,2004.0,21.0
+873,WarrTy00,tyler-warren-1,2025,1,14,IND,Tyler Warren,TE,TE,Penn St.,9.0,,9.0,6-6,256.0,,,,,,,WarrTy00,2002-05-24,78.0,256.0,2025.0,2025.0,2002.0,23.0
+874,EgbuEm01,emeka-egbuka-1,2025,1,19,TAM,Emeka Egbuka,WR,WR,Ohio St.,9.0,,9.0,6-1,202.0,,,,,,,EgbuEm01,2002-10-14,73.0,205.0,2025.0,2025.0,2002.0,23.0
+875,HampOm00,omarion-hampton-1,2025,1,22,LAC,Omarion Hampton,RB,RB,North Carolina,5.0,,5.0,6-0,221.0,4.46,18.0,38.0,130.0,,4.4,HampOm00,2003-03-16,72.0,220.0,2025.0,2025.0,2003.0,22.0
+876,GoldMa02,matthew-golden-1,2025,1,23,GNB,Matthew Golden,WR,WR,Texas,4.0,,4.0,5-11,191.0,4.29,,,,,,GoldMa02,2003-08-01,71.0,191.0,2025.0,2025.0,2003.0,22.0
+877,DartJa00,jaxson-dart-1,2025,1,25,NYG,Jaxson Dart,QB,QB,Mississippi,11.0,,11.0,6-2,223.0,,,,,,,DartJa00,2003-05-13,74.0,223.0,2025.0,2025.0,2003.0,22.0
+878,HiggJa00,jayden-higgins-1,2025,2,34,HOU,Jayden Higgins,WR,WR,Iowa St.,4.0,,4.0,6-4,214.0,4.47,,39.0,128.0,,,HiggJa00,2002-12-15,76.0,215.0,2025.0,2025.0,2002.0,23.0
+879,JudkQu00,quinshon-judkins-1,2025,2,36,CLE,Quinshon Judkins,RB,RB,Ohio St.,4.0,,4.0,6-0,221.0,4.48,,38.5,132.0,,,JudkQu00,2003-10-29,72.0,219.0,2025.0,2025.0,2003.0,22.0
+880,HendTr02,treveyon-henderson-1,2025,2,38,NWE,TreVeyon Henderson,RB,RB,Ohio St.,8.0,,8.0,5-10,202.0,4.43,,38.5,128.0,,,HendTr02,2002-10-22,70.0,202.0,2025.0,2025.0,2002.0,23.0
+881,BurdLu00,luther-burden-1,2025,2,39,CHI,Luther Burden,WR,WR,Missouri,6.0,,6.0,,,,,,,,,BurdLu00,2003-12-12,72.0,210.0,2025.0,2025.0,2003.0,22.0
+882,ShouTy00,tyler-shough-1,2025,2,40,NOR,Tyler Shough,QB,QB,Louisville,7.0,,7.0,6-5,219.0,4.63,,32.0,117.0,,,ShouTy00,1999-09-28,77.0,219.0,2025.0,2025.0,1999.0,26.0
+883,TaylMa02,mason-taylor-1,2025,2,42,NYJ,Mason Taylor,TE,TE,LSU,3.0,,3.0,6-5,251.0,,,,,,,TaylMa02,2004-05-08,77.0,251.0,2025.0,2025.0,2004.0,21.0
+884,FergTe00,terrance-ferguson-1,2025,2,46,LAR,Terrance Ferguson,TE,TE,Oregon,2.0,,2.0,6-5,247.0,4.63,,39.0,122.0,,,FergTe00,2003-03-07,77.0,255.0,2025.0,2025.0,2003.0,22.0
+885,ArroEl00,elijah-arroyo-1,2025,2,50,SEA,Elijah Arroyo,TE,TE,Miami (FL),2.0,,2.0,6-5,250.0,,22.0,,,,,ArroEl00,2003-04-05,77.0,254.0,2025.0,2025.0,2003.0,22.0
+886,HarrTr03,tre-harris-1,2025,2,55,LAC,Tre Harris,WR,WR,Mississippi,3.0,,3.0,,,,,,,,,HarrTr03,2002-02-28,75.0,210.0,2025.0,2025.0,2002.0,23.0
+887,BechJa00,jack-bech-1,2025,2,58,LVR,Jack Bech,WR,WR,TCU,2.0,,2.0,6-1,214.0,,19.0,34.5,125.0,6.84,4.21,BechJa00,2002-12-18,73.0,214.0,2025.0,2025.0,2002.0,23.0
+888,HarvRJ00,rj-harvey-1,2025,2,60,DEN,RJ Harvey,RB,RB,Central Florida,6.0,,6.0,,,,,,,,,HarvRJ00,2001-02-04,69.0,205.0,2025.0,2025.0,2001.0,24.0
+889,FannHa00,harold-fannin-jr-1,2025,3,67,CLE,Harold Fannin,TE,TE,Bowling Green,5.0,,5.0,,,,,,,,,FannHa00,2004-07-20,76.0,241.0,2025.0,2025.0,2004.0,21.0
+890,WillKy03,kyle-williams-11,2025,3,69,NWE,Kyle Williams,WR,WR,Washington St.,2.0,,2.0,5-11,190.0,4.4,,36.5,119.0,,,WillKy03,2002-11-13,71.0,190.0,2025.0,2025.0,2002.0,23.0
+891,TeSlIs00,isaac-teslaa-1,2025,3,70,DET,Isaac TeSlaa,WR,WR,Arkansas,2.0,,2.0,6-4,214.0,4.43,17.0,39.5,129.0,6.85,4.05,TeSlIs00,2002-02-20,76.0,214.0,2025.0,2025.0,2002.0,23.0
+892,BryaPa00,pat-bryant-1,2025,3,74,DEN,Pat Bryant,WR,WR,Illinois,3.0,,3.0,6-2,204.0,4.61,,37.5,124.0,,,BryaPa00,2002-12-10,75.0,200.0,2025.0,2025.0,2002.0,23.0
+893,NoelJa00,jaylin-noel-1,2025,3,79,HOU,Jaylin Noel,WR,WR,Iowa St.,2.0,,2.0,5-10,194.0,4.39,23.0,41.5,134.0,6.82,4.17,NoelJa00,2002-09-04,71.0,200.0,2025.0,2025.0,2002.0,23.0
+894,JohnKa03,kaleb-johnson-2,2025,3,83,PIT,Kaleb Johnson,RB,RB,Iowa,1.0,,1.0,6-1,224.0,4.57,,,,,,JohnKa03,2003-08-14,72.0,225.0,2025.0,2025.0,2003.0,22.0
+895,WillSa01,savion-williams-2,2025,3,87,GNB,Savion Williams,WR,WR,TCU,1.0,,1.0,6-4,222.0,4.48,,,,,,WillSa01,2001-11-22,76.0,222.0,2025.0,2025.0,2001.0,24.0
+896,MilrJa00,jalen-milroe-1,2025,3,92,SEA,Jalen Milroe,QB,QB,Alabama,0.0,,0.0,6-2,217.0,,,,,,,MilrJa00,2002-12-13,74.0,216.0,2025.0,2025.0,2002.0,23.0
+897,GabrDi00,dillon-gabriel-1,2025,3,94,CLE,Dillon Gabriel,QB,QB,Oregon,0.0,,0.0,5-11,205.0,,,,,,,GabrDi00,2000-12-28,71.0,205.0,2025.0,2025.0,2000.0,25.0
+898,FeltTa00,tai-felton-1,2025,3,102,MIN,Tai Felton,WR,WR,Maryland,0.0,,0.0,6-1,183.0,4.37,,39.5,130.0,,,FeltTa00,2003-03-15,73.0,186.0,2025.0,2025.0,2003.0,22.0
+899,DikeCh00,chimere-dike-1,2025,4,103,TEN,Chimere Dike,WR,WR,Florida,5.0,,5.0,6-1,196.0,4.34,,38.5,128.0,6.82,4.27,DikeCh00,2001-12-14,73.0,196.0,2025.0,2025.0,2001.0,24.0
+900,TuteBh00,bhayshul-tuten-1,2025,4,104,JAX,Bhayshul Tuten,RB,RB,Virginia Tech,3.0,,3.0,5-9,206.0,4.32,,40.5,130.0,,4.41,TuteBh00,2002-02-14,69.0,209.0,2025.0,2025.0,2002.0,23.0
+901,SkatCa00,cameron-skattebo-1,2025,4,105,NYG,Cam Skattebo,RB,RB,Arizona St.,5.0,,5.0,5-10,219.0,,,39.5,123.0,,,SkatCa00,2002-02-05,71.0,215.0,2025.0,2025.0,2002.0,23.0
+902,ThorDo00,donte-thornton-1,2025,4,108,LVR,Dont'e Thornton,WR,WR,Tennessee,1.0,,1.0,,,,,,,,,ThorDo00,2002-11-30,77.0,205.0,2025.0,2025.0,2002.0,23.0
+903,SmitAr01,arian-smith-1,2025,4,110,NYJ,Arian Smith,WR,WR,Georgia,1.0,,1.0,6-0,179.0,4.36,,38.0,127.0,6.82,4.19,SmitAr01,2001-10-11,72.0,179.0,2025.0,2025.0,2001.0,24.0
+904,EtieTr01,trevor-etienne-1,2025,4,114,CAR,Trevor Etienne,RB,RB,Georgia,1.0,,1.0,5-9,198.0,4.42,15.0,35.0,124.0,,,EtieTr01,2004-07-09,68.0,198.0,2025.0,2025.0,2004.0,21.0
+905,MarkWo00,joquavious-marks-1,2025,4,116,HOU,Woody Marks,RB,RB,USC,6.0,,6.0,5-10,207.0,4.54,18.0,35.0,119.0,,4.24,MarkWo00,2000-12-29,70.0,208.0,2025.0,2025.0,2000.0,25.0
+906,HuntJa03,jarquez-hunter-1,2025,4,117,LAR,Jarquez Hunter,RB,RB,Auburn,0.0,,0.0,5-9,204.0,4.44,21.0,33.5,120.0,,,HuntJa03,2002-12-29,70.0,209.0,2025.0,2025.0,2002.0,23.0
+907,HelmGu00,gunnar-helm-1,2025,4,120,TEN,Gunnar Helm,TE,TE,Texas,3.0,,3.0,6-5,241.0,4.84,,30.0,,7.15,4.4,HelmGu00,2002-09-06,77.0,241.0,2025.0,2025.0,2002.0,23.0
+908,SampDy00,dylan-sampson-1,2025,4,126,CLE,Dylan Sampson,RB,RB,Tennessee,3.0,,3.0,5-8,200.0,,13.0,35.0,124.0,,,SampDy00,2004-09-14,68.0,201.0,2025.0,2025.0,2004.0,21.0
+909,LaneJa00,jaylin-lane-1,2025,4,128,WAS,Jaylin Lane,WR,WR,Virginia Tech,4.0,,4.0,,,,,,,,,LaneJa00,2002-05-01,70.0,196.0,2025.0,2025.0,2002.0,23.0
+910,RoyaJa00,jalen-royals-1,2025,4,133,KAN,Jalen Royals,WR,WR,Utah St.,0.0,,0.0,6-0,205.0,4.42,13.0,,,,,RoyaJa00,2003-02-18,72.0,195.0,2025.0,2025.0,2003.0,22.0
+911,AyomEl00,elic-ayomanor-1,2025,4,136,TEN,Elic Ayomanor,WR,WR,Stanford,4.0,,4.0,6-2,206.0,4.44,,38.5,127.0,,,AyomEl00,2003-06-03,74.0,206.0,2025.0,2025.0,2003.0,22.0
+912,WatkJo00,jordan-watkins-2,2025,4,138,SFO,Jordan Watkins,WR,WR,Mississippi,0.0,,0.0,5-11,196.0,4.37,,36.5,119.0,,,WatkJo00,2002-02-15,71.0,196.0,2025.0,2025.0,2002.0,23.0
+913,SandSh00,shedeur-sanders-1,2025,5,144,CLE,Shedeur Sanders,QB,QB,Colorado,2.0,,2.0,6-2,212.0,,,,,,,SandSh00,2002-02-07,74.0,212.0,2025.0,2025.0,2002.0,23.0
+914,JameJo01,jordan-james-3,2025,5,147,SFO,Jordan James,RB,RB,Oregon,0.0,,0.0,5-10,205.0,4.55,,,117.0,,,JameJo01,2004-03-29,69.0,208.0,2025.0,2025.0,2004.0,21.0
+915,BlueJa01,jaydon-blue-1,2025,5,149,DAL,Jaydon Blue,RB,RB,Texas,1.0,,1.0,5-9,196.0,4.38,,,,,,BlueJa01,2004-01-08,69.0,198.0,2025.0,2025.0,2004.0,21.0
+916,GiddDJ00,dj-giddens-1,2025,5,151,IND,DJ Giddens,RB,RB,Kansas St.,1.0,,1.0,6-0,212.0,4.43,,39.5,130.0,,4.33,GiddDJ00,2003-08-26,73.0,212.0,2025.0,2025.0,2003.0,22.0
+917,LambKe01,keandre-lambert-smith-1,2025,5,158,LAC,KeAndre Lambert-Smith,WR,WR,Auburn,0.0,,0.0,6-1,190.0,4.37,,34.5,124.0,,,LambKe01,2001-10-16,73.0,182.0,2025.0,2025.0,2001.0,24.0
+918,EvanMi01,mitchell-evans-2,2025,5,163,CAR,Mitchell Evans,TE,TE,Notre Dame,2.0,,2.0,6-5,258.0,4.74,,31.0,115.0,7.25,4.4,EvanMi01,2003-03-18,77.0,258.0,2025.0,2025.0,2003.0,22.0
+919,GadsOr01,oronde-gadsden-ii-1,2025,5,165,LAC,Oronde Gadsden II,TE,TE,Syracuse,6.0,,6.0,6-5,243.0,,,34.0,114.0,,,GadsOr01,2003-06-25,77.0,236.0,2025.0,2025.0,2003.0,22.0
+920,HortTo00,tory-horton-1,2025,5,166,SEA,Tory Horton,WR,WR,Colorado St.,2.0,,2.0,6-3,196.0,4.41,,37.5,,,,HortTo00,2002-11-29,74.0,196.0,2025.0,2025.0,2002.0,23.0
+921,HaweJa00,jackson-hawes-1,2025,5,173,BUF,Jackson Hawes,TE,TE,Georgia Tech,2.0,,2.0,6-5,253.0,4.82,16.0,34.5,121.0,,4.4,HaweJa00,2000-12-06,76.0,253.0,2025.0,2025.0,2000.0,25.0
+922,OuztRo00,robbie-ouzts-1,2025,5,175,SEA,Robbie Ouzts,TE,TE,Alabama,0.0,,0.0,6-3,274.0,4.91,26.0,34.0,119.0,7.34,4.45,OuztRo00,2002-09-06,75.0,274.0,2025.0,2025.0,2002.0,23.0
+923,GordOl00,ollie-gordon-1,2025,6,179,MIA,Ollie Gordon,RB,RB,Oklahoma St.,2.0,,2.0,,,,,,,,,GordOl00,2004-01-15,74.0,225.0,2025.0,2025.0,2004.0,21.0
+924,McCoKy00,kyle-mccord-1,2025,6,181,PHI,Kyle McCord,QB,QB,Syracuse,,,,6-3,218.0,,,,,,,McCoKy00,2002-09-19,75.0,218.0,2025.0,2025.0,2002.0,23.0
+925,NealDe00,devin-neal-3,2025,6,184,NOR,Devin Neal,RB,RB,Kansas,2.0,,2.0,5-11,213.0,4.58,,37.5,124.0,,,NealDe00,2003-08-12,71.0,213.0,2025.0,2025.0,2003.0,22.0
+926,HowaWi01,will-howard-2,2025,6,185,PIT,Will Howard,QB,QB,Ohio St.,,,,6-4,236.0,,,31.5,112.0,7.13,4.33,HowaWi01,2001-09-24,76.0,235.0,2025.0,2025.0,2001.0,24.0
+927,MullKa00,kalel-mullings-1,2025,6,188,TEN,Kalel Mullings,RB,RB,Michigan,0.0,,0.0,6-2,226.0,,,,,,,MullKa00,2002-10-04,74.0,226.0,2025.0,2025.0,2002.0,23.0
+928,LeonRi02,riley-leonard-1,2025,6,189,IND,Riley Leonard,QB,QB,Notre Dame,2.0,,2.0,6-4,216.0,,,,,,,LeonRi02,2002-09-13,76.0,213.0,2025.0,2025.0,2002.0,23.0
+929,BrooTa00,tahj-brooks-1,2025,6,193,CIN,Tahj Brooks,RB,RB,Texas Tech,0.0,,0.0,5-9,214.0,4.52,16.0,35.0,120.0,6.9,4.06,BrooTa00,2002-05-13,69.0,220.0,2025.0,2025.0,2002.0,23.0
+930,MertGr00,graham-mertz-1,2025,6,197,HOU,Graham Mertz,QB,QB,Florida,,,,6-3,212.0,,,,,,,MertGr00,2000-12-06,74.0,216.0,2025.0,2025.0,2000.0,25.0
+931,BartGa00,gavin-bartholomew-1,2025,6,202,MIN,Gavin Bartholomew,TE,TE,Pittsburgh,,,,6-5,246.0,4.7,,,,,,BartGa00,2003-04-30,77.0,246.0,2025.0,2025.0,2003.0,22.0
+932,WestLa01,lajohntay-wester-1,2025,6,203,BAL,LaJohntay Wester,WR,WR,Colorado,0.0,,0.0,5-10,163.0,4.46,,32.0,121.0,,,WestLa01,2002-03-29,69.0,170.0,2025.0,2025.0,2002.0,23.0
+933,HornJi00,jimmy-horn-jr-1,2025,6,208,CAR,Jimmy Horn,WR,WR,Colorado,1.0,,1.0,,,,,,,,,HornJi00,2002-09-12,68.0,174.0,2025.0,2025.0,2002.0,23.0
+934,MellTo00,,2025,6,213,LVR,Tommy Mellott,QB,QB,Montana St.,,,,,,,,,,,,MellTo00,2001-10-16,72.0,208.0,2025.0,2025.0,2001.0,24.0
+935,MillCa00,,2025,6,215,LVR,Cam Miller,QB,QB,North Dakota St.,,,,,,,,,,,,MillCa00,2001-06-18,72.0,211.0,2025.0,2025.0,2001.0,24.0
+936,FidoTh00,thomas-fidone-iii-1,2025,7,219,NYG,Thomas Fidone,TE,TE,Nebraska,0.0,,0.0,,,,,,,,,FidoTh00,2002-09-20,78.0,255.0,2025.0,2025.0,2002.0,23.0
+937,MartDa02,damien-martinez-1,2025,7,223,SEA,Damien Martinez,RB,RB,Miami (FL),,,,6-0,217.0,4.51,,35.0,124.0,,,MartDa02,2004-01-31,72.0,237.0,2025.0,2025.0,2004.0,21.0
+938,RourKu01,kurtis-rourke-1,2025,7,227,SFO,Kurtis Rourke,QB,QB,Indiana,,,,6-4,220.0,,,,,,,RourKu01,2000-10-25,76.0,221.0,2025.0,2025.0,2000.0,25.0
+939,SmitBr09,brashard-smith-1,2025,7,228,KAN,Brashard Smith,RB,RB,SMU,3.0,,3.0,5-10,194.0,4.39,,32.5,117.0,,,SmitBr09,2003-04-11,70.0,196.0,2025.0,2025.0,2003.0,22.0
+940,EwerQu00,quinn-ewers-1,2025,7,231,MIA,Quinn Ewers,QB,QB,Texas,2.0,,2.0,6-2,214.0,,,,,,,EwerQu00,2003-03-15,74.0,209.0,2025.0,2025.0,2003.0,22.0
+941,MonaKy00,kyle-monangai-1,2025,7,233,CHI,Kyle Monangai,RB,RB,Rutgers,6.0,,6.0,5-8,211.0,4.6,,34.5,117.0,,,MonaKy00,2002-06-06,68.0,207.0,2025.0,2025.0,2002.0,23.0
+942,JohnTe03,tez-johnson-1,2025,7,235,TAM,Tez Johnson,WR,WR,Oregon,3.0,,3.0,5-10,154.0,4.51,,37.0,131.0,6.65,4.15,JohnTe03,2002-05-18,70.0,165.0,2025.0,2025.0,2002.0,23.0
+943,AlleLe01,lequint-allen-1,2025,7,236,JAX,LeQuint Allen,RB,RB,Syracuse,1.0,,1.0,6-0,204.0,,,35.0,120.0,,,AlleLe01,2004-08-05,72.0,201.0,2025.0,2025.0,2004.0,21.0
+944,WhitRi01,ricky-white-2,2025,7,238,SEA,Ricky White,WR,WR,UNLV,0.0,,0.0,,,,,,,,,WhitRi01,2002-02-06,73.0,181.0,2025.0,2025.0,2002.0,23.0
+945,MafaPh00,phil-mafah-1,2025,7,239,DAL,Phil Mafah,RB,RB,Clemson,0.0,,0.0,6-1,234.0,,,,,,,MafaPh00,2002-10-24,73.0,232.0,2025.0,2025.0,2002.0,23.0
+946,PratKa00,kaden-prather-1,2025,7,240,BUF,Kaden Prather,WR,WR,Maryland,,,,6-4,204.0,4.46,,30.0,114.0,,,,,,,,,,
+947,LohnCa00,caleb-lohner-1,2025,7,241,DEN,Caleb Lohner,TE,TE,Utah,,,,,,,,,,,,LohnCa00,2001-10-01,79.0,250.0,2025.0,2025.0,2001.0,24.0
+948,MumpKo00,konata-mumpfield-1,2025,7,242,LAR,Konata Mumpfield,WR,WR,Pittsburgh,1.0,,1.0,5-11,186.0,4.59,,36.0,124.0,,,MumpKo00,2002-10-24,73.0,185.0,2025.0,2025.0,2002.0,23.0
+949,LoveDo00,dominic-lovett-1,2025,7,244,DET,Dominic Lovett,WR,WR,Georgia,0.0,,0.0,5-10,185.0,4.4,,33.5,120.0,,4.27,LoveDo00,2002-11-08,70.0,185.0,2025.0,2025.0,2002.0,23.0
+950,CrosJa00,jacory-croskey-merritt-1,2025,7,245,WAS,Jacory Croskey-Merritt,RB,RB,Arizona,6.0,,6.0,,,,,,,,,CrosJa00,2001-04-12,71.0,208.0,2025.0,2025.0,2001.0,24.0
+951,MataMo00,moliki-matavao-1,2025,7,248,NOR,Moliki Matavao,TE,TE,UCLA,0.0,,0.0,6-6,260.0,4.81,,32.5,114.0,,,MataMo00,2003-03-17,80.0,263.0,2025.0,2025.0,2003.0,22.0
+952,BergJu00,,2025,7,252,SFO,Junior Bergen,WR,WR,Montana,,,,,,,,,,,,BergJu00,2002-10-23,69.0,184.0,2025.0,2025.0,2002.0,23.0
+953,LachLu00,luke-lachey-1,2025,7,255,HOU,Luke Lachey,TE,TE,Iowa,,,,6-6,251.0,,,35.0,120.0,7.18,4.47,LachLu00,2001-06-29,78.0,247.0,2025.0,2025.0,2001.0,24.0
