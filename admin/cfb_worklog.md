@@ -1,1 +1,30 @@
+## 2026-02-02 - Proposal Completion (Team)
 
+**Context**: Have proposal done to get feedback from Professor Introne. 
+
+**Work Completed**:
+- (Hunter) Wrote Introduction section.
+- (Nathan) Wrote Literature Review section.
+- (Brett) Wrote Data and Methods section.
+- (Dylan) Wrote Project Plan section.
+- (Chris) Wrote Risks section
+
+**Impact**: Sets early framework to complete project.
+
+**Next Steps**: Begin analysis.
+
+---
+
+## 2026-02-01 - Project Kickoff (Team)
+
+**Context**: First team meeting to talk about the project.
+
+**Work Completed**:
+- (Team) Discussed idea of predicting NFL career success of skill position players.
+- (Team) Designated roles for who should work on which part of the proposal
+
+**Impact**: Set ideas into motion. 
+
+**Next Steps**: Complete proposal. Get early idea of data.
+
+---
