@@ -1,3 +1,17 @@
+## 2026-02-08 - Data Collected (Team)
+
+**Context: Collect Data from the CollegeFootballData & nflreadpy api to get all the information we need to conduct our analysis.**
+
+
+**Work Completed:**
+
+- Wrote scripts to scrape websites using python packages to collect necessary college & nfl data for our analysis. (Team)
+
+**Impact:** Initial data is collected which will allow us to officially begin to explore the data.
+
+**Next Steps:** Continue to work on final joins and begin exploratory analysis.
+
+
 ## 2026-02-02 - Proposal Completion (Team)
 
 **Context**: Have proposal done to get feedback from Professor Introne. 
