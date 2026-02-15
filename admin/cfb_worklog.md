@@ -6,6 +6,7 @@
 **Work Completed:**
 
 - Wrote scripts to scrape websites using python packages to collect necessary college & nfl data for our analysis. (Team)
+- Created cfb_worklog.md and cfb_workplan.md files (Hunter)
 
 **Impact:** Initial data is collected which will allow us to officially begin to explore the data.
 
