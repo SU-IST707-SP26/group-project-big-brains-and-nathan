@@ -1,3 +1,17 @@
+## 2026-02-08 - Data Merging (Dylan)
+
+**Context: Merged multiple data sets from the CollegeFootballData & nflreadpy api to have one master data set**
+
+
+**Work Completed:**
+
+- Wrote scripts to merge data using python packages to collect necessary college & nfl data for our analysis. (Dylan)
+
+**Impact:** Data is now all together, allowing us to begin data exploration.
+
+**Next Steps:** Begin exploratory analysis.
+
+
 ## 2026-02-08 - Data Collected (Team)
 
 **Context: Collect Data from the CollegeFootballData & nflreadpy api to get all the information we need to conduct our analysis.**
