@@ -35,8 +35,9 @@ Our aim is to build a regression machine learning model that predicts a player�
 
 | Period | Activity | Milestone |
 |---|---|---|
-| 2/2–2/16 | Collect college football data from collegefootballdata.com <br/> Collect NFL data from profootballreference <br/> Collect combine data (?) <br/> Collect Draft data (?) | Get all data collection done. |
-| 2/16–3/2 | Preprocessing. Merging and cleaning data. | Have final dataset done by end of period, and start building out models. |
+| 2/2–2/9 | Collect college football data from collegefootballdata.com <br/> Collect NFL data from profootballreference <br/> Collect combine data (?) <br/> Collect Draft data (?) | Get all data collection done. |
+| 2/9–2/16 | Preprocessing. Merging and cleaning data. | Have final dataset done by end of period, and start building out models. |
+| 2/16–3/2 | Exploratory data analysis. | Produce visualizations and summary stats to get an understanding of the data. Build out cluster models to compare players and find similar skill types? |
 | 3/2–3/16 | Start building out both XGBoost model for player score and clustering model for player comparisons. | Have the basic framework for models done and put ourselves into position to be able to start testing models next period. |
 | 3/16–3/30 | Test and improve on models. | Finalize the algorithm and all the parameters for the models. |
 | 3/30–4/13 | Finalize models and predictions, and begin data analysis. | Finish running models, get final predictions, analyze data. |
