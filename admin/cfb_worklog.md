@@ -1,3 +1,16 @@
+## 2026-02-22 - Intro Data Exploration (Hunter)
+
+**Context: Collected summary statistics and made basic plots to get early understanding of data**
+
+
+**Work Completed:**
+
+- Wrote scripts to collect summary statistics. Created barplots, histograms, and scatterplots to get early understanding of distribution of players by position, conference, team, and touchdown tendencies (Hunter)
+
+**Impact:** Have a basic idea of data distribution, may lead to data aggregation
+
+**Next Steps:** Continuing futher data exploration
+
 ## 2026-02-08 - Data Merging (Dylan)
 
 **Context: Merged multiple data sets from the CollegeFootballData & nflreadpy api to have one master data set**
