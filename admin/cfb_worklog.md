@@ -1,3 +1,17 @@
+## 2026-03-01 - Baseline Model (Brett)
+
+**Context: Created initial pipeline and model code for project**
+
+
+**Work Completed:**
+
+- Wrote script that allows us to select X variables and create proper pipeline to run a cross validation model utilizing numerous Machine Learning algorithms such as Catboost, RandomForest, & XGBoost
+
+**Impact:** Gets initial code in so we can focus on variable selection for model input
+
+**Next Steps:** Choose adequate X variables, perform dimensionality reduction, add code for hyperparameter tuning.
+
+
 ## 2026-02-22 - Intro Data Exploration (Hunter)
 
 **Context: Collected summary statistics and made basic plots to get early understanding of data**
