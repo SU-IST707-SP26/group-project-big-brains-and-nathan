@@ -1,3 +1,20 @@
+## 2026-03-05 - Complete Checkpoint Update (Tema)
+
+**Context: Create Checkpoint ipynb for Professor Introne to see our progress**
+
+
+**Work Completed:**
+
+- Showed distribution of data through bar plots and nulls in columns (Hunter)
+- Pre-processed data using PCA (Chris)
+- Modeled data using Ward's Linkage HAC and CATBoost models (Brett and Nathan)
+- Discussed problems and challenges in our work as well as next steps to completing the project
+
+**Impact:** Gives a framework of what has been done and what is needed to be done for the project to be completed
+
+**Next Steps:** Apply Professor Introne's feedback, fine-tune any issues we see with the models
+
+
 ## 2026-03-01 - Baseline Model (Brett)
 
 **Context: Created initial pipeline and model code for project**
