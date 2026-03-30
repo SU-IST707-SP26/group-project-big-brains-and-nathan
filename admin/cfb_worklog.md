@@ -1,4 +1,18 @@
-## 2026-03-05 - Complete Checkpoint Update (Tema)
+## 2026-03-23 - Discuss Further Work to be Done (Team)
+
+**Context: Met to talk about what else is needed to be completed**
+
+
+**Work Completed:**
+
+- Lined up what needs to be done at specific due dates
+
+**Impact:** Nearing completion of project
+
+**Next Steps:** Complete steps outlined in meeting
+
+
+## 2026-03-05 - Complete Checkpoint Update (Team)
 
 **Context: Create Checkpoint ipynb for Professor Introne to see our progress**
 
