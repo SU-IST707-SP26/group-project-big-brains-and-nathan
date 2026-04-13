@@ -1,3 +1,16 @@
+## 2026-04-06 - Test Out New Models & Objective Functions (Brett)
+
+**Context: Wanted to try different models w/ different distributions & objective functions to account for the right-tailed skew that's present with the data. Seems to have worked out fairly well as the model became more aggressive at predicting outliers and was more accurate**
+
+**Work Completed:**
+
+- Tried out an NGBoost model which models the distribution and estimates not only a point estimate but also a prediction distribution, so we can estimate their different percentile outcomes. I also utilized a Tweedie & Gamma distribution on my Catboost & XGBoost models which helped the model predict outliers more confidently.
+
+**Impact:** Provided me with the model architecture I want to continue with as we finalize the model. NGBoost with a LogNormal Distribution (Only loss function NGBoost has builtin) or Catboost/XGBoost with a Tweedie/Gamma Distribution.
+
+**Next Steps:** Perform Hyperparameter tuning on the models and pick the best one. If the best model is Catboost & XGBoost, utilize Instance-Based Uncertainty Estimation (IBUG) to get their entire distribution of possibilities.
+
+
 ## 2026-03-23 - Discuss Further Work to be Done (Team)
 
 **Context: Met to talk about what else is needed to be completed**
