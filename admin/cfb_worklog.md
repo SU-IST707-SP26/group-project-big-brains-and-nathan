@@ -1,4 +1,4 @@
-## 2026-04-06 - Test Out GMM Fit (Nathan)
+## 2026-04-18 - Test Out GMM Fit (Nathan)
 
 **Context: Wanted to attempt cluster analysis using Guassian Mixture Modeling. Because a lot of our data is represented in probabilities, it made sense to attempt this model type to see if it would result in a better fit than the previous clustering attempts.**
 
