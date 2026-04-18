@@ -1,3 +1,16 @@
+## 2026-04-06 - Test Out GMM Fit (Nathan)
+
+**Context: Wanted to attempt cluster analysis using Guassian Mixture Modeling. Because a lot of our data is represented in probabilities, it made sense to attempt this model type to see if it would result in a better fit than the previous clustering attempts.**
+
+**Work Completed:**
+
+- Ran the GMM on the QB position for multiple different clusters.
+
+**Impact:** Results did not yield any significant findings. Cluster evaluation wound up being very similar to previous clustering attempts.
+
+**Next Steps:** Very likely that we will omit clusters from the final model.
+
+
 ## 2026-04-06 - Test Out New Models & Objective Functions (Brett)
 
 **Context: Wanted to try different models w/ different distributions & objective functions to account for the right-tailed skew that's present with the data. Seems to have worked out fairly well as the model became more aggressive at predicting outliers and was more accurate**
