@@ -13,3 +13,9 @@
 - [✅] M2.T3 — Used PCA to narrow down impactful variables (Chris)
 - [✅] M2.T4 - Used second PCA with SimpleImputer (Chris)
 - [✅] M2.T5 - Third PCA completed using KNNImputer (Chris)
+
+### Milestone 3: Modeling Attempts
+- [✅] M3.T1 — Created baseline models using Random Forest, XGBoost, and CATBoost (Brett)
+- [✅] M3.T2 — Modeled using Ward's HAC (Nathan and Brett)
+- [✅] M3.T3 — Tested out using and NGBoost model (Brett)
+- [✅] M3.T4 — Attempted GMM clustering model to cluster quarterbacks (Nathan)
