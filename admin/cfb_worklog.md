@@ -11,6 +11,18 @@
 **Next Steps:** Very likely that we will omit clusters from the final model.
 
 
+## 2026-04-12 - Partial Implementation of Tuning (Christopher)
+
+**Context: Tried some optimization techniques for parameter tuning. Used a couple different options, didn't cleanly implement though. Brett was kind enough to fix some of my errors. **
+
+**Work Completed:**
+
+
+**Impact:** There were some significant impacts and with Brett's help, was able to actualize this type of work into a legitimate contribution to the project. 
+
+**Next Steps:** Work to implement this into the final product smoothly.
+
+
 ## 2026-04-06 - Test Out New Models & Objective Functions (Brett)
 
 **Context: Wanted to try different models w/ different distributions & objective functions to account for the right-tailed skew that's present with the data. Seems to have worked out fairly well as the model became more aggressive at predicting outliers and was more accurate**
