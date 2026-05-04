@@ -80,6 +80,21 @@
 
 **Next Steps:** Apply Professor Introne's feedback, fine-tune any issues we see with the models
 
+## 2026-03-04 - Model Preprocessing (Chris)
+
+
+**Context: Created the preprocessing pipeline and ran PCA**
+
+**Work Completed:**
+
+
+- Wrote script to preprocess the data through normalization and feature selection. Used UMAP and t-SNE primarily.
+
+
+**Impact:** Allows our models to run more smoothly and be more compact, as opposed to throwing every variable in.
+
+
+**Next Steps:** Rerun models on preprocessed and optimized data.
 
 ## 2026-03-01 - Baseline Model (Brett)
 
