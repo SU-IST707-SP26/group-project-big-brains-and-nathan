@@ -24,4 +24,4 @@
 - [✅] M4.T1 — Comprehensive test set evaluation 
 - [✅] M4.T2 — Feature importance analysis 
 - [✅] M4.T3 — Interactive map visualization 
-- [✅] M4.T4 — Final documentation (Team)
+- [✅] M4.T4 — Final presentation and report (Team)
