@@ -55,7 +55,7 @@ To summarize, we processed the data to only include skills positions, then norma
 
 
 ## Supporting Files
-[Cluster model code](../data/cluster_model.ipynb)
+[Cluster model code](../work)
 
 ## Results
 We performed 10 fold cross-validation (CV) hyperparameter tuning on our four base models with 11 component PCA across numerous numeric variables as explained above and 2 categorical variables: position & college conference. Different positions have different responsibilities on the field, so this will change how each PCA component will impact their overall performance in the NFL. For instance, PCA components that highlight passing stats are going to be more important for QBs, while those containing receiving stats are going to pertain more to WR & TE. Including college conferences allows the model to account for competition level, as players in the top conferences (ie the SEC & Big 10), are naturally going up against better players. This allows the model to identify that a player with 1000 receiving yards on a Big 10 team is much more impressive than a player with 1000 receiving yards on an Ivy League team because the opponents a Big 10 team plays is much better. 
