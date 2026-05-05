@@ -1,3 +1,18 @@
+## 2026-05-05 - Finalize Report (Team)
+
+**Context: Wrapped up final report and converted it to Markdown.**
+
+**Work Completed**
+
+- Assigned sections to everyone to complete
+- Everyone completed their sections
+- Converted the report from a google doc to a markdown (Dylan)
+
+**Impact: Completed the project!**
+
+**Next Steps: None!**
+
+
 ## 2026-04-26 - Finalize Presentation (Team)
 
 **Context: Wrapped up analysis and complete presentation for Monday's class**
