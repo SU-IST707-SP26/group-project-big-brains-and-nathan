@@ -104,13 +104,15 @@ Model architecture could also see improvement through the use of a different tra
 Our model can also be further adapted to meet the needs of our stakeholders by incorporating an understanding of offensive schemes. A team’s playbook is only as good as the personnel that are available to run it, so understanding various player archetypes or being able to highlight specific strengths can help with providing more insight into potential schematic fits for players and teams alike. Understanding what a team’s needs are can help weight the value of different draft picks, resulting in an algorithm that can adapt to stakeholder needs. In addressing these changes, we envision our draft projection model as being a vital tool for understanding and capitalizing on the value of an NFL draft pick.
 
 ## Work Assignments
-The data acquisition was largely completed by Hunter and Dylan along with some smaller contributions from the entire team. This consisted of scraping the football data, identifying the variables for prediction, the complicated merge of datasets, and initial exploratory analysis. 
+The data acquisition was largely completed by Brett, Hunter, and Dylan along with some smaller contributions from the entire team. This consisted of scraping the football data, identifying the variables for prediction, the complicated merge of datasets, and initial exploratory analysis. 
 
 The data preparation was completed by Chris and Brett. This consisted of dropping unnecessary columns, scaling data through Standard Scaling, PCA, a Simple Imputer PCA, a KNN Imputed PCA, and a UMAP visualization of the outcomes.
 
 The modeling section was a joint effort by Brett and Nathan with a small contribution from Chris. This created baseline models to compare which were Random Forest, NGBoost, XGBoost, and CatBoost. Additionally, this section consisted of a Ward’s HAC attempt and a GMM clustering model to cluster quarterbacks. There was also some hyperparameter tuning to optimize the models. 
 
 The Complete Analysis and Presentation section was completed by the team as a whole. This consisted of comprehensive test set evaluation, feature importance analysis, interactive map visualization, and final documentation. 
+
+The worklog and workplan was largely completed by Hunter and Brett, with some smaller contributions from the entire team. This consisted of adding entries and sections to each once something was completed.
 
 ## References
 [^1]: Kitman Labs. “Predicting NFL Draft Success Using Machine Learning.” 2025.
