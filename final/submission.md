@@ -60,7 +60,7 @@ To summarize, we processed the data to only include skills positions, then norma
 In the work folder, all of our necessary code files can be found. The following outlines the purpose and what was completed in each Python notebook:
 1. CollegeFootballData.ipynb and nflreadpy.ipynb are the notebooks used to collect all of our data used, which were collected from CollegeFootballData.com and the nflreadpy package.
 2. merge.ipynb was the notebook used to merge both data sets collected so we can have one complete data set as well as some data cleaning.
-3. data_exploration.ipynb contains the code that was used to identify the amount of NA data points in each column as well as make visualizations to explore early trends in our data.
+3. data_exploration.ipynb contains the code that was used to identify the amount of NA data points in each column as well as make visualizations to explore early trends in our data, mostly looking at positional breakdown as well as conference and team breakdowns of all players in the data and those who were drafted.
 4. Principal_Component_Analysis.ipynb and pca_biplot.ipynb focus on reducing dimensionality in our data set and visualizing the trends in our simplified principal components.
 5. Initial_Modeling_IST_707_Final_Project.ipynb and gmm_model.ipynb are the two files that contain all the models and results that were used in our final analysis.
 
