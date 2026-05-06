@@ -57,6 +57,13 @@ To summarize, we processed the data to only include skills positions, then norma
 ## Supporting Files
 [Supporting Files](../work)
 
+In the work folder, all of our necessary code files can be found. The following outlines the purpose and what was completed in each Python notebook:
+1. CollegeFootballData.ipynb and nflreadpy.ipynb are the notebooks used to collect all of our data used, which were collected from CollegeFootballData.com and the nflreadpy package.
+2. merge.ipynb was the notebook used to merge both data sets collected so we can have one complete data set as well as some data cleaning.
+3. data_exploration.ipynb contains the code that was used to identify the amount of NA data points in each column as well as make visualizations to explore early trends in our data.
+4. Principal_Component_Analysis.ipynb and pca_biplot.ipynb focus on reducing dimensionality in our data set and visualizing the trends in our simplified principal components.
+5. Initial_Modeling_IST_707_Final_Project.ipynb and gmm_model.ipynb are the two files that contain all the models and results that were used in our final analysis.
+
 ## Results
 We performed 10 fold cross-validation (CV) hyperparameter tuning on our four base models with 11 component PCA across numerous numeric variables as explained above and 2 categorical variables: position & college conference. Different positions have different responsibilities on the field, so this will change how each PCA component will impact their overall performance in the NFL. For instance, PCA components that highlight passing stats are going to be more important for QBs, while those containing receiving stats are going to pertain more to WR & TE. Including college conferences allows the model to account for competition level, as players in the top conferences (ie the SEC & Big 10), are naturally going up against better players. This allows the model to identify that a player with 1000 receiving yards on a Big 10 team is much more impressive than a player with 1000 receiving yards on an Ivy League team because the opponents a Big 10 team plays is much better. 
 
